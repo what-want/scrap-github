@@ -1,0 +1,1263 @@
+❯ python scrap.py ./parent-of-popular.json
+./parent-of-popular.json
+570
+[1/570] openweave/openweave-core
+    written file: repositories-info.json 1
+[2/570] project-chip/connectedhomeip
+    stars_count is not equal to side info : 5710 != 5700
+    forks_count is not equal to side info : 1326 != 1300
+    written file: repositories-info.json 2
+[3/570] project-chip/zap
+    written file: repositories-info.json 3
+[4/570] andy31415/rs-value-plotter
+    written file: repositories-info.json 4
+[5/570] andy31415/rust-esp32-c3-demos
+    written file: repositories-info.json 5
+[6/570] andy31415/rust-cortex-m0-demos
+    written file: repositories-info.json 6
+[7/570] andy31415/rust-stm32f3-discovery-adc-heart-sensor
+    written file: repositories-info.json 7
+[8/570] andy31415/rust_stm32f411_demos
+    written file: repositories-info.json 8
+[9/570] andy31415/sublime-matter-docker-builder
+    written file: repositories-info.json 9
+[10/570] nestlabs/nlbuild-autotools
+    written file: repositories-info.json 10
+[11/570] vansante/github-pr-labeler
+    written file: repositories-info.json 11
+[12/570] GoogleCloudPlatform/cloud-build-samples
+    written file: repositories-info.json 12
+[13/570] mspang/inapt
+    written file: repositories-info.json 13
+[14/570] mspang/mntfs
+    written file: repositories-info.json 14
+[15/570] mspang/mkcrt
+    written file: repositories-info.json 15
+[16/570] neuros/u-boot
+    written file: repositories-info.json 16
+[17/570] catapult-project/catapult
+    stars_count is not equal to side info : 1829 != 1800
+    written file: repositories-info.json 17
+[18/570] Damian-Nordic/matter-tips
+    written file: repositories-info.json 18
+[19/570] zephyrproject-rtos/zephyr
+    stars_count is not equal to side info : 7293 != 7300
+    forks_count is not equal to side info : 4572 != 4600
+    written file: repositories-info.json 19
+[20/570] nrfconnect/sdk-nrf
+    written file: repositories-info.json 20
+[21/570] nrfconnect/sdk-nrfxlib
+    written file: repositories-info.json 21
+[22/570] nrfconnect/sdk-connectedhomeip
+    written file: repositories-info.json 22
+[23/570] openweave/happy
+    written file: repositories-info.json 23
+[24/570] openthread/openthread
+    stars_count is not equal to side info : 3075 != 3100
+    written file: repositories-info.json 24
+[25/570] Orange-OpenSource/pandoc-terminal-writer
+    written file: repositories-info.json 25
+[26/570] kpschoedel/actiontest
+    written file: repositories-info.json 26
+[27/570] kghost/bilibili-area-limit
+    written file: repositories-info.json 27
+[28/570] kghost/ics-openvpn
+    written file: repositories-info.json 28
+[29/570] lxqt/qterminal
+    written file: repositories-info.json 29
+[30/570] kghost/th123_toolset
+    written file: repositories-info.json 30
+[31/570] CyanogenMod/android_device_motorola_victara
+    written file: repositories-info.json 31
+[32/570] kghost/VirtualWebcam
+    written file: repositories-info.json 32
+[33/570] trezor/cython-hidapi
+    written file: repositories-info.json 33
+[34/570] kmackay/micro-ecc
+    stars_count is not equal to side info : 1067 != 1100
+    written file: repositories-info.json 34
+[35/570] openweave/openweave-esp32-demo
+    written file: repositories-info.json 35
+[36/570] zephyrproject-rtos/openthread
+    written file: repositories-info.json 36
+[37/570] zephyrproject-rtos/west
+    written file: repositories-info.json 37
+[38/570] tcarmelveilleux/dcc6502
+    written file: repositories-info.json 38
+[39/570] tcarmelveilleux/bmat8641
+    written file: repositories-info.json 39
+[40/570] tcarmelveilleux/EAGLE_tentech
+    written file: repositories-info.json 40
+[41/570] tcarmelveilleux/NixieClock
+    written file: repositories-info.json 41
+[42/570] smhanov/jzbuild
+    written file: repositories-info.json 42
+[43/570] tcarmelveilleux/coffeepi
+    written file: repositories-info.json 43
+[44/570] openweave/openweave-wdlc
+    written file: repositories-info.json 44
+[45/570] mrjerryjohns/weave-demo-apps
+    written file: repositories-info.json 45
+[46/570] mrjerryjohns/repl-docker
+    written file: repositories-info.json 46
+[47/570] SiliconLabs/Gecko_SDK_discontinued
+    written file: repositories-info.json 47
+[48/570] SiliconLabs/gecko_sdk
+    written file: repositories-info.json 48
+[49/570] hank820/ambd_sdk_with_chip_non_NDA
+    written file: repositories-info.json 49
+[50/570] hank820/ambz2_sdk
+    forks_count value changed : 11 <- 34
+    written file: repositories-info.json 50
+[51/570] apple/HomeKitADK
+    stars_count is not equal to side info : 2453 != 2500
+    written file: repositories-info.json 51
+[52/570] rgoliver/test
+    written file: repositories-info.json 52
+[53/570] NordicSemiconductor/pc-nrfutil
+    written file: repositories-info.json 53
+[54/570] arkq/bluez-alsa
+    written file: repositories-info.json 54
+[55/570] arkq/cmusfm
+    written file: repositories-info.json 55
+[56/570] arkq/openaptx
+    written file: repositories-info.json 56
+[57/570] arkq/flake8-requirements
+    written file: repositories-info.json 57
+[58/570] mgumz/alock
+    written file: repositories-info.json 58
+[59/570] arkq/kindle-env
+    written file: repositories-info.json 59
+[60/570] jeremyjh/ESP32_TFT_library
+    forks_count value changed : 22 <- 217
+    written file: repositories-info.json 60
+[61/570] sharadb-amazon/playground
+    written file: repositories-info.json 61
+[62/570] doru91/linux-stable
+    written file: repositories-info.json 62
+[63/570] doru91/RedmineIssues
+    written file: repositories-info.json 63
+[64/570] doru91/MPTCP_UML
+    written file: repositories-info.json 64
+[65/570] doru91/wcn36xx
+    written file: repositories-info.json 65
+[66/570] cooldudezach/android_kernel_zte_msm8930
+    written file: repositories-info.json 66
+[67/570] manjunath-grl/GitHooks
+    written file: repositories-info.json 67
+[68/570] kuju63/pre-commit-hooks-dotnet-core
+    written file: repositories-info.json 68
+[69/570] DovAmir/awesome-design-patterns
+    stars_count is not equal to side info : 28143 != 28100
+    forks_count is not equal to side info : 2276 != 2300
+    written file: repositories-info.json 69
+[70/570] facebook/watchman
+    stars_count is not equal to side info : 11533 != 11500
+    written file: repositories-info.json 70
+[71/570] krypton36/krypton36.github.io
+    written file: repositories-info.json 71
+[72/570] krypton36/Connect-Four
+    written file: repositories-info.json 72
+[73/570] krypton36/Klotski-Solver
+    written file: repositories-info.json 73
+[74/570] krypton36/data-structures-java
+    written file: repositories-info.json 74
+[75/570] openthread/ot-qorvo
+    written file: repositories-info.json 75
+[76/570] Qorvo/qpg-openthread
+    written file: repositories-info.json 76
+[77/570] espressif/esp-idf
+    stars_count is not equal to side info : 9981 != 10000
+    forks_count is not equal to side info : 6202 != 6200
+    written file: repositories-info.json 77
+[78/570] openthread/ot-nrf528xx
+    written file: repositories-info.json 78
+[79/570] openthread/ot-br-posix
+    written file: repositories-info.json 79
+[80/570] espressif/esp-matter
+    written file: repositories-info.json 80
+[81/570] espressif/arduino-esp32
+    stars_count is not equal to side info : 10167 != 10200
+    forks_count is not equal to side info : 6450 != 6500
+    written file: repositories-info.json 81
+[82/570] espressif/esp32-arduino-lib-builder
+    written file: repositories-info.json 82
+[83/570] sweetymhaiske/my-first-repo
+    written file: repositories-info.json 83
+[84/570] seankross/the-unix-workbench
+    stars_count is not equal to side info : 1204 != 1200
+    forks_count is not equal to side info : 2212 != 2200
+    written file: repositories-info.json 84
+[85/570] gerickson/opencflite
+    written file: repositories-info.json 85
+[86/570] gerickson/cstyle
+    written file: repositories-info.json 86
+[87/570] gerickson/openhlx
+    written file: repositories-info.json 87
+[88/570] gerickson/openhlx-ios
+    written file: repositories-info.json 88
+[89/570] gerickson/opencfnetwork
+    written file: repositories-info.json 89
+[90/570] dhrishi/rainmaker-ble-wifi-bridge
+    written file: repositories-info.json 90
+[91/570] kedars/xively-js
+    forks_count value changed : 1 <- 47
+    written file: repositories-info.json 91
+[92/570] knu0313/libxively
+    written file: repositories-info.json 92
+[93/570] rahulgm/aws_starter_sdk
+    written file: repositories-info.json 93
+[94/570] dhrishi/ez-connect-lite
+    written file: repositories-info.json 94
+[95/570] ARMmbed/mbed-os
+    stars_count is not equal to side info : 4286 != 4300
+    forks_count is not equal to side info : 2884 != 2900
+    written file: repositories-info.json 95
+[96/570] ARMmbed/wifi-ism43362
+    written file: repositories-info.json 96
+[97/570] mcu-tools/mcuboot
+    written file: repositories-info.json 97
+[98/570] ARMmbed/mbed-tools
+    written file: repositories-info.json 98
+[99/570] msandstedt/zcoap-pdu
+    written file: repositories-info.json 99
+[100/570] SmartThingsCommunity/SmartThingsPublic
+    stars_count is not equal to side info : 2459 != 2500
+    forks_count is not equal to side info : 91251 != 91300
+    written file: repositories-info.json 100
+[101/570] SiliconLabs/peripheral_examples
+    written file: repositories-info.json 101
+[102/570] csa-iot/data-model
+    written file: repositories-info.json 102
+[103/570] akesterson/shunit
+    written file: repositories-info.json 103
+[104/570] zigbee-alliance/distributed-compliance-ledger
+    written file: repositories-info.json 104
+[105/570] nxp-imx/meta-matter
+    written file: repositories-info.json 105
+[106/570] aws/amazon-freertos
+    stars_count is not equal to side info : 2526 != 2500
+    forks_count is not equal to side info : 1110 != 1100
+    written file: repositories-info.json 106
+[107/570] praveenCY/lwip
+    written file: repositories-info.json 107
+[108/570] Mbed-TLS/mbedtls
+    stars_count is not equal to side info : 4007 != 4000
+    forks_count is not equal to side info : 2204 != 2200
+    written file: repositories-info.json 108
+[109/570] markus-becker-tridonic-com/mbedtls-yotta
+    written file: repositories-info.json 109
+[110/570] ARMmbed/sal-iface-eth
+    written file: repositories-info.json 110
+[111/570] ARMmbed/sal-stack-lwip
+    written file: repositories-info.json 111
+[112/570] ARMmbed/yotta
+    written file: repositories-info.json 112
+[113/570] tridonic-com/st-nucleo-f091rc-gcc
+    written file: repositories-info.json 113
+[114/570] nrfconnect/sdk-zephyr
+    written file: repositories-info.json 114
+[115/570] agners/heartbleed_test_openvpn
+    written file: repositories-info.json 115
+[116/570] agners/archlinuxarm-docker
+    written file: repositories-info.json 116
+[117/570] agners/micropython-scd30
+    written file: repositories-info.json 117
+[118/570] agners/acdr
+    written file: repositories-info.json 118
+[119/570] agners/swiss-public-transport-card
+    written file: repositories-info.json 119
+[120/570] agners/switching-station
+    written file: repositories-info.json 120
+[121/570] LuDuda/google-iot-thread
+    written file: repositories-info.json 121
+[122/570] openthread/wpantund
+    written file: repositories-info.json 122
+[123/570] LuDuda/workshops_2021
+    written file: repositories-info.json 123
+[124/570] openthread/pyspinel
+    written file: repositories-info.json 124
+[125/570] openthread/ot-cc13x2-cc26x2
+    written file: repositories-info.json 125
+[126/570] openthread/ot-docs
+    written file: repositories-info.json 126
+[127/570] flutter/engine
+    stars_count is not equal to side info : 6434 != 6400
+    forks_count is not equal to side info : 5012 != 5000
+    written file: repositories-info.json 127
+[128/570] microsoft/IoT-For-Beginners
+    stars_count is not equal to side info : 11909 != 11900
+    forks_count is not equal to side info : 1665 != 1700
+    written file: repositories-info.json 128
+[129/570] google/pigweed
+    written file: repositories-info.json 129
+[130/570] jimlyall-q/qpg-connectedhomeip
+    written file: repositories-info.json 130
+[131/570] mykrupp/connectedhomeip-1
+    written file: repositories-info.json 131
+[132/570] SiliconLabs/sdk_support
+    written file: repositories-info.json 132
+[133/570] openthread/ot-ifx
+    written file: repositories-info.json 133
+[134/570] Infineon/OT-Matter-30739A0
+    written file: repositories-info.json 134
+[135/570] Infineon/OT-Matter-TARGET_CYW930739M2EVB-01
+    written file: repositories-info.json 135
+[136/570] hsusid/pub-test
+    written file: repositories-info.json 136
+[137/570] terafin/nextdns-proxy
+    written file: repositories-info.json 137
+[138/570] terafin/mqtt-unifi-protect-bridge
+    written file: repositories-info.json 138
+[139/570] terafin/mqtt-netatmo-bridge
+    written file: repositories-info.json 139
+[140/570] mzac/unifi-video-mqtt
+    written file: repositories-info.json 140
+[141/570] terafin/mqtt-tesla-bridge
+    written file: repositories-info.json 141
+[142/570] terafin/mqtt-alexa-bridge
+    written file: repositories-info.json 142
+[143/570] PSONALl/esp_sonali
+    written file: repositories-info.json 143
+[144/570] PSONALl/esp
+    written file: repositories-info.json 144
+[145/570] PSONALl/zap-templates
+    written file: repositories-info.json 145
+[146/570] shubhamdp/esp_ota
+    written file: repositories-info.json 146
+[147/570] bukepo/connectedhomeip-private
+    written file: repositories-info.json 147
+[148/570] openwrt/packages
+    stars_count is not equal to side info : 3367 != 3400
+    forks_count is not equal to side info : 3023 != 3000
+    written file: repositories-info.json 148
+[149/570] bukepo/vide
+    written file: repositories-info.json 149
+[150/570] pexpect/pexpect
+    stars_count is not equal to side info : 2328 != 2300
+    written file: repositories-info.json 150
+[151/570] riscv-non-isa/riscv-toolchain-conventions
+    written file: repositories-info.json 151
+[152/570] bouffalolab/connectedhomeip-1
+    forks_count value changed : 3 <- 1300
+    written file: repositories-info.json 152
+[153/570] kedars/matter-rs
+    written file: repositories-info.json 153
+[154/570] cesanta/frozen
+    written file: repositories-info.json 154
+[155/570] makerdiary/nrf52840-mdk-usb-dongle
+    written file: repositories-info.json 155
+[156/570] BroderickCarlin/openweather
+    written file: repositories-info.json 156
+[157/570] BroderickCarlin/stream_router
+    written file: repositories-info.json 157
+[158/570] a1ien/libusb-rs
+    forks_count value changed : 2 <- 62
+    written file: repositories-info.json 158
+[159/570] BroderickCarlin/AdventOfCode
+    written file: repositories-info.json 159
+[160/570] jithurjacob/Windows-10-Toast-Notifications
+    written file: repositories-info.json 160
+[161/570] Samsung/TizenRT
+    written file: repositories-info.json 161
+[162/570] vidhis88/Android
+    written file: repositories-info.json 162
+[163/570] vidhis88/ReturnApp
+    written file: repositories-info.json 163
+[164/570] TexasInstruments/matter
+    written file: repositories-info.json 164
+[165/570] TexasInstruments/ot-ti
+    written file: repositories-info.json 165
+[166/570] NXP/plug-and-trust
+    written file: repositories-info.json 166
+[167/570] NXPPlugNTrust/nano-package
+    written file: repositories-info.json 167
+[168/570] rikorsev/mocap-firmware
+    written file: repositories-info.json 168
+[169/570] rikorsev/http_server
+    written file: repositories-info.json 169
+[170/570] rochaferraz/FreeFontConverter
+    written file: repositories-info.json 170
+[171/570] rxi/log.c
+    stars_count is not equal to side info : 1787 != 1800
+    written file: repositories-info.json 171
+[172/570] rxi/map
+    written file: repositories-info.json 172
+[173/570] amankhoza/synergy-binaries
+    written file: repositories-info.json 173
+[174/570] sparkfun/SparkFun-Eagle-Libraries
+    stars_count is not equal to side info : 1667 != 1700
+    forks_count is not equal to side info : 1207 != 1200
+    written file: repositories-info.json 174
+[175/570] rochaferraz/log
+    written file: repositories-info.json 175
+[176/570] hubertmis/nRF-IEEE-802.15.4-radio-driver
+    written file: repositories-info.json 176
+[177/570] NordicSemiconductor/pc-nrfconnect-gettingstarted
+    written file: repositories-info.json 177
+[178/570] janusheide/bouillon
+    written file: repositories-info.json 178
+[179/570] unbit/sftpclone
+    written file: repositories-info.json 179
+[180/570] steinwurf/cpuid
+    written file: repositories-info.json 180
+[181/570] steinwurf/hex
+    written file: repositories-info.json 181
+[182/570] steinwurf/endian
+    written file: repositories-info.json 182
+[183/570] steinwurf/platform
+    written file: repositories-info.json 183
+[184/570] jimlyall-q/test-gen
+    written file: repositories-info.json 184
+[185/570] braice/MuMuDVB
+    written file: repositories-info.json 185
+[186/570] lboue/MuMuDVB-WebAdmin
+    written file: repositories-info.json 186
+[187/570] fitear/eve-ng
+    forks_count value changed : 7 <- 24
+    written file: repositories-info.json 187
+[188/570] carsonmcdonald/HTTP-Live-Video-Stream-Segmenter-and-Distributor
+    written file: repositories-info.json 188
+[189/570] ibc/nagios-sip-plugin
+    written file: repositories-info.json 189
+[190/570] budda/hc2-scenes
+    written file: repositories-info.json 190
+[191/570] darconeous/shattings
+    written file: repositories-info.json 191
+[192/570] wojtekka/6tunnel
+    written file: repositories-info.json 192
+[193/570] nestlabs/nlfaultinjection
+    written file: repositories-info.json 193
+[194/570] google-home/sample-app-for-matter-android
+    written file: repositories-info.json 194
+[195/570] FaqiangZhu-nxp/empty
+    written file: repositories-info.json 195
+[196/570] FaqiangZhu-nxp/blk_discard_test
+    written file: repositories-info.json 196
+[197/570] NordicSemiconductor/Android-nRF-Connect-Device-Manager
+    written file: repositories-info.json 197
+[198/570] erwinpan1/jagabee
+    written file: repositories-info.json 198
+[199/570] erwinpan1/study
+    written file: repositories-info.json 199
+[200/570] erwinpan1/onionring
+    written file: repositories-info.json 200
+[201/570] erwinpan1/ML100-Days
+    written file: repositories-info.json 201
+[202/570] dnicoara/dnicoara.github.io
+    written file: repositories-info.json 202
+[203/570] fish-shell/fish-shell
+    stars_count is not equal to side info : 20894 != 20900
+    forks_count is not equal to side info : 1684 != 1700
+    written file: repositories-info.json 203
+[204/570] thcu-gp/openthread
+    forks_count value changed : 1 <- 988
+    written file: repositories-info.json 204
+[205/570] JasonLiuZhuoCheng/Sorcery
+    written file: repositories-info.json 205
+[206/570] JasonLiuZhuoCheng/flappybird
+    written file: repositories-info.json 206
+[207/570] JasonLiuZhuoCheng/Insta
+    written file: repositories-info.json 207
+[208/570] JasonLiuZhuoCheng/todoList-front-end
+    written file: repositories-info.json 208
+[209/570] JasonLiuZhuoCheng/todoList-back-end
+    written file: repositories-info.json 209
+[210/570] felangel/bloc
+    stars_count is not equal to side info : 10109 != 10100
+    forks_count is not equal to side info : 3112 != 3100
+    written file: repositories-info.json 210
+[211/570] jonsmirl/mpc5200
+    written file: repositories-info.json 211
+[212/570] jonsmirl/cam
+    written file: repositories-info.json 212
+[213/570] jonsmirl/packages
+    written file: repositories-info.json 213
+[214/570] jonsmirl/mpc5200-uBoot
+    written file: repositories-info.json 214
+[215/570] torvalds/linux
+    stars_count is not equal to side info : 146382 != 146000
+    forks_count is not equal to side info : 46752 != 46800
+    written file: repositories-info.json 215
+[216/570] jonsmirl/lpc31xx-uboot
+    written file: repositories-info.json 216
+[217/570] NordicSemiconductor/nRF-Sniffer-for-802.15.4
+    written file: repositories-info.json 217
+[218/570] e-rk/st
+    written file: repositories-info.json 218
+[219/570] e-rk/dwm
+    written file: repositories-info.json 219
+[220/570] e-rk/dmenu
+    written file: repositories-info.json 220
+[221/570] Qorvo/QMatter
+    written file: repositories-info.json 221
+[222/570] Alamot/code-snippets
+    written file: repositories-info.json 222
+[223/570] DaveGamble/cJSON
+    stars_count is not equal to side info : 8442 != 8400
+    forks_count is not equal to side info : 2845 != 2800
+    written file: repositories-info.json 223
+[224/570] kvikrambhat/BlazorStateExploration
+    written file: repositories-info.json 224
+[225/570] kvikrambhat/git-hooks
+    written file: repositories-info.json 225
+[226/570] kvikrambhat/100Alogs
+    written file: repositories-info.json 226
+[227/570] SmartThingsCommunity/st-device-sdk-c-ref
+    written file: repositories-info.json 227
+[228/570] SmartThingsCommunity/st-device-sdk-c
+    written file: repositories-info.json 228
+[229/570] Azure/iotedge
+    stars_count is not equal to side info : 1386 != 1400
+    written file: repositories-info.json 229
+[230/570] lf-edge/edge-home-orchestration-go
+    written file: repositories-info.json 230
+[231/570] markaj-nordic/matter-webinar
+    written file: repositories-info.json 231
+[232/570] nrfconnect/sdk-hostap
+    written file: repositories-info.json 232
+[233/570] randyrossi/bmc64
+    written file: repositories-info.json 233
+[234/570] randyrossi/vicii-kawari
+    written file: repositories-info.json 234
+[235/570] randyrossi/fisher-modem
+    written file: repositories-info.json 235
+[236/570] randyrossi/c64-games-menu
+    written file: repositories-info.json 236
+[237/570] randyrossi/arduino_dram4164_tester
+    written file: repositories-info.json 237
+[238/570] randyrossi/carousel
+    written file: repositories-info.json 238
+[239/570] Samsung/tizen-docs
+    written file: repositories-info.json 239
+[240/570] Samsung/TizenFX
+    written file: repositories-info.json 240
+[241/570] hyunuktak/hello-github-actions
+    written file: repositories-info.json 241
+[242/570] hadolint/hadolint
+    stars_count is not equal to side info : 8169 != 8200
+    written file: repositories-info.json 242
+[243/570] Comcast/libcertifier
+    written file: repositories-info.json 243
+[244/570] ethayer/lock-manager
+    written file: repositories-info.json 244
+[245/570] MtTsai/training
+    written file: repositories-info.json 245
+[246/570] MtTsai/Micro_OS
+    written file: repositories-info.json 246
+[247/570] RIOT-OS/RIOT
+    stars_count is not equal to side info : 4367 != 4400
+    forks_count is not equal to side info : 1870 != 1900
+    written file: repositories-info.json 247
+[248/570] hugovincent/mbed-freertos
+    written file: repositories-info.json 248
+[249/570] minetest/minetest
+    stars_count is not equal to side info : 8442 != 8400
+    forks_count is not equal to side info : 1738 != 1700
+    written file: repositories-info.json 249
+[250/570] tdrozdovskiy/crib
+    written file: repositories-info.json 250
+[251/570] OpenNuvoton/M2351BSP
+    written file: repositories-info.json 251
+[252/570] standard/.github
+    written file: repositories-info.json 252
+[253/570] nnstreamer/nnstreamer
+    written file: repositories-info.json 253
+[254/570] openweave/openweave-schema-vendor-common
+    written file: repositories-info.json 254
+[255/570] stoneM2017/egg-rabbitmq
+    written file: repositories-info.json 255
+[256/570] deviantony/docker-elk
+    stars_count is not equal to side info : 14659 != 14700
+    forks_count is not equal to side info : 6083 != 6100
+    written file: repositories-info.json 256
+[257/570] bitsensor/elastalert
+    written file: repositories-info.json 257
+[258/570] krizsan/elastalert-docker
+    written file: repositories-info.json 258
+[259/570] anjia0532/elastalert-docker
+    written file: repositories-info.json 259
+[260/570] apache/airflow
+    stars_count is not equal to side info : 29188 != 29200
+    forks_count is not equal to side info : 11948 != 11900
+    written file: repositories-info.json 260
+[261/570] lmpprk/daikin_ha_wifi_control
+    written file: repositories-info.json 261
+[262/570] panliming-tuya/NotchScreenTool
+    written file: repositories-info.json 262
+[263/570] panliming-tuya/smarxpan.github.io
+    written file: repositories-info.json 263
+[264/570] panliming-tuya/LearnAndroidArchitectureComponents
+    written file: repositories-info.json 264
+[265/570] yscoder/hexo-theme-indigo
+    stars_count is not equal to side info : 2755 != 2800
+    written file: repositories-info.json 265
+[266/570] eclipse/paho.mqtt.java
+    stars_count is not equal to side info : 1823 != 1800
+    written file: repositories-info.json 266
+[267/570] TuyaInc/tuyasmart_android_activator_sdk
+    written file: repositories-info.json 267
+[268/570] tewarid/node-tcp-proxy
+    written file: repositories-info.json 268
+[269/570] tewarid/node-tcp-relay
+    written file: repositories-info.json 269
+[270/570] tewarid/docker-pandoc
+    written file: repositories-info.json 270
+[271/570] tewarid/dotnet-tools
+    written file: repositories-info.json 271
+[272/570] tewarid/atmega32u4-usb-serial
+    written file: repositories-info.json 272
+[273/570] tewarid/wireshark-nordic-ble-lua
+    written file: repositories-info.json 273
+[274/570] espressif/esp-iot-solution
+    stars_count is not equal to side info : 1391 != 1400
+    forks_count is not equal to side info : 627 != 626
+    written file: repositories-info.json 274
+[275/570] Samsung/Tizen-CSharp-Samples
+    written file: repositories-info.json 275
+[276/570] wootak-jung/hello-world
+    written file: repositories-info.json 276
+[277/570] nui-dali/NUITizenGallery
+    written file: repositories-info.json 277
+[278/570] du48s03/AWSOME-TF2-DATA-SCANNER
+    written file: repositories-info.json 278
+[279/570] du48s03/space-shooter
+    written file: repositories-info.json 279
+[280/570] du48s03/Power_law_analysis
+    written file: repositories-info.json 280
+[281/570] du48s03/Hello-World
+    written file: repositories-info.json 281
+[282/570] du48s03/Hello
+    written file: repositories-info.json 282
+[283/570] octocat/Spoon-Knife
+    stars_count is not equal to side info : 11521 != 11500
+    forks_count is not equal to side info : 133297 != 133000
+    written file: repositories-info.json 283
+[284/570] SiliconLabs/wiseconnect-wifi-bt-sdk
+    written file: repositories-info.json 284
+[285/570] piscisaureus/wepoll
+    written file: repositories-info.json 285
+[286/570] truebiker/datasciencecoursera
+    written file: repositories-info.json 286
+[287/570] jtleek/datasharing
+    stars_count is not equal to side info : 6250 != 6300
+    forks_count is not equal to side info : 242358 != 242000
+    written file: repositories-info.json 287
+[288/570] rdpeng/ProgrammingAssignment2
+    forks_count is not equal to side info : 141954 != 142000
+    written file: repositories-info.json 288
+[289/570] truebiker/storages
+    written file: repositories-info.json 289
+[290/570] DrumMachineLearning/git-practice
+    written file: repositories-info.json 290
+[291/570] UPRM-CIIC4010-S17/lab3-FernandoLGuzman
+    written file: repositories-info.json 291
+[292/570] FernandoLGuzman/DB_Project
+    written file: repositories-info.json 292
+[293/570] JDRamos15/DnDAssistant
+    written file: repositories-info.json 293
+[294/570] Infineon/amazon-freertos
+    written file: repositories-info.json 294
+[295/570] mburshteyn1/DUKPT
+    written file: repositories-info.json 295
+[296/570] mburshteyn1/Kal
+    written file: repositories-info.json 296
+[297/570] mburshteyn1/Convert
+    written file: repositories-info.json 297
+[298/570] mburshteyn1/MBCollectionView
+    written file: repositories-info.json 298
+[299/570] SVProgressHUD/SVProgressHUD
+    stars_count is not equal to side info : 12366 != 12400
+    forks_count is not equal to side info : 2583 != 2600
+    written file: repositories-info.json 299
+[300/570] CocoaPods/Specs
+    stars_count is not equal to side info : 6530 != 6500
+    forks_count is not equal to side info : 9132 != 9100
+    written file: repositories-info.json 300
+[301/570] nxptest/mw320_sdk
+    written file: repositories-info.json 301
+[302/570] shgutte/MatterLockOverMG24_WF200
+    written file: repositories-info.json 302
+[303/570] zephyrproject-rtos/hal_infineon
+    written file: repositories-info.json 303
+[304/570] SiliconLabs/matter_extension
+    written file: repositories-info.json 304
+[305/570] g-truc/glm
+    stars_count is not equal to side info : 7216 != 7200
+    forks_count is not equal to side info : 1759 != 1900
+    written file: repositories-info.json 305
+[306/570] linux-sunxi/meta-sunxi
+    forks_count is not equal to side info : 161 != 182
+    written file: repositories-info.json 306
+[307/570] InkubatorTieto/melvil
+    written file: repositories-info.json 307
+[308/570] SoMLabs/somlabs-buildroot
+    written file: repositories-info.json 308
+[309/570] brocaar/sx1302_hal
+    forks_count value changed : 3 <- 208
+    written file: repositories-info.json 309
+[310/570] randomplum/stm32f
+    written file: repositories-info.json 310
+[311/570] psurply/ReGAL
+    written file: repositories-info.json 311
+[312/570] google/oss-fuzz
+    stars_count is not equal to side info : 8383 != 8400
+    forks_count is not equal to side info : 1826 != 1800
+    written file: repositories-info.json 312
+[313/570] lcj446068124/WallpaperSetter
+    written file: repositories-info.json 313
+[314/570] lcj446068124/-coolweather
+    written file: repositories-info.json 314
+[315/570] lcj446068124/javamanlabs
+    written file: repositories-info.json 315
+[316/570] lcj446068124/IOT1
+    written file: repositories-info.json 316
+[317/570] lcj446068124/IOT2
+    written file: repositories-info.json 317
+[318/570] 0x1abin/MultiButton
+    written file: repositories-info.json 318
+[319/570] chiragatal/temp_uploads
+    written file: repositories-info.json 319
+[320/570] chiragatal/esp-zerocode
+    written file: repositories-info.json 320
+[321/570] chiragatal/esp-aia
+    written file: repositories-info.json 321
+[322/570] CESARBR/corona-mission
+    written file: repositories-info.json 322
+[323/570] bluez/bluez
+    written file: repositories-info.json 323
+[324/570] hubTab/egt
+    written file: repositories-info.json 324
+[325/570] wehale/songs
+    written file: repositories-info.json 325
+[326/570] wehale/hig
+    written file: repositories-info.json 326
+[327/570] SiliconLabs/java_packet_trace_library
+    written file: repositories-info.json 327
+[328/570] wehale/spelling-bee
+    written file: repositories-info.json 328
+[329/570] ThrowTheSwitch/Unity
+    stars_count is not equal to side info : 2872 != 2900
+    written file: repositories-info.json 329
+[330/570] stevedonovan/mosquitto-client
+    written file: repositories-info.json 330
+[331/570] jsloth/marlin
+    written file: repositories-info.json 331
+[332/570] kentora/renoweb-legacy
+    written file: repositories-info.json 332
+[333/570] smartish-home/erocm123.SmartThingsPublic
+    written file: repositories-info.json 333
+[334/570] google/googletest
+    stars_count is not equal to side info : 29030 != 29000
+    forks_count is not equal to side info : 9117 != 9100
+    written file: repositories-info.json 334
+[335/570] quiet/quiet-lwip
+    written file: repositories-info.json 335
+[336/570] PetruSicoe/Python101-GameProject
+    written file: repositories-info.json 336
+[337/570] PetruSicoe/Proiect_PM_2021
+    written file: repositories-info.json 337
+[338/570] ShubhamMalasane/ShubhamMalasane
+    written file: repositories-info.json 338
+[339/570] EthanJWright/dotfiles
+    written file: repositories-info.json 339
+[340/570] PLVision/ovsdb-client
+    written file: repositories-info.json 340
+[341/570] dbalatero/VimMode.spoon
+    written file: repositories-info.json 341
+[342/570] evilsocket/pwnagotchi
+    stars_count is not equal to side info : 5513 != 5500
+    written file: repositories-info.json 342
+[343/570] schollz/progressbar
+    stars_count is not equal to side info : 3117 != 3100
+    written file: repositories-info.json 343
+[344/570] j8xixo12/QuantFinance
+    written file: repositories-info.json 344
+[345/570] j8xixo12/Stm32-Bootloader
+    written file: repositories-info.json 345
+[346/570] cambecc/earth
+    stars_count is not equal to side info : 4778 != 4800
+    forks_count is not equal to side info : 1059 != 1100
+    written file: repositories-info.json 346
+[347/570] nasa/trick
+    written file: repositories-info.json 347
+[348/570] dungru/P.E.K.K.A
+    written file: repositories-info.json 348
+[349/570] progranism/stm32f4-gcc-template
+    written file: repositories-info.json 349
+[350/570] pakls/lanspeed
+    written file: repositories-info.json 350
+[351/570] pakls/civil-manual-tw
+    written file: repositories-info.json 351
+[352/570] pakls/qdot
+    written file: repositories-info.json 352
+[353/570] pakls/emu8051
+    written file: repositories-info.json 353
+[354/570] pakls/teraterm-ttssh2
+    written file: repositories-info.json 354
+[355/570] pakls/minicli
+    written file: repositories-info.json 355
+[356/570] zhengyaohan/zheng
+    written file: repositories-info.json 356
+[357/570] bekencorp/armino
+    written file: repositories-info.json 357
+[358/570] KyleBastien/DominoEffect
+    written file: repositories-info.json 358
+[359/570] AlexPygin/TerminalSetup
+    written file: repositories-info.json 359
+[360/570] ARMmbed/mbed-os-tools
+    written file: repositories-info.json 360
+[361/570] petroakzhygitov/nest-ios-sdk
+    written file: repositories-info.json 361
+[362/570] petroakzhygitov/VGTS2MP4
+    written file: repositories-info.json 362
+[363/570] twitter-archive/CocoaSPDY
+    written file: repositories-info.json 363
+[364/570] venmo/VENTokenField
+    written file: repositories-info.json 364
+[365/570] jsonmodel/jsonmodel
+    stars_count is not equal to side info : 6856 != 6900
+    forks_count is not equal to side info : 1071 != 1100
+    written file: repositories-info.json 365
+[366/570] prasad-alatkar/prasad-edits
+    written file: repositories-info.json 366
+[367/570] mahavirj/esp-bootstrap
+    written file: repositories-info.json 367
+[368/570] apache/mynewt-nimble
+    written file: repositories-info.json 368
+[369/570] zero-to-mastery/travel-guide
+    written file: repositories-info.json 369
+[370/570] shinchan-bot/smart-brain-api
+    written file: repositories-info.json 370
+[371/570] shinchan-bot/smart-brain-frontend
+    written file: repositories-info.json 371
+[372/570] shinchan-bot/phone-directory
+    written file: repositories-info.json 372
+[373/570] shinchan-bot/zenith19
+    written file: repositories-info.json 373
+[374/570] saagarverma1234/Zenith-19
+    written file: repositories-info.json 374
+[375/570] tpmanley/conferences
+    written file: repositories-info.json 375
+[376/570] rbrady/django-bootstrapped
+    written file: repositories-info.json 376
+[377/570] posborne/Anvil
+    written file: repositories-info.json 377
+[378/570] tpmanley/protocol-diagrams
+    written file: repositories-info.json 378
+[379/570] tpmanley/maxsonar
+    written file: repositories-info.json 379
+[380/570] tpmanley/pymissile
+    written file: repositories-info.json 380
+[381/570] Kxuan/AndroidSensorOnPcBrowesr
+    written file: repositories-info.json 381
+[382/570] Kxuan/dnspod-ddns
+    written file: repositories-info.json 382
+[383/570] Kxuan/event_list
+    written file: repositories-info.json 383
+[384/570] Kxuan/RtcCentralServer
+    written file: repositories-info.json 384
+[385/570] Kxuan/transparent_http_proxy
+    written file: repositories-info.json 385
+[386/570] Kxuan/ringzer0
+    written file: repositories-info.json 386
+[387/570] hoobs-org/cli
+    written file: repositories-info.json 387
+[388/570] alexa-labs/skill-workshop-smart-city
+    written file: repositories-info.json 388
+[389/570] seb-fae/imx6ul-14x14-evk-wf200-Yocto-integration
+    written file: repositories-info.json 389
+[390/570] seb-fae/pilot-wire-zero-crossing
+    written file: repositories-info.json 390
+[391/570] seb-fae/zigbee-host-code-snippet
+    written file: repositories-info.json 391
+[392/570] seb-fae/NCP-Zigbee-Secure-Element
+    written file: repositories-info.json 392
+[393/570] seb-fae/efr32xg2x-infrared
+    written file: repositories-info.json 393
+[394/570] seb-fae/efr32mg2x-em4-zigbee-SED
+    written file: repositories-info.json 394
+[395/570] AnotherIndieDevStudio/Coopgamemaking-01
+    written file: repositories-info.json 395
+[396/570] DMOJ/judge-server
+    written file: repositories-info.json 396
+[397/570] milezhacks/libsharedexample
+    written file: repositories-info.json 397
+[398/570] milezhacks/appexample
+    written file: repositories-info.json 398
+[399/570] tpudlik/hydroponics
+    written file: repositories-info.json 399
+[400/570] tpudlik/RaspAC
+    written file: repositories-info.json 400
+[401/570] tpudlik/sbf
+    written file: repositories-info.json 401
+[402/570] tpudlik/Graphene-nanoribbons
+    written file: repositories-info.json 402
+[403/570] tpudlik/Birdfeeder
+    written file: repositories-info.json 403
+[404/570] tpudlik/bioprinter_arduino
+    written file: repositories-info.json 404
+[405/570] SamsungSLAV/muxpi
+    written file: repositories-info.json 405
+[406/570] ROBOTIS-GIT/OpenCR
+    written file: repositories-info.json 406
+[407/570] tern-tools/tern
+    written file: repositories-info.json 407
+[408/570] nexB/scancode.io
+    written file: repositories-info.json 408
+[409/570] nexB/fetchcode
+    written file: repositories-info.json 409
+[410/570] nexB/scancode-toolkit
+    stars_count is not equal to side info : 1642 != 1600
+    written file: repositories-info.json 410
+[411/570] rdkcentral/rdkservices
+    written file: repositories-info.json 411
+[412/570] nestlabs/nlutilities
+    written file: repositories-info.json 412
+[413/570] nestlabs/nlassert
+    written file: repositories-info.json 413
+[414/570] project-generator/project_generator_definitions
+    written file: repositories-info.json 414
+[415/570] ARMmbed/sockets
+    written file: repositories-info.json 415
+[416/570] ARMmbed/sal
+    written file: repositories-info.json 416
+[417/570] adbridge/jira-test-repo
+    written file: repositories-info.json 417
+[418/570] ARMmbed/mbed-hal
+    written file: repositories-info.json 418
+[419/570] RoyAnupam/cool_codes
+    written file: repositories-info.json 419
+[420/570] CarolineToc/polycomp_display_driver
+    written file: repositories-info.json 420
+[421/570] jsommers/switchyard
+    written file: repositories-info.json 421
+[422/570] cjswedes/world-hello
+    written file: repositories-info.json 422
+[423/570] cjswedes/real-wear
+    written file: repositories-info.json 423
+[424/570] crossbario/autobahn-testsuite
+    written file: repositories-info.json 424
+[425/570] chkimes/graphql-net
+    written file: repositories-info.json 425
+[426/570] chkimes/arbitrary-async-return-nullable
+    written file: repositories-info.json 426
+[427/570] chkimes/bashrc
+    written file: repositories-info.json 427
+[428/570] chkimes/actions-ssh
+    written file: repositories-info.json 428
+[429/570] chkimes/codecamp-mvvmcross
+    written file: repositories-info.json 429
+[430/570] chkimes/rlox
+    written file: repositories-info.json 430
+[431/570] KrypticCliff/PhotoRec-Extension-Sorter
+    written file: repositories-info.json 431
+[432/570] KrypticCliff/OptiMac
+    written file: repositories-info.json 432
+[433/570] KrypticCliff/Inventory-Scanner
+    written file: repositories-info.json 433
+[434/570] KrypticCliff/LIDAR-Scan-Generator
+    written file: repositories-info.json 434
+[435/570] BVLC/caffe
+    stars_count is not equal to side info : 33133 != 33100
+    forks_count is not equal to side info : 18981 != 19000
+    written file: repositories-info.json 435
+[436/570] KrypticCliff/OpenCV-Counter
+    written file: repositories-info.json 436
+[437/570] DamKast/chip-build-crosscompile-armhf
+    written file: repositories-info.json 437
+[438/570] DamKast/chip-wheels-armhf
+    written file: repositories-info.json 438
+[439/570] home-assistant-libs/chip-wheels
+    written file: repositories-info.json 439
+[440/570] llllVIIII/ulog
+    written file: repositories-info.json 440
+[441/570] llllVIIII/dotfiles
+    written file: repositories-info.json 441
+[442/570] llllVIIII/nrf52-app
+    written file: repositories-info.json 442
+[443/570] llllVIIII/ulog-bench-app
+    written file: repositories-info.json 443
+[444/570] thlorenz/chromium-build
+    written file: repositories-info.json 444
+[445/570] emontnemery/domoticz_mqtt_discovery
+    written file: repositories-info.json 445
+[446/570] emontnemery/hatasmota
+    written file: repositories-info.json 446
+[447/570] home-assistant/core
+    stars_count is not equal to side info : 58182 != 58200
+    forks_count is not equal to side info : 22035 != 22000
+    written file: repositories-info.json 447
+[448/570] emontnemery/domoticz_kamstrup_mqtt
+    written file: repositories-info.json 448
+[449/570] home-assistant/frontend
+    stars_count is not equal to side info : 2922 != 2900
+    forks_count is not equal to side info : 1934 != 1900
+    written file: repositories-info.json 449
+[450/570] tasmota/docs
+    written file: repositories-info.json 450
+[451/570] fengli/alipay_python
+    written file: repositories-info.json 451
+[452/570] fengli/autocomplete-redis
+    written file: repositories-info.json 452
+[453/570] fengli/ikindle_recipe
+    written file: repositories-info.json 453
+[454/570] fengli/fabfile-deploy
+    written file: repositories-info.json 454
+[455/570] omab/django-social-auth
+    stars_count is not equal to side info : 2630 != 2600
+    written file: repositories-info.json 455
+[456/570] fengli/ikandou.douban
+    written file: repositories-info.json 456
+[457/570] ARMmbed/mbed-os-5-docs
+    written file: repositories-info.json 457
+[458/570] ARMmbed/mbed-os-examples-docs_only
+    written file: repositories-info.json 458
+[459/570] ARMmbed/fpga-ci-test-shield-updater
+    written file: repositories-info.json 459
+[460/570] ARMmbed/fpga-ci-test-shield
+    written file: repositories-info.json 460
+[461/570] ARMmbed/mbed-os-example-attestation
+    written file: repositories-info.json 461
+[462/570] WAvdBeek/CoAPthon3
+    forks_count value changed : 1 <- 45
+    written file: repositories-info.json 462
+[463/570] FrankZRS/stock_trading
+    written file: repositories-info.json 463
+[464/570] FrankZRS/Champions_League_Draw_Simulator
+    written file: repositories-info.json 464
+[465/570] iotivity/iotivity-lite
+    written file: repositories-info.json 465
+[466/570] verdaccio/verdaccio
+    stars_count is not equal to side info : 14433 != 14400
+    forks_count is not equal to side info : 1284 != 1300
+    written file: repositories-info.json 466
+[467/570] ayalus/ExoPlayer-2-Example
+    written file: repositories-info.json 467
+[468/570] guylevin/octave-docker
+    written file: repositories-info.json 468
+[469/570] MohGovIL/hamagen-react-native
+    written file: repositories-info.json 469
+[470/570] guylevin/smart-home-micropython
+    written file: repositories-info.json 470
+[471/570] guylevin/react-dev-container
+    written file: repositories-info.json 471
+[472/570] proppy/gorogoro
+    written file: repositories-info.json 472
+[473/570] GoogleCloudPlatform/rad-lab
+    written file: repositories-info.json 473
+[474/570] proppy/cros-sdk-docker
+    written file: repositories-info.json 474
+[475/570] proppy/tiny_user_project
+    written file: repositories-info.json 475
+[476/570] babydock/milkymist-democompo
+    written file: repositories-info.json 476
+[477/570] android/ndk-samples
+    stars_count is not equal to side info : 9310 != 9300
+    forks_count is not equal to side info : 4087 != 4100
+    written file: repositories-info.json 477
+[478/570] nrfconnect/sdk-mcuboot
+    written file: repositories-info.json 478
+[479/570] apache/mynewt-mcumgr
+    written file: repositories-info.json 479
+[480/570] krzysztofziobro/substrate-karaoke
+    written file: repositories-info.json 480
+[481/570] krzysztofziobro/substrate-casino
+    written file: repositories-info.json 481
+[482/570] LawrenceQuarshie/demo-repo
+    written file: repositories-info.json 482
+[483/570] LawrenceQuarshie/LawrenceQuarshie
+    written file: repositories-info.json 483
+[484/570] LawrenceQuarshie/curriculum-repo
+    written file: repositories-info.json 484
+[485/570] LawrenceQuarshie/100DaysOfJavaScript
+    written file: repositories-info.json 485
+[486/570] LawrenceQuarshie/100DaysOfPython
+    written file: repositories-info.json 486
+[487/570] LawrenceQuarshie/TestMATLAB
+    written file: repositories-info.json 487
+[488/570] LeelakumarPS/dummy_repo
+    written file: repositories-info.json 488
+[489/570] SOCI/soci
+    stars_count is not equal to side info : 1195 != 1200
+    written file: repositories-info.json 489
+[490/570] Litome/test
+    written file: repositories-info.json 490
+[491/570] Litome/unwindSegue
+    written file: repositories-info.json 491
+[492/570] fastlane-community/fastlane-plugin-validate_app
+    written file: repositories-info.json 492
+[493/570] fastlane/fastlane
+    stars_count is not equal to side info : 36458 != 36500
+    forks_count is not equal to side info : 5413 != 5400
+    written file: repositories-info.json 493
+[494/570] azure-rtos/threadx
+    stars_count is not equal to side info : 1591 != 1600
+    written file: repositories-info.json 494
+[495/570] home-assistant-libs/python-matter-server
+    written file: repositories-info.json 495
+[496/570] jmmb13/vim_config
+    written file: repositories-info.json 496
+[497/570] jmmb13/tmux.conf
+    written file: repositories-info.json 497
+[498/570] nestlabs/nlio
+    written file: repositories-info.json 498
+[499/570] google/comprehensive-rust
+    stars_count is not equal to side info : 9258 != 9300
+    written file: repositories-info.json 499
+[500/570] falay/CrackOpenSSLKey
+    written file: repositories-info.json 500
+[501/570] falay/Index-Calculus-attack-for-ECDLP-on-binary-curve
+    written file: repositories-info.json 501
+[502/570] falay/SHA3
+    written file: repositories-info.json 502
+[503/570] falay/hwGradingTool
+    written file: repositories-info.json 503
+[504/570] falay/Simple-Shell
+    written file: repositories-info.json 504
+[505/570] falay/Simple-Web-Server
+    written file: repositories-info.json 505
+[506/570] iogorodov/odometer
+    forks_count value changed : 2 <- 738
+    written file: repositories-info.json 506
+[507/570] mikaelhm/MTS-LaTeX-Arrows
+    written file: repositories-info.json 507
+[508/570] mikaelhm/GeoApp
+    written file: repositories-info.json 508
+[509/570] mikaelhm/VeT-ller
+    written file: repositories-info.json 509
+[510/570] mikaelhm/cheerBot
+    written file: repositories-info.json 510
+[511/570] mikaelhm/angular-countdown-timer
+    written file: repositories-info.json 511
+[512/570] oidebrett/PythonTraining
+    written file: repositories-info.json 512
+[513/570] oidebrett/lccswebsites
+    written file: repositories-info.json 513
+[514/570] Co-Epi/coepi-backend-aws
+    forks_count is not equal to side info : 14 != 19
+    written file: repositories-info.json 514
+[515/570] getmoto/moto
+    stars_count is not equal to side info : 6652 != 6700
+    forks_count is not equal to side info : 1797 != 1800
+    written file: repositories-info.json 515
+[516/570] oidebrett/S3-Object-Lambda
+    written file: repositories-info.json 516
+[517/570] mrroberts-mslt/Computer-Science-for-Leaving-Certificate-Solutions
+    written file: repositories-info.json 517
+[518/570] ElanDriver/Sparrow
+    written file: repositories-info.json 518
+[519/570] ritikananda27/prepleetcode
+    written file: repositories-info.json 519
+[520/570] ritikananda27/UnidirectionalExample
+    written file: repositories-info.json 520
+[521/570] Rob-Houtepen-Signify/test_enter_issue
+    written file: repositories-info.json 521
+[522/570] robertfarnum/MyBeacon
+    written file: repositories-info.json 522
+[523/570] brentley/ecsdemo-platform
+    forks_count is not equal to side info : 2430 != 2400
+    written file: repositories-info.json 523
+[524/570] brentley/ecsdemo-frontend
+    forks_count is not equal to side info : 2654 != 2700
+    written file: repositories-info.json 524
+[525/570] brentley/ecsdemo-nodejs
+    forks_count is not equal to side info : 3683 != 3700
+    written file: repositories-info.json 525
+[526/570] brentley/ecsdemo-crystal
+    forks_count is not equal to side info : 2444 != 2400
+    written file: repositories-info.json 526
+[527/570] robertfarnum/hello
+    written file: repositories-info.json 527
+[528/570] jgke/gnome-extension-connman
+    written file: repositories-info.json 528
+[529/570] ConnectSDK/Connect-SDK-Android-API-Sampler
+    written file: repositories-info.json 529
+[530/570] ConnectSDK/Connect-SDK-Cordova-API-Sampler
+    written file: repositories-info.json 530
+[531/570] ConnectSDK/Connect-SDK-Cordova-Plugin
+    written file: repositories-info.json 531
+[532/570] ConnectSDK/Connect-SDK-Android-Core
+    written file: repositories-info.json 532
+[533/570] ConnectSDK/Connect-SDK-Android
+    written file: repositories-info.json 533
+[534/570] yhoyoon/yhoyoon.github.io
+    written file: repositories-info.json 534
+[535/570] SmartThingsCommunity/SmartThingsEdgeDrivers
+    written file: repositories-info.json 535
+[536/570] pigletz2/br2_pi2
+    written file: repositories-info.json 536
+[537/570] grpc/grpc
+    stars_count is not equal to side info : 37060 != 37100
+    forks_count is not equal to side info : 9755 != 9800
+    written file: repositories-info.json 537
+[538/570] Freescale/fsl-community-bsp-base
+    written file: repositories-info.json 538
+[539/570] SiliconLabs/cpc-daemon
+    written file: repositories-info.json 539
+[540/570] crlonxp/meta-matter
+    written file: repositories-info.json 540
+[541/570] nxptest/connectedhomeip
+    forks_count value changed : 1 <- 1300
+    written file: repositories-info.json 541
+[542/570] hidaris/thingtalk
+    written file: repositories-info.json 542
+[543/570] hidaris/thinking-dumps
+    written file: repositories-info.json 543
+[544/570] hidaris/webthing-nlp
+    written file: repositories-info.json 544
+[545/570] hidaris/webthing-zigbee
+    written file: repositories-info.json 545
+[546/570] hidaris/homeassistant-webthing
+    written file: repositories-info.json 546
+[547/570] hidaris/racket-mqtt
+    written file: repositories-info.json 547
+[548/570] alexa-samples/alexa-oauth-sample
+    written file: repositories-info.json 548
+[549/570] mfucci/node-matter
+    written file: repositories-info.json 549
+[550/570] mfucci/keeplocal
+    written file: repositories-info.json 550
+[551/570] TrustedPlus/dhcp
+    written file: repositories-info.json 551
+[552/570] mfucci/vendor-lookup
+    written file: repositories-info.json 552
+[553/570] project-chip/matter.js
+    written file: repositories-info.json 553
+[554/570] userver-framework/userver
+    stars_count is not equal to side info : 1530 != 1500
+    written file: repositories-info.json 554
+[555/570] shripad621git/cv
+    written file: repositories-info.json 555
+[556/570] shripad621git/Story
+    written file: repositories-info.json 556
+[557/570] shripad621git/OEP
+    written file: repositories-info.json 557
+[558/570] shripad621git/UOS
+    written file: repositories-info.json 558
+[559/570] shripad621git/UPrograms
+    written file: repositories-info.json 559
+[560/570] shripad621git/DM-LAB
+    written file: repositories-info.json 560
+[561/570] cabin15/webos-ose-ndk
+    written file: repositories-info.json 561
+[562/570] sungho1shin/connectedhomeip
+    forks_count value changed : 1 <- 1300
+    written file: repositories-info.json 562
+[563/570] whisper2chen/ebook
+    written file: repositories-info.json 563
+[564/570] whisper2chen/setup
+    written file: repositories-info.json 564
+[565/570] whisper2chen/snippets
+    written file: repositories-info.json 565
+[566/570] whisper2chen/nvim
+    written file: repositories-info.json 566
+[567/570] whisper2chen/notebook
+    written file: repositories-info.json 567
+[568/570] gozfree/gear-lib
+    stars_count is not equal to side info : 2631 != 2600
+    written file: repositories-info.json 568
+[569/570] wahajsyed/embedded-systems-kernel
+    written file: repositories-info.json 569
+[570/570] wahajsyed/nqueens
+    written file: repositories-info.json 570

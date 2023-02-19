@@ -1,0 +1,1563 @@
+{
+    "bzbarsky-apple": [
+        "/bzbarsky-apple/openweave-core",
+        "/bzbarsky-apple/connectedhomeip",
+        "/bzbarsky-apple/zap"
+    ],
+    "vivien-apple": [
+        "/vivien-apple/zap",
+        "/vivien-apple/connectedhomeip-1"
+    ],
+    "andy31415": [
+        "/andy31415/rs-value-plotter",
+        "/andy31415/rust-esp32-c3-demos",
+        "/andy31415/rust-cortex-m0-demos",
+        "/andy31415/rust-stm32f3-discovery-adc-heart-sensor",
+        "/andy31415/rust_stm32f411_demos",
+        "/andy31415/sublime-matter-docker-builder"
+    ],
+    "woody-apple": [
+        "/woody-apple/connectedhomeip",
+        "/woody-apple/nlbuild-autotools",
+        "/woody-apple/github-pr-labeler"
+    ],
+    "yufengwangca": [
+        "/yufengwangca/openweave-core",
+        "/yufengwangca/zap",
+        "/yufengwangca/cloud-build-samples",
+        "/yufengwangca/connectedhomeip"
+    ],
+    "pan-apple": [
+        "/pan-apple/connectedhomeip"
+    ],
+    "mspang": [
+        "/mspang/inapt",
+        "/mspang/connectedhomeip",
+        "/mspang/mntfs",
+        "/mspang/mkcrt",
+        "/mspang/u-boot",
+        "/mspang/catapult"
+    ],
+    "Damian-Nordic": [
+        "/Damian-Nordic/matter-tips",
+        "/Damian-Nordic/connectedhomeip",
+        "/Damian-Nordic/zephyr",
+        "/Damian-Nordic/sdk-nrf",
+        "/Damian-Nordic/sdk-nrfxlib",
+        "/Damian-Nordic/sdk-connectedhomeip"
+    ],
+    "erjiaqing": [],
+    "yunhanw-google": [
+        "/yunhanw-google/openweave-core",
+        "/yunhanw-google/happy",
+        "/yunhanw-google/connectedhomeip",
+        "/yunhanw-google/zap"
+    ],
+    "kpschoedel": [
+        "/kpschoedel/connectedhomeip",
+        "/kpschoedel/openthread",
+        "/kpschoedel/pandoc-terminal-writer",
+        "/kpschoedel/actiontest"
+    ],
+    "sagar-apple": [
+        "/sagar-apple/connectedhomeip"
+    ],
+    "kghost": [
+        "/kghost/bilibili-area-limit",
+        "/kghost/ics-openvpn",
+        "/kghost/qterminal",
+        "/kghost/th123_toolset",
+        "/kghost/android_device_motorola_victara",
+        "/kghost/VirtualWebcam"
+    ],
+    "cecille": [
+        "/cecille/connectedhomeip",
+        "/cecille/zap",
+        "/cecille/cython-hidapi"
+    ],
+    "emargolis": [
+        "/emargolis/micro-ecc-1",
+        "/emargolis/openweave-core",
+        "/emargolis/openweave-esp32-demo",
+        "/emargolis/happy",
+        "/emargolis/connectedhomeip-1",
+        "/emargolis/zap"
+    ],
+    "kkasperczyk-no": [
+        "/kkasperczyk-no/zephyr",
+        "/kkasperczyk-no/openthread",
+        "/kkasperczyk-no/openthread-1",
+        "/kkasperczyk-no/sdk-nrf",
+        "/kkasperczyk-no/connectedhomeip",
+        "/kkasperczyk-no/west"
+    ],
+    "jmartinez-silabs": [
+        "/jmartinez-silabs/connectedhomeip",
+        "/jmartinez-silabs/openthread"
+    ],
+    "tcarmelveilleux": [
+        "/tcarmelveilleux/dcc6502",
+        "/tcarmelveilleux/bmat8641",
+        "/tcarmelveilleux/EAGLE_tentech",
+        "/tcarmelveilleux/NixieClock",
+        "/tcarmelveilleux/jzbuild",
+        "/tcarmelveilleux/coffeepi"
+    ],
+    "turon": [],
+    "mrjerryjohns": [
+        "/mrjerryjohns/openweave-wdlc",
+        "/mrjerryjohns/openweave-core",
+        "/mrjerryjohns/weave-demo-apps",
+        "/mrjerryjohns/connectedhomeip",
+        "/mrjerryjohns/zap",
+        "/mrjerryjohns/repl-docker"
+    ],
+    "jepenven-silabs": [
+        "/jepenven-silabs/connectedhomeip",
+        "/jepenven-silabs/Gecko_SDK",
+        "/jepenven-silabs/zap"
+    ],
+    "mkardous-silabs": [
+        "/mkardous-silabs/connectedhomeip",
+        "/mkardous-silabs/gecko_sdk"
+    ],
+    "pankore": [
+        "/pankore/ambd_sdk_with_chip_non_NDA",
+        "/pankore/connectedhomeip",
+        "/pankore/ambz2_sdk"
+    ],
+    "carol-apple": [
+        "/carol-apple/HomeKitADK",
+        "/carol-apple/connectedhomeip"
+    ],
+    "gjc13": [],
+    "rgoliver": [
+        "/rgoliver/test",
+        "/rgoliver/pc-nrfutil",
+        "/rgoliver/connectedhomeip"
+    ],
+    "shubhamdp": [],
+    "arkq": [
+        "/arkq/bluez-alsa",
+        "/arkq/cmusfm",
+        "/arkq/openaptx",
+        "/arkq/flake8-requirements",
+        "/arkq/alock",
+        "/arkq/kindle-env"
+    ],
+    "austinh0": [
+        "/austinh0/connectedhomeip"
+    ],
+    "mlepage-google": [
+        "/mlepage-google/connectedhomeip",
+        "/mlepage-google/ESP32_TFT_library",
+        "/mlepage-google/zap"
+    ],
+    "kowsisoundhar12": [
+        "/kowsisoundhar12/connectedhomeip"
+    ],
+    "sharadb-amazon": [
+        "/sharadb-amazon/playground",
+        "/sharadb-amazon/connectedhomeip"
+    ],
+    "tehampson": [
+        "/tehampson/connectedhomeip",
+        "/tehampson/zap"
+    ],
+    "doru91": [
+        "/doru91/linux-stable",
+        "/doru91/connectedhomeip",
+        "/doru91/RedmineIssues",
+        "/doru91/MPTCP_UML",
+        "/doru91/wcn36xx",
+        "/doru91/android_kernel_zte_msm8930"
+    ],
+    "dependabot[bot]": [],
+    "manjunath-grl": [
+        "/manjunath-grl/connectedhomeip",
+        "/manjunath-grl/GitHooks",
+        "/manjunath-grl/pre-commit-hooks-dotnet-core",
+        "/manjunath-grl/awesome-design-patterns"
+    ],
+    "krypton36": [
+        "/krypton36/connectedhomeip",
+        "/krypton36/watchman",
+        "/krypton36/krypton36.github.io",
+        "/krypton36/Connect-Four",
+        "/krypton36/Klotski-Solver",
+        "/krypton36/data-structures-java"
+    ],
+    "jadhavrohit924": [],
+    "lazarkov": [],
+    "tima-q": [
+        "/tima-q/connectedhomeip",
+        "/tima-q/openthread",
+        "/tima-q/ot-qorvo",
+        "/tima-q/qpg-openthread"
+    ],
+    "wqx6": [
+        "/wqx6/connectedhomeip",
+        "/wqx6/esp-idf",
+        "/wqx6/openthread",
+        "/wqx6/ot-nrf528xx",
+        "/wqx6/ot-br-posix",
+        "/wqx6/esp-matter"
+    ],
+    "chrisdecenzo": [],
+    "selissia": [
+        "/selissia/connectedhomeip"
+    ],
+    "rcasallas-silabs": [
+        "/rcasallas-silabs/connectedhomeip",
+        "/rcasallas-silabs/zap"
+    ],
+    "andreilitvin": [],
+    "sweetymhaiske": [
+        "/sweetymhaiske/connectedhomeip",
+        "/sweetymhaiske/arduino-esp32",
+        "/sweetymhaiske/esp-idf",
+        "/sweetymhaiske/esp32-arduino-lib-builder",
+        "/sweetymhaiske/my-first-repo",
+        "/sweetymhaiske/the-unix-workbench"
+    ],
+    "gerickson": [
+        "/gerickson/opencflite",
+        "/gerickson/cstyle",
+        "/gerickson/connectedhomeip",
+        "/gerickson/openhlx",
+        "/gerickson/openhlx-ios",
+        "/gerickson/opencfnetwork"
+    ],
+    "dhrishi": [
+        "/dhrishi/rainmaker-ble-wifi-bridge",
+        "/dhrishi/connectedhomeip",
+        "/dhrishi/xively-js",
+        "/dhrishi/libxively",
+        "/dhrishi/aws_starter_sdk",
+        "/dhrishi/ez-connect-lite"
+    ],
+    "xylophone21": [],
+    "ATmobica": [
+        "/ATmobica/mbed-os",
+        "/ATmobica/wifi-ism43362",
+        "/ATmobica/mcuboot",
+        "/ATmobica/connectedhomeip",
+        "/ATmobica/mbed-tools"
+    ],
+    "holbrookt": [],
+    "shana-apple": [
+        "/shana-apple/connectedhomeip"
+    ],
+    "msandstedt": [
+        "/msandstedt/zcoap-pdu",
+        "/msandstedt/SmartThingsPublic",
+        "/msandstedt/connectedhomeip"
+    ],
+    "s07641069": [
+        "/s07641069/connectedhomeip"
+    ],
+    "jmeg-sfy": [
+        "/jmeg-sfy/connectedhomeip",
+        "/jmeg-sfy/peripheral_examples",
+        "/jmeg-sfy/data-model",
+        "/jmeg-sfy/shunit",
+        "/jmeg-sfy/distributed-compliance-ledger",
+        "/jmeg-sfy/meta-matter"
+    ],
+    "electrocucaracha": [],
+    "praveenCY": [
+        "/praveenCY/mbed-os",
+        "/praveenCY/amazon-freertos",
+        "/praveenCY/connectedhomeip",
+        "/praveenCY/lwip"
+    ],
+    "markus-becker-tridonic-com": [
+        "/markus-becker-tridonic-com/mbedtls",
+        "/markus-becker-tridonic-com/mbedtls-yotta",
+        "/markus-becker-tridonic-com/sal-iface-eth",
+        "/markus-becker-tridonic-com/sal-stack-lwip",
+        "/markus-becker-tridonic-com/yotta",
+        "/markus-becker-tridonic-com/st-nucleo-f091rc-gcc"
+    ],
+    "ArekBalysNordic": [
+        "/ArekBalysNordic/sdk-nrf",
+        "/ArekBalysNordic/connectedhomeip",
+        "/ArekBalysNordic/sdk-connectedhomeip",
+        "/ArekBalysNordic/sdk-zephyr",
+        "/ArekBalysNordic/zephyr",
+        "/ArekBalysNordic/sdk-nrfxlib"
+    ],
+    "cpagravel": [],
+    "agners": [
+        "/agners/heartbleed_test_openvpn",
+        "/agners/archlinuxarm-docker",
+        "/agners/micropython-scd30",
+        "/agners/acdr",
+        "/agners/swiss-public-transport-card",
+        "/agners/switching-station"
+    ],
+    "jtung-apple": [
+        "/jtung-apple/connectedhomeip"
+    ],
+    "chirag-silabs": [
+        "/chirag-silabs/connectedhomeip"
+    ],
+    "LuDuda": [
+        "/LuDuda/google-iot-thread",
+        "/LuDuda/wpantund",
+        "/LuDuda/workshops_2021",
+        "/LuDuda/connectedhomeip",
+        "/LuDuda/openthread",
+        "/LuDuda/pyspinel"
+    ],
+    "isiu-apple": [
+        "/isiu-apple/connectedhomeip"
+    ],
+    "bhaskar-apple": [
+        "/bhaskar-apple/connectedhomeip"
+    ],
+    "srickardti": [
+        "/srickardti/openthread",
+        "/srickardti/ot-br-posix",
+        "/srickardti/connectedhomeip",
+        "/srickardti/ot-cc13x2-cc26x2",
+        "/srickardti/ot-docs"
+    ],
+    "yyzhong-g": [
+        "/yyzhong-g/engine",
+        "/yyzhong-g/connectedhomeip",
+        "/yyzhong-g/IoT-For-Beginners",
+        "/yyzhong-g/pigweed"
+    ],
+    "joonhaengHeo": [
+        "/joonhaengHeo/connectedhomeip"
+    ],
+    "wgtdkp": [],
+    "lucicop": [
+        "/lucicop/connectedhomeip",
+        "/lucicop/qpg-connectedhomeip",
+        "/lucicop/ot-qorvo"
+    ],
+    "mykrupp": [
+        "/mykrupp/connectedhomeip-1",
+        "/mykrupp/connectedhomeip",
+        "/mykrupp/sdk_support",
+        "/mykrupp/zap"
+    ],
+    "tlykkeberg-grundfos": [],
+    "amitnj": [
+        "/amitnj/connectedhomeip"
+    ],
+    "hsusid": [
+        "/hsusid/connectedhomeip",
+        "/hsusid/ot-ifx",
+        "/hsusid/OT-Matter-30739A0",
+        "/hsusid/OT-Matter-TARGET_CYW930739M2EVB-01",
+        "/hsusid/pub-test"
+    ],
+    "lzgrablic02": [
+        "/lzgrablic02/connectedhomeip"
+    ],
+    "g-coppock": [
+        "/g-coppock/openweave-core",
+        "/g-coppock/connectedhomeip"
+    ],
+    "tecimovic": [],
+    "bluebin14": [
+        "/bluebin14/connectedhomeip"
+    ],
+    "Morozov-5F": [],
+    "terafin": [
+        "/terafin/nextdns-proxy",
+        "/terafin/mqtt-unifi-protect-bridge",
+        "/terafin/mqtt-netatmo-bridge",
+        "/terafin/unifi-video-mqtt",
+        "/terafin/mqtt-tesla-bridge",
+        "/terafin/mqtt-alexa-bridge"
+    ],
+    "PSONALl": [
+        "/PSONALl/esp_sonali",
+        "/PSONALl/esp",
+        "/PSONALl/esp-idf",
+        "/PSONALl/connectedhomeip",
+        "/PSONALl/zap-templates",
+        "/PSONALl/esp_ota"
+    ],
+    "pjzander-signify": [
+        "/pjzander-signify/connectedhomeip",
+        "/pjzander-signify/mbedtls",
+        "/pjzander-signify/zap"
+    ],
+    "vijs": [],
+    "bukepo": [
+        "/bukepo/connectedhomeip-private",
+        "/bukepo/openwrt-packages",
+        "/bukepo/vide",
+        "/bukepo/pexpect",
+        "/bukepo/openthread",
+        "/bukepo/wpantund"
+    ],
+    "jczhang777": [
+        "/jczhang777/riscv-toolchain-conventions",
+        "/jczhang777/connectedhomeip",
+        "/jczhang777/matter-rs"
+    ],
+    "szatmz": [
+        "/szatmz/connectedhomeip-os"
+    ],
+    "nivi-apple": [
+        "/nivi-apple/connectedhomeip"
+    ],
+    "chrisbeach59": [
+        "/chrisbeach59/connectedhomeip",
+        "/chrisbeach59/frozen",
+        "/chrisbeach59/ambd_sdk_with_chip_non_NDA",
+        "/chrisbeach59/nrf52840-mdk-usb-dongle"
+    ],
+    "BroderickCarlin": [
+        "/BroderickCarlin/openweather",
+        "/BroderickCarlin/stream_router",
+        "/BroderickCarlin/libusb-rs",
+        "/BroderickCarlin/AdventOfCode",
+        "/BroderickCarlin/Windows-10-Toast-Notifications",
+        "/BroderickCarlin/SmartThingsPublic"
+    ],
+    "harsha-rajendran": [
+        "/harsha-rajendran/connectedhomeip",
+        "/harsha-rajendran/distributed-compliance-ledger",
+        "/harsha-rajendran/TizenRT",
+        "/harsha-rajendran/zephyr"
+    ],
+    "vidhis88": [
+        "/vidhis88/Android",
+        "/vidhis88/ReturnApp",
+        "/vidhis88/connectedhomeip"
+    ],
+    "adabreuti": [
+        "/adabreuti/connectedhomeip",
+        "/adabreuti/openthread",
+        "/adabreuti/matter",
+        "/adabreuti/ot-ti"
+    ],
+    "fessehaeve": [
+        "/fessehaeve/connectedhomeip"
+    ],
+    "sujaygkulkarni-nxp": [
+        "/sujaygkulkarni-nxp/connectedhomeip",
+        "/sujaygkulkarni-nxp/plug-and-trust",
+        "/sujaygkulkarni-nxp/nano-package"
+    ],
+    "rikorsev": [
+        "/rikorsev/mocap-firmware",
+        "/rikorsev/http_server"
+    ],
+    "ReneJosefsen": [
+        "/ReneJosefsen/connectedhomeip"
+    ],
+    "pan-": [],
+    "wy-hh": [
+        "/wy-hh/zephyr",
+        "/wy-hh/connectedhomeip",
+        "/wy-hh/openthread"
+    ],
+    "rochaferraz": [
+        "/rochaferraz/FreeFontConverter",
+        "/rochaferraz/log.c",
+        "/rochaferraz/map",
+        "/rochaferraz/synergy-binaries",
+        "/rochaferraz/SparkFun-Eagle-Libraries",
+        "/rochaferraz/log"
+    ],
+    "Bhaskar-Sarma": [],
+    "greg-fer": [
+        "/greg-fer/nRF-IEEE-802.15.4-radio-driver",
+        "/greg-fer/fw-nrfconnect-nrf-1",
+        "/greg-fer/nrfxlib",
+        "/greg-fer/openthread",
+        "/greg-fer/connectedhomeip",
+        "/greg-fer/pc-nrfconnect-gettingstarted"
+    ],
+    "andrei-menzopol": [
+        "/andrei-menzopol/connectedhomeip",
+        "/andrei-menzopol/mbedtls",
+        "/andrei-menzopol/openthread"
+    ],
+    "janusheide": [
+        "/janusheide/bouillon",
+        "/janusheide/sftpclone",
+        "/janusheide/cpuid",
+        "/janusheide/hex",
+        "/janusheide/endian",
+        "/janusheide/platform"
+    ],
+    "jimlyall-q": [
+        "/jimlyall-q/connectedhomeip",
+        "/jimlyall-q/qpg-connectedhomeip",
+        "/jimlyall-q/test-gen",
+        "/jimlyall-q/qpg-openthread"
+    ],
+    "lboue": [
+        "/lboue/MuMuDVB",
+        "/lboue/MuMuDVB-WebAdmin",
+        "/lboue/eve-ng",
+        "/lboue/HTTP-Live-Video-Stream-Segmenter-and-Distributor",
+        "/lboue/nagios-sip-plugin",
+        "/lboue/hc2-scenes"
+    ],
+    "robszewczyk": [
+        "/robszewczyk/shattings",
+        "/robszewczyk/6tunnel",
+        "/robszewczyk/nlfaultinjection",
+        "/robszewczyk/wpantund",
+        "/robszewczyk/openweave-core",
+        "/robszewczyk/nlbuild-autotools"
+    ],
+    "AlvinHsiao": [
+        "/AlvinHsiao/connectedhomeip"
+    ],
+    "harimau-qirex": [
+        "/harimau-qirex/connectedhomeip"
+    ],
+    "aBozowski": [
+        "/aBozowski/connectedhomeip",
+        "/aBozowski/sample-app-for-matter-android"
+    ],
+    "FaqiangZhu-nxp": [
+        "/FaqiangZhu-nxp/openthread",
+        "/FaqiangZhu-nxp/connectedhomeip",
+        "/FaqiangZhu-nxp/empty",
+        "/FaqiangZhu-nxp/blk_discard_test"
+    ],
+    "rosahay-silabs": [],
+    "andersbangGF": [],
+    "jrhees-cae": [
+        "/jrhees-cae/Android-nRF-Connect-Device-Manager",
+        "/jrhees-cae/connectedhomeip"
+    ],
+    "kpark-apple": [
+        "/kpark-apple/connectedhomeip"
+    ],
+    "erwinpan1": [
+        "/erwinpan1/jagabee",
+        "/erwinpan1/study",
+        "/erwinpan1/onionring",
+        "/erwinpan1/ML100-Days",
+        "/erwinpan1/connectedhomeip"
+    ],
+    "dnicoara": [
+        "/dnicoara/engine",
+        "/dnicoara/dnicoara.github.io",
+        "/dnicoara/connectedhomeip"
+    ],
+    "TE-N-ElvenWang": [
+        "/TE-N-ElvenWang/connectedhomeip",
+        "/TE-N-ElvenWang/ot-br-posix",
+        "/TE-N-ElvenWang/meta-matter",
+        "/TE-N-ElvenWang/fish-shell"
+    ],
+    "Jagadish-NXP": [
+        "/Jagadish-NXP/connectedhomeip",
+        "/Jagadish-NXP/plug-and-trust",
+        "/Jagadish-NXP/nano-package"
+    ],
+    "restyled-commits": [],
+    "chshu": [],
+    "nikita-s-wrk": [
+        "/nikita-s-wrk/openthread",
+        "/nikita-s-wrk/connectedhomeip",
+        "/nikita-s-wrk/ot-qorvo",
+        "/nikita-s-wrk/qpg-connectedhomeip",
+        "/nikita-s-wrk/qpg-openthread"
+    ],
+    "jlatusek": [],
+    "JasonLiuZhuoCheng": [
+        "/JasonLiuZhuoCheng/Sorcery",
+        "/JasonLiuZhuoCheng/flappybird",
+        "/JasonLiuZhuoCheng/Insta",
+        "/JasonLiuZhuoCheng/todoList-front-end",
+        "/JasonLiuZhuoCheng/todoList-back-end",
+        "/JasonLiuZhuoCheng/bloc"
+    ],
+    "jonsmirl": [
+        "/jonsmirl/mpc5200",
+        "/jonsmirl/cam",
+        "/jonsmirl/packages",
+        "/jonsmirl/mpc5200-uBoot",
+        "/jonsmirl/lpc31xx",
+        "/jonsmirl/lpc31xx-uboot"
+    ],
+    "kedars": [],
+    "e-rk": [
+        "/e-rk/nRF-Sniffer-for-802.15.4",
+        "/e-rk/openthread",
+        "/e-rk/pc-nrfutil",
+        "/e-rk/st",
+        "/e-rk/dwm",
+        "/e-rk/dmenu"
+    ],
+    "q-thla": [
+        "/q-thla/qpg-connectedhomeip",
+        "/q-thla/connectedhomeip",
+        "/q-thla/QMatter",
+        "/q-thla/zap"
+    ],
+    "kvikrambhat": [
+        "/kvikrambhat/connectedhomeip",
+        "/kvikrambhat/code-snippets",
+        "/kvikrambhat/cJSON",
+        "/kvikrambhat/BlazorStateExploration",
+        "/kvikrambhat/git-hooks",
+        "/kvikrambhat/100Alogs"
+    ],
+    "chulspro": [
+        "/chulspro/st-device-sdk-c-ref",
+        "/chulspro/st-device-sdk-c",
+        "/chulspro/iotedge",
+        "/chulspro/edge-home-orchestration-go",
+        "/chulspro/connectedhomeip"
+    ],
+    "markaj-nordic": [
+        "/markaj-nordic/matter-webinar",
+        "/markaj-nordic/connectedhomeip",
+        "/markaj-nordic/sdk-zephyr",
+        "/markaj-nordic/sdk-nrf",
+        "/markaj-nordic/sdk-connectedhomeip",
+        "/markaj-nordic/sdk-hostap"
+    ],
+    "randyrossi": [
+        "/randyrossi/bmc64",
+        "/randyrossi/vicii-kawari",
+        "/randyrossi/fisher-modem",
+        "/randyrossi/c64-games-menu",
+        "/randyrossi/arduino_dram4164_tester",
+        "/randyrossi/carousel"
+    ],
+    "ksperling-apple": [
+        "/ksperling-apple/connectedhomeip"
+    ],
+    "hyunuktak": [
+        "/hyunuktak/tizen-docs",
+        "/hyunuktak/TizenFX",
+        "/hyunuktak/hello-github-actions",
+        "/hyunuktak/openthread",
+        "/hyunuktak/hadolint",
+        "/hyunuktak/connectedhomeip"
+    ],
+    "brdandu": [
+        "/brdandu/zap",
+        "/brdandu/connectedhomeip"
+    ],
+    "CodeChronos928": [
+        "/CodeChronos928/connectedhomeip"
+    ],
+    "dvdm-qorvo": [
+        "/dvdm-qorvo/qpg-connectedhomeip",
+        "/dvdm-qorvo/connectedhomeip",
+        "/dvdm-qorvo/ot-qorvo",
+        "/dvdm-qorvo/QMatter"
+    ],
+    "jpk233": [
+        "/jpk233/connectedhomeip",
+        "/jpk233/libcertifier"
+    ],
+    "gmarcosb": [
+        "/gmarcosb/lock-manager",
+        "/gmarcosb/connectedhomeip"
+    ],
+    "MtTsai": [
+        "/MtTsai/training",
+        "/MtTsai/Micro_OS",
+        "/MtTsai/RIOT",
+        "/MtTsai/mbed-freertos",
+        "/MtTsai/mbed",
+        "/MtTsai/minetest"
+    ],
+    "tdrozdovsky": [
+        "/tdrozdovsky/crib",
+        "/tdrozdovsky/edge-home-orchestration-go",
+        "/tdrozdovsky/M2351BSP",
+        "/tdrozdovsky/.github",
+        "/tdrozdovsky/connectedhomeip",
+        "/tdrozdovsky/nnstreamer"
+    ],
+    "alexhqwang": [
+        "/alexhqwang/openweave-schema-vendor-common",
+        "/alexhqwang/connectedhomeip"
+    ],
+    "jwinder-ca": [
+        "/jwinder-ca/connectedhomeip"
+    ],
+    "raju-apple": [
+        "/raju-apple/connectedhomeip"
+    ],
+    "stoneM2017": [
+        "/stoneM2017/egg-rabbitmq",
+        "/stoneM2017/docker-elk",
+        "/stoneM2017/elastalert",
+        "/stoneM2017/elastalert-docker",
+        "/stoneM2017/elastalert-docker-1",
+        "/stoneM2017/airflow"
+    ],
+    "lmpprk": [
+        "/lmpprk/daikin_ha_wifi_control",
+        "/lmpprk/connectedhomeip"
+    ],
+    "adamb-q": [
+        "/adamb-q/connectedhomeip",
+        "/adamb-q/ot-br-posix"
+    ],
+    "billwatersiii": [
+        "/billwatersiii/amazon-freertos",
+        "/billwatersiii/connectedhomeip",
+        "/billwatersiii/mbed-os"
+    ],
+    "panliming-tuya": [
+        "/panliming-tuya/NotchScreenTool",
+        "/panliming-tuya/smarxpan.github.io",
+        "/panliming-tuya/LearnAndroidArchitectureComponents",
+        "/panliming-tuya/hexo-theme-indigo",
+        "/panliming-tuya/paho.mqtt.java",
+        "/panliming-tuya/tuyasmart_android_activator_sdk"
+    ],
+    "anush-apple": [
+        "/anush-apple/connectedhomeip"
+    ],
+    "tewarid": [
+        "/tewarid/node-tcp-proxy",
+        "/tewarid/node-tcp-relay",
+        "/tewarid/docker-pandoc",
+        "/tewarid/dotnet-tools",
+        "/tewarid/atmega32u4-usb-serial",
+        "/tewarid/wireshark-nordic-ble-lua"
+    ],
+    "Jerry-ESP": [
+        "/Jerry-ESP/connectedhomeip",
+        "/Jerry-ESP/esp-iot-solution"
+    ],
+    "doublemis1": [
+        "/doublemis1/pyspinel",
+        "/doublemis1/openthread",
+        "/doublemis1/sdk-nrf",
+        "/doublemis1/connectedhomeip",
+        "/doublemis1/sdk-nrfxlib",
+        "/doublemis1/sdk-connectedhomeip"
+    ],
+    "wootak-jung": [
+        "/wootak-jung/Tizen-CSharp-Samples",
+        "/wootak-jung/tizen-docs",
+        "/wootak-jung/hello-world",
+        "/wootak-jung/TizenFX",
+        "/wootak-jung/connectedhomeip",
+        "/wootak-jung/NUITizenGallery"
+    ],
+    "abiradarti": [
+        "/abiradarti/connectedhomeip",
+        "/abiradarti/matter-ti-fork"
+    ],
+    "achaulk-goog": [
+        "/achaulk-goog/connectedhomeip"
+    ],
+    "du48s03": [
+        "/du48s03/AWSOME-TF2-DATA-SCANNER",
+        "/du48s03/space-shooter",
+        "/du48s03/Power_law_analysis",
+        "/du48s03/Hello-World",
+        "/du48s03/Hello",
+        "/du48s03/Spoon-Knife"
+    ],
+    "kurvaSai": [
+        "/kurvaSai/connectedhomeip",
+        "/kurvaSai/sdk_support",
+        "/kurvaSai/mbedtls"
+    ],
+    "lpbeliveau-silabs": [
+        "/lpbeliveau-silabs/connectedhomeip",
+        "/lpbeliveau-silabs/openthread"
+    ],
+    "sharad-patil24": [
+        "/sharad-patil24/connectedhomeip",
+        "/sharad-patil24/matter_sdk_support",
+        "/sharad-patil24/wiseconnect-wifi-bt-sdk",
+        "/sharad-patil24/gecko_sdk"
+    ],
+    "wendythewan": [
+        "/wendythewan/connectedhomeip"
+    ],
+    "truebiker": [
+        "/truebiker/epoll_windows",
+        "/truebiker/datasciencecoursera",
+        "/truebiker/datasharing",
+        "/truebiker/ProgrammingAssignment2",
+        "/truebiker/storages",
+        "/truebiker/connectedhomeip"
+    ],
+    "sandeepmistry": [],
+    "mingchik": [
+        "/mingchik/git-practice",
+        "/mingchik/happy",
+        "/mingchik/connectedhomeip"
+    ],
+    "tzm41": [],
+    "FernandoLGuzman": [
+        "/FernandoLGuzman/lab3-FernandoLGuzman",
+        "/FernandoLGuzman/DB_Project",
+        "/FernandoLGuzman/DnDAssistant",
+        "/FernandoLGuzman/connectedhomeip"
+    ],
+    "jwhui": [],
+    "keithmwheeler": [
+        "/keithmwheeler/mbed-os",
+        "/keithmwheeler/amazon-freertos",
+        "/keithmwheeler/amazon-freertos-1",
+        "/keithmwheeler/connectedhomeip"
+    ],
+    "lijujayakumar": [],
+    "plan44": [],
+    "mburshteyn1": [
+        "/mburshteyn1/DUKPT",
+        "/mburshteyn1/Kal",
+        "/mburshteyn1/Convert",
+        "/mburshteyn1/MBCollectionView",
+        "/mburshteyn1/SVProgressHUD",
+        "/mburshteyn1/Specs"
+    ],
+    "presto8": [],
+    "bauerschwan": [
+        "/bauerschwan/connectedhomeip"
+    ],
+    "Thirsrin": [
+        "/Thirsrin/connectedhomeip",
+        "/Thirsrin/gecko_sdk",
+        "/Thirsrin/sdk_support",
+        "/Thirsrin/wiseconnect-wifi-bt-sdk"
+    ],
+    "davidgoogle": [
+        "/davidgoogle/connectedhomeip",
+        "/davidgoogle/happy"
+    ],
+    "hnnajh": [
+        "/hnnajh/connectedhomeip"
+    ],
+    "michalbudzon-q": [
+        "/michalbudzon-q/connectedhomeip"
+    ],
+    "nxptest": [
+        "/nxptest/connectedhomeip",
+        "/nxptest/mw320_sdk",
+        "/nxptest/meta-matter"
+    ],
+    "shgutte": [
+        "/shgutte/connectedhomeip",
+        "/shgutte/wiseconnect-wifi-bt-sdk",
+        "/shgutte/sdk_support",
+        "/shgutte/MatterLockOverMG24_WF200"
+    ],
+    "sreeramIfx": [
+        "/sreeramIfx/hal_infineon",
+        "/sreeramIfx/zephyr"
+    ],
+    "srningap": [
+        "/srningap/sdk_support",
+        "/srningap/connectedhomeip",
+        "/srningap/gecko_sdk",
+        "/srningap/matter_extension"
+    ],
+    "AntonGrey": [
+        "/AntonGrey/glm",
+        "/AntonGrey/connectedhomeip"
+    ],
+    "gautesl": [],
+    "gharveymn": [],
+    "bojczmac": [
+        "/bojczmac/meta-sunxi",
+        "/bojczmac/melvil",
+        "/bojczmac/somlabs-buildroot",
+        "/bojczmac/sx1302_hal",
+        "/bojczmac/stm32f",
+        "/bojczmac/ReGAL"
+    ],
+    "mohrr": [
+        "/mohrr/connectedhomeip",
+        "/mohrr/pigweed",
+        "/mohrr/oss-fuzz"
+    ],
+    "nicelyjust": [],
+    "DamMicSzm": [
+        "/DamMicSzm/connectedhomeip"
+    ],
+    "arunbharadwaj": [],
+    "lcj446068124": [
+        "/lcj446068124/WallpaperSetter",
+        "/lcj446068124/-coolweather",
+        "/lcj446068124/javamanlabs",
+        "/lcj446068124/IOT1",
+        "/lcj446068124/IOT2",
+        "/lcj446068124/MultiButton"
+    ],
+    "chiragatal": [
+        "/chiragatal/temp_uploads",
+        "/chiragatal/esp-zerocode",
+        "/chiragatal/esp-aia",
+        "/chiragatal/connectedhomeip"
+    ],
+    "cletnick": [
+        "/cletnick/connectedhomeip"
+    ],
+    "cktakahasi": [
+        "/cktakahasi/zephyr",
+        "/cktakahasi/corona-mission",
+        "/cktakahasi/HomeKitADK",
+        "/cktakahasi/connectedhomeip",
+        "/cktakahasi/bluez"
+    ],
+    "hubTab": [
+        "/hubTab/egt",
+        "/hubTab/connectedhomeip"
+    ],
+    "wehale": [
+        "/wehale/songs",
+        "/wehale/hig",
+        "/wehale/connectedhomeip",
+        "/wehale/zap",
+        "/wehale/java_packet_trace_library",
+        "/wehale/spelling-bee"
+    ],
+    "jsloth": [
+        "/jsloth/Unity",
+        "/jsloth/mosquitto-client",
+        "/jsloth/marlin",
+        "/jsloth/zap",
+        "/jsloth/connectedhomeip",
+        "/jsloth/renoweb-legacy"
+    ],
+    "ck-telecom": [],
+    "kianooshkarami": [
+        "/kianooshkarami/erocm123.SmartThingsPublic",
+        "/kianooshkarami/SmartThingsPublic",
+        "/kianooshkarami/googletest",
+        "/kianooshkarami/connectedhomeip"
+    ],
+    "mgarb1": [
+        "/mgarb1/SmartThingsPublic",
+        "/mgarb1/quiet-lwip",
+        "/mgarb1/distributed-compliance-ledger"
+    ],
+    "PetruSicoe": [
+        "/PetruSicoe/connectedhomeip",
+        "/PetruSicoe/Python101-GameProject",
+        "/PetruSicoe/Proiect_PM_2021"
+    ],
+    "ShubhamMalasane": [
+        "/ShubhamMalasane/ShubhamMalasane",
+        "/ShubhamMalasane/connectedhomeip",
+        "/ShubhamMalasane/sdk_support"
+    ],
+    "thcu-gp": [
+        "/thcu-gp/openthread",
+        "/thcu-gp/borderrouter",
+        "/thcu-gp/ot-qorvo",
+        "/thcu-gp/qpg-connectedhomeip",
+        "/thcu-gp/connectedhomeip",
+        "/thcu-gp/qpg-openthread"
+    ],
+    "wystans": [
+        "/wystans/dotfiles",
+        "/wystans/ovsdb-client",
+        "/wystans/VimMode.spoon",
+        "/wystans/pwnagotchi",
+        "/wystans/connectedhomeip",
+        "/wystans/progressbar"
+    ],
+    "j8xixo12": [
+        "/j8xixo12/QuantFinance",
+        "/j8xixo12/Stm32-Bootloader",
+        "/j8xixo12/earth",
+        "/j8xixo12/trick",
+        "/j8xixo12/P.E.K.K.A",
+        "/j8xixo12/stm32f4-gcc-template"
+    ],
+    "milanr-q": [
+        "/milanr-q/connectedhomeip",
+        "/milanr-q/zap"
+    ],
+    "riwaghe": [
+        "/riwaghe/connectedhomeip"
+    ],
+    "saurabhst": [],
+    "AnthonyDiGirolamo": [],
+    "stevew817": [],
+    "pakls": [
+        "/pakls/lanspeed",
+        "/pakls/civil-manual-tw",
+        "/pakls/qdot",
+        "/pakls/emu8051",
+        "/pakls/teraterm-ttssh2",
+        "/pakls/minicli"
+    ],
+    "zhengyaohan": [
+        "/zhengyaohan/zheng",
+        "/zhengyaohan/armino",
+        "/zhengyaohan/connectedhomeip"
+    ],
+    "samadDotDev": [],
+    "AlexPygin": [
+        "/AlexPygin/DominoEffect",
+        "/AlexPygin/TerminalSetup",
+        "/AlexPygin/connectedhomeip",
+        "/AlexPygin/pigweed"
+    ],
+    "ajwak": [
+        "/ajwak/connectedhomeip"
+    ],
+    "yuzibo": [],
+    "cliffamzn": [
+        "/cliffamzn/connectedhomeip"
+    ],
+    "drempelg": [
+        "/drempelg/openweave-wdlc",
+        "/drempelg/connectedhomeip"
+    ],
+    "dustin-crossman": [
+        "/dustin-crossman/mbed-os",
+        "/dustin-crossman/mbed-os-tools",
+        "/dustin-crossman/connectedhomeip"
+    ],
+    "sudobinbash": [],
+    "HusseinElsherbini": [],
+    "KishorSilabs": [
+        "/KishorSilabs/connectedhomeip"
+    ],
+    "balloob": [],
+    "zqiu-nest": [
+        "/zqiu-nest/connectedhomeip"
+    ],
+    "petroakzhygitov": [
+        "/petroakzhygitov/nest-ios-sdk",
+        "/petroakzhygitov/VGTS2MP4",
+        "/petroakzhygitov/CocoaSPDY",
+        "/petroakzhygitov/Specs",
+        "/petroakzhygitov/VENTokenField",
+        "/petroakzhygitov/JSONModel"
+    ],
+    "prasad-alatkar": [
+        "/prasad-alatkar/prasad-edits",
+        "/prasad-alatkar/esp-bootstrap",
+        "/prasad-alatkar/mynewt-nimble",
+        "/prasad-alatkar/amazon-freertos",
+        "/prasad-alatkar/connectedhomeip"
+    ],
+    "shinchan-bot": [
+        "/shinchan-bot/travel-guide",
+        "/shinchan-bot/smart-brain-api",
+        "/shinchan-bot/smart-brain-frontend",
+        "/shinchan-bot/phone-directory",
+        "/shinchan-bot/zenith19",
+        "/shinchan-bot/Zenith-19"
+    ],
+    "deveritec-rosc": [
+        "/deveritec-rosc/zephyr",
+        "/deveritec-rosc/mcuboot",
+        "/deveritec-rosc/connectedhomeip"
+    ],
+    "SergeyVasiliev": [
+        "/SergeyVasiliev/connectedhomeip"
+    ],
+    "ItoddchouFX": [],
+    "tpmanley": [
+        "/tpmanley/conferences",
+        "/tpmanley/django-bootstrapped",
+        "/tpmanley/Anvil",
+        "/tpmanley/protocol-diagrams",
+        "/tpmanley/maxsonar",
+        "/tpmanley/pymissile"
+    ],
+    "Kxuan": [
+        "/Kxuan/AndroidSensorOnPcBrowesr",
+        "/Kxuan/dnspod-ddns",
+        "/Kxuan/event_list",
+        "/Kxuan/RtcCentralServer",
+        "/Kxuan/transparent_http_proxy",
+        "/Kxuan/ringzer0"
+    ],
+    "bndkk": [
+        "/bndkk/connectedhomeip",
+        "/bndkk/cli"
+    ],
+    "carricdsilva-apple": [
+        "/carricdsilva-apple/HomeKitADK",
+        "/carricdsilva-apple/connectedhomeip"
+    ],
+    "clapre": [
+        "/clapre/skill-workshop-smart-city",
+        "/clapre/connectedhomeip"
+    ],
+    "dey-r": [
+        "/dey-r/connectedhomeip"
+    ],
+    "jlportillo": [
+        "/jlportillo/connectedhomeip"
+    ],
+    "nipatel-silabs": [
+        "/nipatel-silabs/connectedhomeip",
+        "/nipatel-silabs/wiseconnect-wifi-bt-sdk",
+        "/nipatel-silabs/sdk_support",
+        "/nipatel-silabs/gecko_sdk"
+    ],
+    "seb-fae": [
+        "/seb-fae/imx6ul-14x14-evk-wf200-Yocto-integration",
+        "/seb-fae/pilot-wire-zero-crossing",
+        "/seb-fae/zigbee-host-code-snippet",
+        "/seb-fae/NCP-Zigbee-Secure-Element",
+        "/seb-fae/efr32xg2x-infrared",
+        "/seb-fae/efr32mg2x-em4-zigbee-SED"
+    ],
+    "thashok": [
+        "/thashok/connectedhomeip",
+        "/thashok/gecko_sdk",
+        "/thashok/sdk_support"
+    ],
+    "ay-agarwal": [],
+    "aronrosenberg": [],
+    "Paradox512": [
+        "/Paradox512/Coopgamemaking-01",
+        "/Paradox512/Spoon-Knife",
+        "/Paradox512/judge",
+        "/Paradox512/connectedhomeip"
+    ],
+    "milezhacks": [
+        "/milezhacks/connectedhomeip",
+        "/milezhacks/libsharedexample",
+        "/milezhacks/appexample"
+    ],
+    "rwells1703": [],
+    "s-mcclain": [
+        "/s-mcclain/connectedhomeip"
+    ],
+    "tpudlik": [
+        "/tpudlik/hydroponics",
+        "/tpudlik/RaspAC",
+        "/tpudlik/sbf",
+        "/tpudlik/Graphene-nanoribbons",
+        "/tpudlik/Birdfeeder",
+        "/tpudlik/bioprinter_arduino"
+    ],
+    "HodgertA": [],
+    "aalexanderr": [
+        "/aalexanderr/muxpi",
+        "/aalexanderr/OpenCR",
+        "/aalexanderr/tern",
+        "/aalexanderr/scancode.io",
+        "/aalexanderr/fetchcode",
+        "/aalexanderr/scancode-toolkit"
+    ],
+    "subscribeamit": [
+        "/subscribeamit/rdkservices",
+        "/subscribeamit/connectedhomeip"
+    ],
+    "agal-apple-com": [],
+    "aiw-google": [
+        "/aiw-google/openweave-core",
+        "/aiw-google/nlutilities",
+        "/aiw-google/nlassert"
+    ],
+    "andriy-bilynskyy": [],
+    "adbridge": [
+        "/adbridge/project_generator_definitions",
+        "/adbridge/sockets",
+        "/adbridge/sal",
+        "/adbridge/jira-test-repo",
+        "/adbridge/mbed-hal",
+        "/adbridge/sal-stack-lwip"
+    ],
+    "aajain-com": [
+        "/aajain-com/HomeKitADK",
+        "/aajain-com/connectedhomeip"
+    ],
+    "RoyAnupam": [
+        "/RoyAnupam/cool_codes",
+        "/RoyAnupam/ot-br-posix",
+        "/RoyAnupam/connectedhomeip"
+    ],
+    "cmqmyfox": [
+        "/cmqmyfox/polycomp_display_driver",
+        "/cmqmyfox/connectedhomeip"
+    ],
+    "cjswedes": [
+        "/cjswedes/switchyard",
+        "/cjswedes/world-hello",
+        "/cjswedes/real-wear",
+        "/cjswedes/googletest",
+        "/cjswedes/autobahn-testsuite",
+        "/cjswedes/connectedhomeip"
+    ],
+    "chkimes": [
+        "/chkimes/graphql-net",
+        "/chkimes/arbitrary-async-return-nullable",
+        "/chkimes/bashrc",
+        "/chkimes/actions-ssh",
+        "/chkimes/codecamp-mvvmcross",
+        "/chkimes/rlox"
+    ],
+    "KrypticCliff": [
+        "/KrypticCliff/PhotoRec-Extension-Sorter",
+        "/KrypticCliff/OptiMac",
+        "/KrypticCliff/Inventory-Scanner",
+        "/KrypticCliff/LIDAR-Scan-Generator",
+        "/KrypticCliff/caffe",
+        "/KrypticCliff/OpenCV-Counter"
+    ],
+    "CuRahman": [
+        "/CuRahman/sdk_support",
+        "/CuRahman/connectedhomeip"
+    ],
+    "DamKast": [
+        "/DamKast/connectedhomeip",
+        "/DamKast/chip-build-crosscompile-armhf",
+        "/DamKast/chip-wheels-armhf",
+        "/DamKast/chip-wheels"
+    ],
+    "danh-geo": [
+        "/danh-geo/connectedhomeip"
+    ],
+    "danielsilabs": [
+        "/danielsilabs/connectedhomeip"
+    ],
+    "latch-danielkneip": [],
+    "llllVIIII": [
+        "/llllVIIII/ulog",
+        "/llllVIIII/dotfiles",
+        "/llllVIIII/nrf52-app",
+        "/llllVIIII/ulog-bench-app"
+    ],
+    "dh79pyun": [
+        "/dh79pyun/TizenRT",
+        "/dh79pyun/TizenFX",
+        "/dh79pyun/Tizen-CSharp-Samples",
+        "/dh79pyun/chromium-build",
+        "/dh79pyun/connectedhomeip",
+        "/dh79pyun/tizen-docs"
+    ],
+    "emontnemery": [
+        "/emontnemery/domoticz_mqtt_discovery",
+        "/emontnemery/hatasmota",
+        "/emontnemery/home-assistant",
+        "/emontnemery/domoticz_kamstrup_mqtt",
+        "/emontnemery/home-assistant-polymer",
+        "/emontnemery/docs"
+    ],
+    "neonsoftware": [],
+    "fengli": [
+        "/fengli/alipay_python",
+        "/fengli/autocomplete-redis",
+        "/fengli/ikindle_recipe",
+        "/fengli/fabfile-deploy",
+        "/fengli/django-social-auth",
+        "/fengli/ikandou.douban"
+    ],
+    "fernando-eve": [
+        "/fernando-eve/connectedhomeip"
+    ],
+    "fkjagodzinski": [
+        "/fkjagodzinski/mbed-os",
+        "/fkjagodzinski/mbed-os-5-docs",
+        "/fkjagodzinski/mbed-os-examples-docs_only",
+        "/fkjagodzinski/fpga-ci-test-shield-updater",
+        "/fkjagodzinski/fpga-ci-test-shield",
+        "/fkjagodzinski/mbed-os-example-attestation"
+    ],
+    "FrankZRS": [
+        "/FrankZRS/CoAPthon3",
+        "/FrankZRS/stock_trading",
+        "/FrankZRS/Champions_League_Draw_Simulator",
+        "/FrankZRS/iotivity-lite",
+        "/FrankZRS/connectedhomeip"
+    ],
+    "guylevin": [
+        "/guylevin/verdaccio",
+        "/guylevin/ExoPlayer-2-Example",
+        "/guylevin/octave-docker",
+        "/guylevin/hamagen-react-native",
+        "/guylevin/smart-home-micropython",
+        "/guylevin/react-dev-container"
+    ],
+    "silabs-Simran": [
+        "/silabs-Simran/connectedhomeip"
+    ],
+    "hakanjansson": [],
+    "itf": [],
+    "jeonghwan7": [],
+    "Jim-tech": [],
+    "proppy": [
+        "/proppy/gorogoro",
+        "/proppy/rad-lab",
+        "/proppy/cros-sdk-docker",
+        "/proppy/tiny_user_project",
+        "/proppy/milkymist-pong",
+        "/proppy/android-ndk"
+    ],
+    "JordanField": [],
+    "KenneyQu": [
+        "/KenneyQu/connectedhomeip"
+    ],
+    "ktaborowski": [
+        "/ktaborowski/sdk-nrf",
+        "/ktaborowski/sdk-zephyr",
+        "/ktaborowski/sdk-mcuboot",
+        "/ktaborowski/sdk-nrfxlib",
+        "/ktaborowski/openthread",
+        "/ktaborowski/mynewt-mcumgr"
+    ],
+    "krzysztofziobro": [
+        "/krzysztofziobro/sdk-nrf",
+        "/krzysztofziobro/connectedhomeip",
+        "/krzysztofziobro/openthread",
+        "/krzysztofziobro/zephyr",
+        "/krzysztofziobro/substrate-karaoke",
+        "/krzysztofziobro/substrate-casino"
+    ],
+    "LawrenceQuarshie": [
+        "/LawrenceQuarshie/demo-repo",
+        "/LawrenceQuarshie/LawrenceQuarshie",
+        "/LawrenceQuarshie/curriculum-repo",
+        "/LawrenceQuarshie/100DaysOfJavaScript",
+        "/LawrenceQuarshie/100DaysOfPython",
+        "/LawrenceQuarshie/TestMATLAB"
+    ],
+    "LeelakumarPS": [
+        "/LeelakumarPS/connectedhomeip",
+        "/LeelakumarPS/dummy_repo"
+    ],
+    "lnikulin": [
+        "/lnikulin/soci",
+        "/lnikulin/connectedhomeip"
+    ],
+    "Litome": [
+        "/Litome/test",
+        "/Litome/unwindSegue",
+        "/Litome/fastlane-plugin-validate_app",
+        "/Litome/fastlane",
+        "/Litome/connectedhomeip"
+    ],
+    "ludde127": [],
+    "mmarc": [],
+    "jmmb13": [
+        "/jmmb13/threadx",
+        "/jmmb13/core",
+        "/jmmb13/python-matter-server",
+        "/jmmb13/connectedhomeip",
+        "/jmmb13/vim_config",
+        "/jmmb13/tmux.conf"
+    ],
+    "naknut": [],
+    "mweinelt": [],
+    "smides-nest": [
+        "/smides-nest/openthread",
+        "/smides-nest/wpantund",
+        "/smides-nest/nlio",
+        "/smides-nest/connectedhomeip",
+        "/smides-nest/comprehensive-rust"
+    ],
+    "falay": [
+        "/falay/CrackOpenSSLKey",
+        "/falay/Index-Calculus-attack-for-ECDLP-on-binary-curve",
+        "/falay/SHA3",
+        "/falay/hwGradingTool",
+        "/falay/Simple-Shell",
+        "/falay/Simple-Web-Server"
+    ],
+    "mikaelhm": [
+        "/mikaelhm/odometer",
+        "/mikaelhm/MTS-LaTeX-Arrows",
+        "/mikaelhm/GeoApp",
+        "/mikaelhm/VeT-ller",
+        "/mikaelhm/cheerBot",
+        "/mikaelhm/angular-countdown-timer"
+    ],
+    "minhlez": [
+        "/minhlez/connectedhomeip"
+    ],
+    "mrfinesse99": [],
+    "npal-cy": [],
+    "NicuAhmadi": [
+        "/NicuAhmadi/ReadmeUpdates"
+    ],
+    "oidebrett": [
+        "/oidebrett/PythonTraining",
+        "/oidebrett/lccswebsites",
+        "/oidebrett/coepi-backend-aws",
+        "/oidebrett/moto",
+        "/oidebrett/S3-Object-Lambda",
+        "/oidebrett/Computer-Science-for-Leaving-Certificate-Solutions"
+    ],
+    "phbasler": [],
+    "rzr": [],
+    "prashanthswami": [
+        "/prashanthswami/Sparrow",
+        "/prashanthswami/connectedhomeip"
+    ],
+    "willyrakotoarisoa": [],
+    "Raqbit": [],
+    "renzbagaporo": [],
+    "ritikananda27": [
+        "/ritikananda27/prepleetcode",
+        "/ritikananda27/UnidirectionalExample",
+        "/ritikananda27/connectedhomeip"
+    ],
+    "Rob-Houtepen-Signify": [
+        "/Rob-Houtepen-Signify/test_enter_issue"
+    ],
+    "robertfarnum": [
+        "/robertfarnum/MyBeacon",
+        "/robertfarnum/ecsdemo-platform",
+        "/robertfarnum/ecsdemo-frontend",
+        "/robertfarnum/ecsdemo-nodejs",
+        "/robertfarnum/ecsdemo-crystal",
+        "/robertfarnum/hello"
+    ],
+    "seokhee-lee": [
+        "/seokhee-lee/gnome-extension-connman",
+        "/seokhee-lee/Connect-SDK-Android-API-Sampler",
+        "/seokhee-lee/Connect-SDK-Cordova-API-Sampler",
+        "/seokhee-lee/Connect-SDK-Cordova-Plugin",
+        "/seokhee-lee/Connect-SDK-Android-Core",
+        "/seokhee-lee/Connect-SDK-Android"
+    ],
+    "Sundar2629": [
+        "/Sundar2629/connectedhomeip"
+    ],
+    "tiokim": [],
+    "Xiole-KKE": [
+        "/Xiole-KKE/connectedhomeip"
+    ],
+    "yhoyoon": [
+        "/yhoyoon/yhoyoon.github.io",
+        "/yhoyoon/SmartThingsEdgeDrivers",
+        "/yhoyoon/connectedhomeip"
+    ],
+    "pigletz2": [
+        "/pigletz2/br2_pi2",
+        "/pigletz2/connectedhomeip"
+    ],
+    "zwx1995esp": [
+        "/zwx1995esp/openthread",
+        "/zwx1995esp/esp-idf",
+        "/zwx1995esp/pyspinel",
+        "/zwx1995esp/connectedhomeip"
+    ],
+    "achsoftathome": [
+        "/achsoftathome/connectedhomeip"
+    ],
+    "anqid-g": [
+        "/anqid-g/grpc",
+        "/anqid-g/openweave-core",
+        "/anqid-g/fsl-community-bsp-base",
+        "/anqid-g/connectedhomeip"
+    ],
+    "anchao": [],
+    "balducci-apple": [
+        "/balducci-apple/connectedhomeip"
+    ],
+    "bhmanda-silabs": [
+        "/bhmanda-silabs/connectedhomeip",
+        "/bhmanda-silabs/sdk_support"
+    ],
+    "caipiblack": [
+        "/caipiblack/connectedhomeip",
+        "/caipiblack/ot-br-posix",
+        "/caipiblack/cpc-daemon"
+    ],
+    "chinmaya-nxp": [
+        "/chinmaya-nxp/connectedhomeip",
+        "/chinmaya-nxp/nano-package"
+    ],
+    "crlonxp": [
+        "/crlonxp/mw320_sdk",
+        "/crlonxp/meta-matter",
+        "/crlonxp/connectedhomeip"
+    ],
+    "gdony": [
+        "/gdony/connectedhomeip"
+    ],
+    "hidaris": [
+        "/hidaris/thingtalk",
+        "/hidaris/thinking-dumps",
+        "/hidaris/webthing-nlp",
+        "/hidaris/webthing-zigbee",
+        "/hidaris/homeassistant-webthing",
+        "/hidaris/racket-mqtt"
+    ],
+    "jinran-google": [
+        "/jinran-google/openthread",
+        "/jinran-google/ot-br-posix",
+        "/jinran-google/pyspinel",
+        "/jinran-google/connectedhomeip"
+    ],
+    "joyoungjun": [
+        "/joyoungjun/connectedhomeip",
+        "/joyoungjun/alexa-oauth-sample"
+    ],
+    "jpagecharter": [
+        "/jpagecharter/connectedhomeip"
+    ],
+    "jt5440": [],
+    "kim-apple": [
+        "/kim-apple/connectedhomeip"
+    ],
+    "kkmcheun": [
+        "/kkmcheun/connectedhomeip"
+    ],
+    "marius-alex-tache": [
+        "/marius-alex-tache/connectedhomeip"
+    ],
+    "mcatee-infineon": [
+        "/mcatee-infineon/connectedhomeip"
+    ],
+    "mfucci": [
+        "/mfucci/node-matter",
+        "/mfucci/keeplocal",
+        "/mfucci/dhcp",
+        "/mfucci/vendor-lookup",
+        "/mfucci/connectedhomeip",
+        "/mfucci/matter.js"
+    ],
+    "oleggladyshev": [
+        "/oleggladyshev/connectedhomeip",
+        "/oleggladyshev/userver"
+    ],
+    "poyamini": [
+        "/poyamini/connectedhomeip",
+        "/poyamini/wiseconnect-wifi-bt-sdk"
+    ],
+    "shripad621git": [
+        "/shripad621git/cv",
+        "/shripad621git/Story",
+        "/shripad621git/OEP",
+        "/shripad621git/UOS",
+        "/shripad621git/UPrograms",
+        "/shripad621git/DM-LAB"
+    ],
+    "spalas1996": [
+        "/spalas1996/connectedhomeip"
+    ],
+    "sungho1shin": [
+        "/sungho1shin/connectedhomeip"
+    ],
+    "cabin15": [
+        "/cabin15/webos-ose-ndk",
+        "/cabin15/connectedhomeip"
+    ],
+    "whisper2chen": [
+        "/whisper2chen/ebook",
+        "/whisper2chen/setup",
+        "/whisper2chen/snippets",
+        "/whisper2chen/nvim",
+        "/whisper2chen/notebook",
+        "/whisper2chen/gear-lib"
+    ],
+    "utzcoz": [],
+    "wahajsyed": [
+        "/wahajsyed/embedded-systems-kernel",
+        "/wahajsyed/nqueens",
+        "/wahajsyed/connectedhomeip"
+    ]
+}

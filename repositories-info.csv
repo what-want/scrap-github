@@ -1,0 +1,571 @@
+full_name,name,owner,owner_type,created_at,updated_at,forks_count,stars_count,default_branch,topics,language,open_issues_count,open_pull_requests_count,branches_count,tags_count,commits_count,watchers_count,releases_count,packages_count,contributors_count,languages,close_issues_count,issues_count,close_pull_requests_count,pull_requests_count
+openweave/openweave-core,openweave-core,openweave,Organization,2017-08-30T18:22:10Z,2023-01-27T19:50:35Z,111,225,master,[],C++,56,23,118,7,1915,47,0,0,58,"['C++', 'Python', 'C', 'Makefile', 'Objective-C++', 'Java']",68,124,546,569
+project-chip/connectedhomeip,connectedhomeip,project-chip,Organization,2020-03-03T17:05:10Z,2023-02-19T10:14:08Z,1326,5710,master,"['build-with-matter', 'chip', 'connected-devices', 'connected-home', 'connectedhomeip', 'connectivity-standards-alliance', 'csa-iot', 'internet-of-things', 'iot', 'matter', 'standard']",C++,817,84,36,21,11292,186,14,0,374,"['C++', 'Python', 'C', 'ZAP', 'Objective-C', 'Objective-C++']",7739,8556,16526,16610
+project-chip/zap,zap,project-chip,Organization,2020-03-27T19:01:59Z,2023-02-18T10:50:28Z,61,88,master,[],ZAP,108,12,9,23,3518,21,23,0,37,"['ZAP', 'JavaScript', 'Vue', 'TypeScript', 'Shell', 'Sass']",213,321,603,615
+andy31415/rs-value-plotter,rs-value-plotter,andy31415,User,2022-01-22T02:50:36Z,2023-02-18T18:42:56Z,5,29,master,[],Rust,1,0,1,0,13,3,0,0,0,['Rust'],1,2,0,0
+andy31415/rust-esp32-c3-demos,rust-esp32-c3-demos,andy31415,User,2022-03-13T19:03:47Z,2023-01-16T08:18:34Z,3,19,master,[],Rust,2,0,2,0,3,2,0,0,0,['Rust'],0,2,0,0
+andy31415/rust-cortex-m0-demos,rust-cortex-m0-demos,andy31415,User,2022-03-12T15:35:45Z,2022-12-07T07:42:33Z,2,9,master,[],Rust,0,0,10,0,12,1,0,0,0,"['Rust', 'GDB']",0,0,0,0
+andy31415/rust-stm32f3-discovery-adc-heart-sensor,rust-stm32f3-discovery-adc-heart-sensor,andy31415,User,2022-01-13T01:28:15Z,2023-02-17T01:13:55Z,1,7,master,[],Rust,0,0,1,0,7,1,0,0,0,['Rust'],0,0,0,0
+andy31415/rust_stm32f411_demos,rust_stm32f411_demos,andy31415,User,2022-05-30T00:25:43Z,2022-11-07T18:35:30Z,1,7,master,[],Rust,0,0,1,0,21,1,0,0,0,"['Rust', 'GDB']",0,0,0,0
+andy31415/sublime-matter-docker-builder,sublime-matter-docker-builder,andy31415,User,2022-01-11T02:41:28Z,2022-11-08T13:16:21Z,0,4,master,[],Python,0,0,1,0,16,1,0,0,0,['Python'],0,0,0,0
+nestlabs/nlbuild-autotools,nlbuild-autotools,nestlabs,Organization,2017-06-28T15:21:12Z,2023-01-28T04:12:21Z,11,4,master,[],M4,4,0,3,37,151,10,1,0,8,"['M4', 'Makefile', 'Shell']",11,15,57,57
+vansante/github-pr-labeler,github-pr-labeler,vansante,User,2019-07-17T09:45:39Z,2022-11-24T11:54:34Z,4,9,master,"['github-app', 'labeling', 'labeling-tool', 'probot', 'probot-app', 'pull-request']",JavaScript,0,0,1,0,22,1,0,0,2,"['JavaScript', 'Shell']",0,0,7,7
+GoogleCloudPlatform/cloud-build-samples,cloud-build-samples,GoogleCloudPlatform,Organization,2021-03-04T21:25:11Z,2023-02-16T17:51:12Z,708,108,main,['samples'],Java,3,1,4,0,289,9,0,0,20,"['Java', 'HCL', 'Shell', 'Python', 'Dockerfile', 'JavaScript']",40,43,140,141
+mspang/inapt,inapt,mspang,User,2009-12-23T04:46:26Z,2017-01-23T14:44:07Z,2,3,master,[],C++,0,0,1,0,106,3,0,0,3,"['C++', 'C']",0,0,4,4
+mspang/mntfs,mntfs,mspang,User,2011-04-05T03:25:16Z,2014-02-03T14:19:24Z,0,1,master,[],C,0,0,1,0,3,2,0,0,0,['C'],0,0,0,0
+mspang/mkcrt,mkcrt,mspang,User,2011-04-08T23:55:05Z,2013-10-30T08:53:11Z,0,1,master,[],,0,0,1,0,1,2,0,0,0,[],0,0,0,0
+neuros/u-boot,u-boot,neuros,User,2008-09-11T22:53:21Z,2022-10-19T11:38:15Z,7,17,master,[],C,0,0,2,0,4453,9,0,0,20,['C'],0,0,0,0
+catapult-project/catapult,catapult,catapult-project,Organization,2015-04-14T17:49:05Z,2023-02-17T04:16:22Z,567,1829,main,[],HTML,1000,12,5,0,17378,160,0,0,251,"['HTML', 'Python', 'JavaScript', 'Go', 'C++', 'CSS']",3579,4579,28,40
+Damian-Nordic/matter-tips,matter-tips,Damian-Nordic,User,2022-10-26T13:51:14Z,2022-11-03T15:46:04Z,0,1,master,[],,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+zephyrproject-rtos/zephyr,zephyr,zephyrproject-rtos,Organization,2016-05-26T17:54:19Z,2023-02-19T15:17:05Z,4572,7293,main,"['bluetooth', 'bluetooth-le', 'embedded', 'embedded-c', 'iot', 'mcu', 'microcontroller', 'real-time', 'rtos', 'zephyr', 'zephyr-rtos', 'zephyros']",C,1500,604,169,172,75026,380,106,0,1468,"['C', 'Python', 'CMake', 'Assembly', 'Perl', 'Shell']",15360,16860,36586,37190
+nrfconnect/sdk-nrf,sdk-nrf,nrfconnect,Organization,2018-02-14T13:50:55Z,2023-02-19T10:04:03Z,935,603,main,[],C,0,132,28,79,13301,83,26,0,320,"['C', 'Python', 'CMake', 'ZAP', 'C++', 'Perl']",10221,10221,10221,10353
+nrfconnect/sdk-nrfxlib,sdk-nrfxlib,nrfconnect,Organization,2018-09-21T11:46:24Z,2023-02-13T10:29:57Z,250,86,main,[],C,0,18,14,66,1107,61,14,0,117,"['C', 'CMake']",893,893,893,911
+nrfconnect/sdk-connectedhomeip,sdk-connectedhomeip,nrfconnect,Organization,2020-12-08T10:50:54Z,2023-02-10T05:06:17Z,29,33,master,[],C++,0,2,8,42,10807,56,22,0,356,"['C++', 'Python', 'C', 'Objective-C', 'ZAP', 'Objective-C++']",215,215,215,217
+openweave/happy,happy,openweave,Organization,2017-08-30T18:24:22Z,2022-04-17T16:00:44Z,22,41,master,[],Python,6,1,8,0,69,17,0,0,10,"['Python', 'Shell', 'Makefile']",9,15,32,33
+openthread/openthread,openthread,openthread,Organization,2016-04-08T20:47:41Z,2023-02-17T21:34:01Z,988,3075,main,"['embedded', 'google', 'hacktoberfest', 'ieee-802154', 'internet-of-things', 'iot', 'ipv6', 'mesh-networks', 'nest', 'openthread', 'wireless']",C++,79,32,1,5,6989,214,5,0,187,"['C++', 'Python', 'C', 'Shell', 'Makefile', 'CMake']",1359,1438,6972,7004
+Orange-OpenSource/pandoc-terminal-writer,pandoc-terminal-writer,Orange-OpenSource,Organization,2018-08-16T17:29:42Z,2023-01-27T20:02:09Z,5,30,master,"['cyberpunk', 'document-reader', 'pandoc', 'terminal-based']",Lua,0,0,1,0,21,12,0,0,3,['Lua'],1,1,4,4
+kpschoedel/actiontest,actiontest,kpschoedel,User,2021-11-15T16:08:56Z,2021-11-18T21:31:52Z,1,0,main,[],Shell,0,1,1,0,15,0,0,0,2,['Shell'],0,0,3,4
+kghost/bilibili-area-limit,bilibili-area-limit,kghost,User,2019-04-15T20:06:22Z,2023-02-11T09:33:28Z,35,379,master,[],JavaScript,9,5,7,0,53,10,0,0,3,['JavaScript'],13,22,19,24
+kghost/ics-openvpn,ics-openvpn,kghost,User,2012-03-11T11:42:37Z,2022-07-27T23:06:51Z,54,91,master,[],Java,0,0,1,0,29,14,0,0,0,"['Java', 'C']",4,4,0,0
+lxqt/qterminal,qterminal,lxqt,Organization,2012-02-21T14:19:12Z,2023-02-19T15:15:13Z,138,499,master,[],C++,94,6,11,15,995,41,14,0,174,"['C++', 'CMake', 'C', 'Shell']",349,443,583,589
+kghost/th123_toolset,th123_toolset,kghost,User,2012-01-11T17:12:05Z,2023-02-02T01:18:35Z,0,11,master,[],,0,0,1,0,5,3,0,0,0,[],0,0,0,0
+CyanogenMod/android_device_motorola_victara,android_device_motorola_victara,CyanogenMod,Organization,2014-12-29T17:13:56Z,2023-01-12T23:06:07Z,70,27,cm-14.1,[],C,0,0,10,0,526,26,0,0,32,"['C', 'C++', 'Java', 'Makefile', 'Shell', 'Objective-C']",8,8,8,8
+kghost/VirtualWebcam,VirtualWebcam,kghost,User,2011-12-27T16:33:41Z,2022-08-20T04:07:26Z,4,7,master,[],C++,0,0,1,0,5,3,0,0,0,"['C++', 'C']",0,0,0,0
+trezor/cython-hidapi,cython-hidapi,trezor,Organization,2013-03-10T11:41:36Z,2023-02-16T22:03:40Z,104,231,master,[],Cython,10,3,4,17,185,20,0,0,35,"['Cython', 'Python']",95,105,40,43
+kmackay/micro-ecc,micro-ecc,kmackay,User,2013-05-05T16:29:20Z,2023-02-18T09:43:29Z,401,1067,master,[],PHP,28,5,4,2,224,84,2,0,21,"['PHP', 'C++', 'C', 'Python']",135,163,35,40
+openweave/openweave-esp32-demo,openweave-esp32-demo,openweave,Organization,2018-08-17T23:06:42Z,2023-01-12T15:35:07Z,9,24,master,[],C++,1,1,3,0,60,12,0,0,4,"['C++', 'Shell', 'Makefile', 'C']",6,7,7,8
+zephyrproject-rtos/openthread,openthread,zephyrproject-rtos,Organization,2019-07-23T09:18:08Z,2023-02-09T11:27:46Z,30,22,main,"['module', 'networking']",C++,0,1,2,0,6926,7,0,0,179,"['C++', 'Python', 'C', 'Makefile', 'Shell', 'CMake']",77,77,77,78
+zephyrproject-rtos/west,west,zephyrproject-rtos,Organization,2018-05-23T13:56:05Z,2023-02-17T09:11:22Z,96,135,main,"['build-tool', 'debugging', 'flashing', 'repository-management', 'zephyr']",Python,39,2,10,50,791,25,5,0,28,['Python'],226,265,343,345
+tcarmelveilleux/dcc6502,dcc6502,tcarmelveilleux,User,2014-07-23T17:44:07Z,2023-02-11T14:28:53Z,11,40,master,[],C,1,1,1,3,24,2,2,0,2,"['C', 'Makefile']",1,2,2,3
+tcarmelveilleux/bmat8641,bmat8641,tcarmelveilleux,User,2012-01-27T00:38:37Z,2021-07-16T13:25:57Z,1,5,master,[],C,0,0,1,0,1,1,0,0,0,"['C', 'Assembly']",0,0,0,0
+tcarmelveilleux/EAGLE_tentech,EAGLE_tentech,tcarmelveilleux,User,2012-01-20T00:45:14Z,2020-12-16T16:58:30Z,2,1,master,[],Python,0,0,1,0,1,1,0,0,0,"['Python', 'Shell']",0,0,0,0
+tcarmelveilleux/NixieClock,NixieClock,tcarmelveilleux,User,2012-01-20T01:03:56Z,2020-12-16T16:58:30Z,0,1,master,[],Assembly,0,0,1,0,1,1,0,0,0,['Assembly'],0,0,0,0
+smhanov/jzbuild,jzbuild,smhanov,User,2010-07-28T00:04:38Z,2021-11-18T16:49:38Z,6,37,master,[],Python,5,0,3,0,60,5,0,0,0,['Python'],3,8,0,0
+tcarmelveilleux/coffeepi,coffeepi,tcarmelveilleux,User,2016-01-09T02:50:35Z,2020-12-16T16:58:29Z,0,1,master,[],Python,0,0,1,0,3,1,0,0,0,"['Python', 'Shell']",0,0,0,0
+openweave/openweave-wdlc,openweave-wdlc,openweave,Organization,2019-07-01T00:20:56Z,2021-09-20T15:55:32Z,8,1,master,[],Python,11,1,2,4,76,8,0,0,5,"['Python', 'Makefile', 'C++', 'Shell', 'C', 'M4', 'NASL']",6,17,26,27
+mrjerryjohns/weave-demo-apps,weave-demo-apps,mrjerryjohns,User,2020-08-24T22:07:25Z,2020-08-24T22:12:15Z,0,0,master,[],C++,0,0,1,0,1,1,0,0,0,"['C++', 'C', 'Makefile', 'CSS']",0,0,0,0
+mrjerryjohns/repl-docker,repl-docker,mrjerryjohns,User,2021-12-28T00:49:28Z,2022-01-06T22:34:47Z,0,0,master,[],Jupyter Notebook,0,0,1,0,24,1,0,0,0,"['Jupyter Notebook', 'HTML']",0,0,0,0
+SiliconLabs/Gecko_SDK_discontinued,Gecko_SDK_discontinued,SiliconLabs,Organization,2016-06-17T14:31:39Z,2022-06-07T17:16:39Z,53,71,master,[],,0,0,1,8,3,29,8,0,2,[],3,3,3,3
+SiliconLabs/gecko_sdk,gecko_sdk,SiliconLabs,Organization,2021-08-05T19:51:11Z,2023-02-18T15:09:55Z,79,186,gsdk_4.2,[],C,22,5,4,10,4,42,10,0,3,"['C', 'Python', 'Assembly', 'ZAP', 'Jinja', 'HTML']",4,26,3,8
+hank820/ambd_sdk_with_chip_non_NDA,ambd_sdk_with_chip_non_NDA,hank820,User,2021-04-26T03:30:57Z,2023-01-14T01:29:59Z,10,1,master,[],C,0,0,5,0,35,2,0,0,3,"['C', 'Assembly', 'Java', 'Objective-C', 'Makefile', 'C++']",0,0,0,0
+hank820/ambz2_sdk,ambz2_sdk,hank820,User,2021-07-01T04:55:07Z,2022-11-04T07:57:16Z,34,7,matter,[],C,0,0,40,0,220,2,0,0,0,[],0,0,0,0
+apple/HomeKitADK,HomeKitADK,apple,Organization,2019-12-11T17:37:22Z,2023-02-19T15:15:55Z,236,2453,master,[],C,35,2,1,0,57,144,0,0,16,"['C', 'Shell', 'Objective-C']",32,67,55,57
+rgoliver/test,test,rgoliver,User,2014-02-23T15:51:36Z,2014-02-23T15:51:36Z,0,0,master,[],,1,0,1,0,1,1,0,0,0,[],0,1,0,0
+NordicSemiconductor/pc-nrfutil,pc-nrfutil,NordicSemiconductor,Organization,2015-05-21T13:29:02Z,2023-02-11T14:02:38Z,248,361,master,[],Python,0,0,44,47,638,53,26,0,55,"['Python', 'Gherkin']",148,148,241,241
+arkq/bluez-alsa,bluez-alsa,arkq,User,2016-08-18T20:56:32Z,2023-02-12T09:15:29Z,168,740,master,"['alsa', 'audio', 'bluetooth', 'bluez', 'linux']",C,10,6,3,11,824,43,0,0,20,"['C', 'M4', 'Shell', 'Makefile', 'Python']",437,447,131,137
+arkq/cmusfm,cmusfm,arkq,User,2014-03-30T09:19:03Z,2023-02-14T06:52:08Z,7,209,master,"['cmus', 'last-fm', 'libre-fm', 'scrobble']",C,3,1,1,10,88,5,0,0,4,"['C', 'M4']",40,43,6,7
+arkq/openaptx,openaptx,arkq,User,2017-11-01T10:31:14Z,2023-02-11T02:13:50Z,16,108,master,"['aptx', 'aptx-hd', 'library', 'reverse-engineering']",C,2,1,1,3,50,14,0,0,0,"['C', 'CMake', 'GDB']",6,8,0,1
+arkq/flake8-requirements,flake8-requirements,arkq,User,2017-11-30T06:38:37Z,2023-01-27T19:43:17Z,17,34,master,"['flake8', 'flake8-plugin']",Python,9,0,1,27,75,4,0,0,18,['Python'],28,37,36,36
+mgumz/alock,alock,mgumz,User,2014-11-23T20:07:07Z,2022-07-01T21:22:36Z,9,8,master,[],C,0,1,1,1,158,3,1,0,6,"['C', 'M4', 'Makefile']",1,1,1,2
+arkq/kindle-env,kindle-env,arkq,User,2016-02-07T19:43:30Z,2022-11-13T22:58:02Z,6,27,master,"['cross-compiler-toolchain', 'development-environment', 'kindle']",Shell,0,0,1,0,26,5,0,0,0,"['Shell', 'BitBake', 'PHP']",0,0,0,0
+jeremyjh/ESP32_TFT_library,ESP32_TFT_library,jeremyjh,User,2019-09-14T20:35:57Z,2023-01-23T18:06:22Z,217,38,master,[],C,0,0,1,0,67,7,0,0,0,[],17,17,10,10
+sharadb-amazon/playground,playground,sharadb-amazon,User,2021-05-26T21:38:05Z,2021-06-25T07:03:50Z,0,0,main,[],C++,0,0,2,0,3,1,0,0,0,['C++'],0,0,1,1
+doru91/linux-stable,linux-stable,doru91,User,2017-02-10T12:38:06Z,2017-05-16T01:17:55Z,0,1,master,[],C,0,0,2,0,546744,4,0,0,5001,"['C', 'C++', 'Assembly', 'Makefile', 'Objective-C', 'Perl']",0,0,0,0
+doru91/RedmineIssues,RedmineIssues,doru91,User,2015-04-10T10:33:28Z,2015-04-17T10:29:23Z,0,0,master,[],Java,0,0,1,0,4,2,0,0,0,['Java'],0,0,0,0
+doru91/MPTCP_UML,MPTCP_UML,doru91,User,2015-10-31T21:41:46Z,2015-10-31T21:41:46Z,0,0,master,[],,0,0,0,0,0,0,0,0,0,[],0,0,0,0
+doru91/wcn36xx,wcn36xx,doru91,User,2016-08-12T14:38:02Z,2016-08-12T14:39:18Z,1,0,master,[],C,0,0,1,0,462,2,0,0,11,"['C', 'C++']",0,0,0,0
+cooldudezach/android_kernel_zte_msm8930,android_kernel_zte_msm8930,cooldudezach,User,2013-12-31T10:07:21Z,2014-01-02T06:42:58Z,2,0,master,[],C,1,0,2,0,1,1,0,0,0,"['C', 'Assembly', 'C++', 'Objective-C', 'Perl', 'Shell']",0,1,0,0
+manjunath-grl/GitHooks,GitHooks,manjunath-grl,User,2022-11-17T09:00:32Z,2022-11-23T06:35:49Z,0,0,upstream,[],JavaScript,0,1,2,0,36,1,0,0,2,"['JavaScript', 'CSS', 'HTML', 'Python', 'C#', 'Shell']",0,0,7,8
+kuju63/pre-commit-hooks-dotnet-core,pre-commit-hooks-dotnet-core,kuju63,User,2020-03-12T16:42:47Z,2022-11-12T13:52:17Z,1,5,master,"['dotnet-core', 'formatting', 'pre-commit-hook', 'test']",Shell,1,0,1,3,7,1,3,0,0,['Shell'],4,5,4,4
+DovAmir/awesome-design-patterns,awesome-design-patterns,DovAmir,User,2018-06-04T17:47:48Z,2023-02-19T14:13:18Z,2276,28143,master,"['architecture', 'awesome', 'awesome-list', 'cloud-computing', 'design-patterns', 'gof-patterns', 'lists', 'microservices', 'resources']",,4,8,1,0,104,663,0,0,29,[],4,8,40,48
+facebook/watchman,watchman,facebook,Organization,2012-11-29T23:35:52Z,2023-02-19T13:35:23Z,945,11533,main,[],C++,136,21,15,199,11452,271,121,0,230,"['C++', 'Python', 'Rust', 'Java', 'CMake', 'Thrift']",500,636,424,445
+krypton36/krypton36.github.io,krypton36.github.io,krypton36,User,2016-07-30T19:57:18Z,2016-07-31T03:56:27Z,0,0,master,[],HTML,0,0,1,0,46,1,0,0,0,"['HTML', 'PHP', 'CSS', 'JavaScript']",0,0,0,0
+krypton36/Connect-Four,Connect-Four,krypton36,User,2016-07-31T18:22:32Z,2016-07-31T18:26:32Z,0,0,master,[],C,0,0,1,0,15,1,0,0,0,"['C', 'Makefile']",0,0,0,0
+krypton36/Klotski-Solver,Klotski-Solver,krypton36,User,2016-07-31T21:45:56Z,2016-07-31T21:46:16Z,0,0,master,[],C,0,0,1,0,1,1,0,0,0,"['C', 'Makefile']",0,0,0,0
+krypton36/data-structures-java,data-structures-java,krypton36,User,2016-08-01T01:15:20Z,2016-08-01T01:44:23Z,0,0,master,[],Java,0,0,1,0,1,2,0,0,0,['Java'],0,0,0,0
+openthread/ot-qorvo,ot-qorvo,openthread,Organization,2021-03-24T22:05:03Z,2022-12-14T23:37:42Z,10,3,main,['openthread'],C,1,0,1,0,450,13,0,0,8,"['C', 'CMake', 'Shell', 'C++']",2,3,458,458
+Qorvo/qpg-openthread,qpg-openthread,Qorvo,Organization,2020-12-14T10:15:54Z,2022-01-10T15:07:43Z,7,0,master,"['openthread-application', 'qorvo', 'thread-device']",,0,0,1,0,21,4,0,0,3,[],12,12,12,12
+espressif/esp-idf,esp-idf,espressif,Organization,2016-08-17T10:40:35Z,2023-02-19T04:10:26Z,6202,9981,master,[],C,1300,130,17,111,28187,490,89,0,668,"['C', 'Python', 'C++', 'CMake', 'Assembly', 'Shell']",7958,9258,1335,1465
+openthread/ot-nrf528xx,ot-nrf528xx,openthread,Organization,2021-01-28T16:13:19Z,2023-02-07T11:33:02Z,45,28,main,['openthread'],C,4,2,1,0,466,15,0,0,19,"['C', 'CMake', 'Shell']",31,35,475,477
+openthread/ot-br-posix,ot-br-posix,openthread,Organization,2017-05-10T16:31:06Z,2023-02-13T17:52:21Z,179,283,main,"['avahi', 'border-router', 'google', 'hacktoberfest', 'internet-of-things', 'iot', 'iot-gateway', 'ipv6', 'nest', 'openthread', 'tayga', 'thread-protocol', 'wpantund']",C++,42,10,4,1,1166,47,1,0,61,"['C++', 'Shell', 'CMake', 'HTML', 'JavaScript', 'CSS']",353,395,1351,1361
+espressif/esp-matter,esp-matter,espressif,Organization,2022-05-18T10:02:59Z,2023-02-16T16:12:07Z,62,269,main,[],C++,31,3,4,0,542,21,0,0,16,"['C++', 'C', 'Python']",178,209,10,13
+espressif/arduino-esp32,arduino-esp32,espressif,Organization,2016-10-06T06:04:20Z,2023-02-19T15:01:37Z,6450,10167,master,"['arduino', 'esp-idf', 'esp32', 'platformio']",C,359,49,10,41,2038,472,40,0,596,"['C', 'C++']",5198,5557,2037,2086
+espressif/esp32-arduino-lib-builder,esp32-arduino-lib-builder,espressif,Organization,2019-03-12T11:01:28Z,2023-02-14T14:53:44Z,79,98,master,[],C,15,4,4,0,146,12,0,0,17,"['C', 'Shell', 'Python', 'CMake']",34,49,52,56
+sweetymhaiske/my-first-repo,my-first-repo,sweetymhaiske,User,2020-07-22T02:01:06Z,2020-07-22T02:53:05Z,0,0,master,[],,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+seankross/the-unix-workbench,the-unix-workbench,seankross,User,2016-10-11T19:41:56Z,2023-02-15T11:55:06Z,2212,1204,master,"['cc0', 'unix']",CSS,10,331,3,0,2301,17,0,0,807,"['CSS', 'HTML', 'TeX']",6,16,998,1329
+gerickson/opencflite,opencflite,gerickson,User,2021-06-09T23:20:44Z,2023-01-14T03:29:45Z,0,10,main,[],C,3,0,4,18,269,3,17,0,2,"['C', 'C++', 'Objective-C', 'Makefile', 'Shell', 'Objective-C++']",56,59,59,59
+gerickson/cstyle,cstyle,gerickson,User,2017-06-07T18:18:46Z,2022-08-14T23:58:15Z,0,1,master,[],C++,0,0,1,0,7,2,0,0,0,"['C++', 'Perl', 'Makefile', 'Objective-C++']",0,0,3,3
+gerickson/openhlx,openhlx,gerickson,User,2021-05-21T18:32:53Z,2022-01-05T22:42:00Z,0,1,main,[],C++,2,0,6,7,732,1,6,0,0,"['C++', 'Makefile']",10,12,10,10
+gerickson/openhlx-ios,openhlx-ios,gerickson,User,2021-06-02T05:08:25Z,2022-01-06T18:05:43Z,0,1,main,[],Objective-C++,1,0,3,1,31,1,0,0,0,"['Objective-C++', 'Objective-C', 'C++', 'Shell']",1,2,2,2
+gerickson/opencfnetwork,opencfnetwork,gerickson,User,2021-07-19T23:37:04Z,2021-11-15T00:46:17Z,0,1,main,[],Makefile,6,0,1,4,177,1,4,0,0,"['Makefile', 'M4', 'Shell']",7,13,8,8
+dhrishi/rainmaker-ble-wifi-bridge,rainmaker-ble-wifi-bridge,dhrishi,User,2020-05-04T09:54:39Z,2022-11-07T14:01:25Z,3,9,master,[],C,0,0,1,0,10,3,0,0,2,"['C', 'CMake']",0,0,0,0
+kedars/xively-js,xively-js,kedars,User,2013-10-17T10:28:39Z,2013-10-31T06:27:52Z,47,0,master,[],JavaScript,0,0,2,0,52,2,0,0,0,[],3,3,3,3
+knu0313/libxively,libxively,knu0313,User,2013-05-21T05:41:50Z,2017-03-01T14:32:49Z,21,0,master,[],C,0,0,4,0,3,1,0,0,0,[],0,0,0,0
+rahulgm/aws_starter_sdk,aws_starter_sdk,rahulgm,User,2015-10-28T06:57:14Z,2019-12-26T08:39:36Z,66,0,master,[],C,0,0,3,1,48,1,0,0,0,"['C', 'C++', 'Makefile', 'Python', 'Shell']",2,2,2,2
+dhrishi/ez-connect-lite,ez-connect-lite,dhrishi,User,2016-08-01T09:23:31Z,2019-08-07T22:58:45Z,21,0,master,[],C,0,0,1,0,5,1,0,0,0,"['C', 'Makefile', 'C++', 'Python', 'Shell']",0,0,0,0
+ARMmbed/mbed-os,mbed-os,ARMmbed,Organization,2013-02-18T15:23:11Z,2023-02-19T14:50:54Z,2884,4286,master,[],C,178,2,52,332,34456,306,125,1,684,"['C', 'Assembly', 'C++', 'Python', 'CMake', 'Makefile']",4295,4473,10888,10890
+ARMmbed/wifi-ism43362,wifi-ism43362,ARMmbed,Organization,2018-02-12T13:48:04Z,2022-01-05T07:20:58Z,21,15,master,[],C++,0,0,2,1,137,15,1,0,13,"['C++', 'C', 'CMake']",36,36,59,59
+mcu-tools/mcuboot,mcuboot,mcu-tools,Organization,2016-12-12T23:53:39Z,2023-02-17T23:43:09Z,528,955,main,"['bootloader', 'device', 'device-management', 'iot', 'microcontrollers', 'software', 'upgrade']",C,50,43,21,58,1939,67,0,0,146,"['C', 'Rust', 'Python', 'Assembly', 'CMake', 'Makefile']",313,363,1171,1214
+ARMmbed/mbed-tools,mbed-tools,ARMmbed,Organization,2019-10-16T09:54:48Z,2023-01-24T04:49:55Z,24,41,master,"['cli', 'mbed', 'mbed-os', 'os', 'tools', 'toolset']",Python,50,1,8,117,482,53,0,0,21,['Python'],86,136,186,187
+msandstedt/zcoap-pdu,zcoap-pdu,msandstedt,User,2019-11-18T12:35:39Z,2019-11-18T12:35:39Z,0,0,master,[],,0,0,0,0,0,0,0,0,0,[],0,0,0,0
+SmartThingsCommunity/SmartThingsPublic,SmartThingsPublic,SmartThingsCommunity,Organization,2015-08-04T22:48:02Z,2023-02-18T10:30:47Z,91251,2459,master,"['internet-of-things', 'oauth2', 'open-source', 'smartapp', 'smartthings', 'upnp', 'zigbee', 'zwave']",Groovy,61,2500,4124,317,5151,359,0,0,187,['Groovy'],60,121,77028,79528
+SiliconLabs/peripheral_examples,peripheral_examples,SiliconLabs,Organization,2018-01-09T20:13:39Z,2023-02-14T18:18:26Z,180,273,master,"['efm32', 'efr32']",C,0,0,1,0,260,40,0,0,15,['C'],111,111,8,8
+csa-iot/data-model,data-model,csa-iot,Organization,2021-05-27T16:39:49Z,2022-08-19T10:14:06Z,6,5,main,[],XSLT,0,5,6,1,545,4,1,0,5,"['XSLT', 'Shell']",5,5,5,10
+akesterson/shunit,shunit,akesterson,User,2012-12-20T03:24:28Z,2022-05-25T17:07:32Z,8,23,master,[],Shell,4,1,2,4,30,3,0,0,0,"['Shell', 'Makefile']",2,6,0,1
+zigbee-alliance/distributed-compliance-ledger,distributed-compliance-ledger,zigbee-alliance,Organization,2020-07-13T15:42:09Z,2023-01-24T19:24:58Z,36,54,master,"['blockchain', 'cosmos-sdk', 'distributed-ledger', 'ledger', 'tendermint', 'zigbee']",TypeScript,54,6,18,16,2307,5,11,0,15,"['TypeScript', 'JavaScript', 'Go', 'Shell', 'HCL', 'Python']",96,150,276,282
+nxp-imx/meta-matter,meta-matter,nxp-imx,Organization,2021-09-24T20:49:48Z,2023-02-04T23:42:08Z,10,15,master,[],BitBake,3,1,3,7,33,5,0,0,4,"['BitBake', 'Shell']",0,3,3,4
+aws/amazon-freertos,amazon-freertos,aws,Organization,2017-11-09T21:53:47Z,2023-02-19T11:04:00Z,1110,2526,main,[],C,20,0,52,36,4495,231,9,0,142,"['C', 'Python', 'CMake', 'Makefile', 'Shell', 'Go']",810,830,2709,2709
+praveenCY/lwip,lwip,praveenCY,User,2021-11-15T06:13:25Z,2021-11-15T06:17:32Z,0,0,STABLE-2_1_x,[],C,0,0,2,48,6296,1,0,0,0,['C'],0,0,0,0
+Mbed-TLS/mbedtls,mbedtls,Mbed-TLS,Organization,2012-11-14T13:13:13Z,2023-02-19T02:23:02Z,2204,4007,development,"['crypto', 'cryptography-library', 'psa', 'ssl', 'tls']",C,978,229,149,233,23398,194,52,0,270,"['C', 'Shell', 'Python', 'Makefile', 'Jinja', 'Perl']",1958,2936,3945,4174
+markus-becker-tridonic-com/mbedtls-yotta,mbedtls-yotta,markus-becker-tridonic-com,User,2015-09-21T13:27:23Z,2023-01-28T15:34:12Z,1,0,master,[],C,0,0,1,1,7,2,1,0,0,"['C', 'C++']",0,0,0,0
+ARMmbed/sal-iface-eth,sal-iface-eth,ARMmbed,Organization,2015-02-13T13:36:06Z,2016-03-27T09:10:40Z,7,1,master,[],C++,2,1,2,25,57,39,0,0,5,"['C++', 'C']",1,3,10,11
+ARMmbed/sal-stack-lwip,sal-stack-lwip,ARMmbed,Organization,2015-01-07T16:43:13Z,2021-05-04T16:55:07Z,14,4,master,[],C,8,0,5,46,234,43,0,0,9,"['C', 'C++', 'Python']",8,16,45,45
+ARMmbed/yotta,yotta,ARMmbed,Organization,2014-02-06T13:03:45Z,2023-01-28T11:04:33Z,66,163,master,[],Python,109,3,7,103,1546,60,89,0,39,['Python'],360,469,392,395
+tridonic-com/st-nucleo-f091rc-gcc,st-nucleo-f091rc-gcc,tridonic-com,Organization,2015-09-17T06:48:27Z,2023-01-28T14:31:16Z,5,1,master,[],CMake,0,1,9,7,25,2,3,0,3,['CMake'],0,0,9,10
+nrfconnect/sdk-zephyr,sdk-zephyr,nrfconnect,Organization,2018-02-05T14:45:23Z,2023-02-16T12:09:12Z,436,150,main,[],C,0,34,26,78,73409,60,9,0,1304,"['C', 'Python', 'CMake', 'Assembly', 'Perl', 'Shell']",1034,1034,1034,1068
+agners/heartbleed_test_openvpn,heartbleed_test_openvpn,agners,User,2014-04-10T22:18:59Z,2022-10-30T16:04:45Z,14,32,master,[],Python,0,1,1,0,3,6,0,0,0,['Python'],2,2,0,1
+agners/archlinuxarm-docker,archlinuxarm-docker,agners,User,2019-01-22T23:34:35Z,2023-01-09T19:27:35Z,23,27,master,[],Shell,3,1,2,0,30,3,0,0,2,['Shell'],2,5,3,4
+agners/micropython-scd30,micropython-scd30,agners,User,2019-07-12T22:32:28Z,2023-01-29T20:16:08Z,13,19,master,[],Python,3,0,1,0,8,2,0,0,0,['Python'],0,3,2,2
+agners/acdr,acdr,agners,User,2011-06-24T20:26:40Z,2021-07-27T09:50:49Z,3,9,master,[],Python,0,0,1,1,3,2,0,0,0,"['Python', 'JavaScript']",0,0,0,0
+agners/swiss-public-transport-card,swiss-public-transport-card,agners,User,2020-01-12T19:52:29Z,2022-01-08T17:02:25Z,2,7,master,[],JavaScript,3,0,1,0,2,1,0,0,0,['JavaScript'],1,4,0,0
+agners/switching-station,switching-station,agners,User,2020-10-25T15:38:55Z,2022-05-19T13:59:53Z,1,6,master,[],,0,0,1,0,14,2,0,0,0,[],0,0,0,0
+LuDuda/google-iot-thread,google-iot-thread,LuDuda,User,2018-12-11T14:51:27Z,2022-09-08T15:37:18Z,3,6,master,[],,0,0,2,0,3,2,0,0,2,[],0,0,1,1
+openthread/wpantund,wpantund,openthread,Organization,2016-06-08T17:32:11Z,2023-01-23T22:21:42Z,112,162,master,"['daemon', 'dbus', 'ipv6', 'native-ipv6-interface', 'ncp', 'openthread', 'spinel']",C++,23,9,9,10,654,30,0,0,36,"['C++', 'C', 'Shell', 'Makefile', 'M4', 'Dockerfile', 'Ruby']",80,103,403,412
+LuDuda/workshops_2021,workshops_2021,LuDuda,User,2021-04-09T14:13:19Z,2021-04-11T15:08:11Z,1,2,main,[],C,0,0,1,0,10,2,0,0,0,"['C', 'CMake']",0,0,0,0
+openthread/pyspinel,pyspinel,openthread,Organization,2017-04-24T16:02:46Z,2023-01-20T23:13:43Z,53,40,main,['hacktoberfest'],Python,6,3,1,5,100,25,0,0,32,"['Python', 'Shell', 'Makefile', 'Batchfile']",20,26,100,103
+openthread/ot-cc13x2-cc26x2,ot-cc13x2-cc26x2,openthread,Organization,2021-01-26T00:13:30Z,2023-02-10T13:46:37Z,6,13,main,['openthread'],C,2,0,1,0,433,4,0,0,6,"['C', 'Shell', 'Makefile', 'CMake']",1,3,439,439
+openthread/ot-docs,ot-docs,openthread,Organization,2021-03-30T17:53:28Z,2023-02-14T09:46:13Z,27,47,main,['openthread'],,1,0,1,0,87,15,0,0,20,[],21,22,89,89
+flutter/engine,engine,flutter,Organization,2015-07-16T17:39:56Z,2023-02-19T10:42:13Z,5012,6434,main,['c-plus-plus'],C++,0,90,471,28,32714,295,0,0,537,"['C++', 'Dart', 'Java', 'Objective-C++', 'Objective-C', 'C']",39074,39074,39074,39164
+microsoft/IoT-For-Beginners,IoT-For-Beginners,microsoft,Organization,2021-03-03T16:33:45Z,2023-02-19T12:38:07Z,1665,11909,main,"['cpp', 'hacktoberfest', 'iot', 'iot-device', 'iot-edge', 'microcontroller', 'python', 'raspberry-pi', 'rpi']",C++,30,7,3,0,320,282,0,0,64,"['C++', 'Python', 'C', 'Vue', 'Jupyter Notebook', 'HTML']",78,108,300,307
+google/pigweed,pigweed,google,Organization,2021-03-09T22:07:25Z,2023-02-18T02:54:59Z,41,160,main,"['cpp', 'embedded', 'embedded-systems', 'mcu', 'microcontroller']",C++,0,3,1,0,5409,16,0,0,83,"['C++', 'Python', 'Starlark', 'C', 'Java', 'CMake']",3,3,3,6
+jimlyall-q/qpg-connectedhomeip,qpg-connectedhomeip,jimlyall-q,User,2021-03-02T12:53:17Z,2021-10-07T10:05:14Z,8,0,master,[],C,0,0,1,0,40,0,0,0,5,['C'],0,0,0,0
+mykrupp/connectedhomeip-1,connectedhomeip-1,mykrupp,User,2022-01-27T16:01:30Z,2022-03-09T14:22:28Z,0,0,master,[],C++,0,0,36,12,7189,0,0,0,223,"['C++', 'C', 'Python', 'ZAP', 'Objective-C', 'Objective-C++']",1,1,1,1
+SiliconLabs/sdk_support,sdk_support,SiliconLabs,Organization,2020-08-05T14:49:12Z,2023-02-10T08:10:11Z,28,20,main,[],C,0,0,19,4,109,9,1,0,20,"['C', 'C++']",105,105,105,105
+openthread/ot-ifx,ot-ifx,openthread,Organization,2021-10-25T20:15:33Z,2023-01-31T19:14:41Z,6,4,main,[],C,0,0,1,0,240,14,0,0,5,"['C', 'Shell', 'C++', 'CMake']",1,1,247,247
+Infineon/OT-Matter-30739A0,OT-Matter-30739A0,Infineon,Organization,2022-01-11T06:31:13Z,2022-01-12T05:35:43Z,3,0,master,[],C,0,0,1,0,7,5,0,0,4,"['C', 'Perl', 'Makefile', 'Shell']",0,0,4,4
+Infineon/OT-Matter-TARGET_CYW930739M2EVB-01,OT-Matter-TARGET_CYW930739M2EVB-01,Infineon,Organization,2022-01-11T06:32:12Z,2022-01-12T05:42:18Z,2,0,master,[],C,0,0,1,0,5,4,0,0,2,"['C', 'Makefile']",0,0,2,2
+hsusid/pub-test,pub-test,hsusid,User,2022-07-26T02:38:48Z,2022-07-26T02:39:45Z,0,0,main,[],,0,0,0,0,0,0,0,0,0,[],0,0,0,0
+terafin/nextdns-proxy,nextdns-proxy,terafin,User,2019-12-11T02:39:33Z,2023-02-14T16:42:46Z,15,24,master,"['dns', 'dns-server', 'dnsmasq', 'doh', 'nextdns']",Shell,3,0,2,0,49,2,0,0,4,"['Shell', 'Dockerfile']",1,4,2,2
+terafin/mqtt-unifi-protect-bridge,mqtt-unifi-protect-bridge,terafin,User,2019-11-18T20:31:00Z,2023-01-06T04:28:00Z,5,20,master,[],JavaScript,3,3,14,0,60,3,0,0,2,"['JavaScript', 'Dockerfile']",2,5,93,96
+terafin/mqtt-netatmo-bridge,mqtt-netatmo-bridge,terafin,User,2017-04-20T07:34:09Z,2023-01-06T12:42:23Z,6,15,master,[],JavaScript,5,7,13,0,69,4,0,0,2,"['JavaScript', 'Dockerfile']",2,7,46,53
+mzac/unifi-video-mqtt,unifi-video-mqtt,mzac,User,2018-06-20T23:17:51Z,2023-01-17T18:32:39Z,21,44,master,"['mqtt', 'mqtt-server', 'unifi-video']",Shell,4,1,1,0,33,10,0,0,2,"['Shell', 'Dockerfile']",3,7,2,3
+terafin/mqtt-tesla-bridge,mqtt-tesla-bridge,terafin,User,2018-02-03T18:16:36Z,2023-01-19T18:58:39Z,4,7,master,[],JavaScript,0,7,15,0,80,2,0,0,3,"['JavaScript', 'Dockerfile']",3,3,63,70
+terafin/mqtt-alexa-bridge,mqtt-alexa-bridge,terafin,User,2017-04-18T16:44:50Z,2023-02-06T19:07:08Z,4,6,master,[],JavaScript,0,2,8,0,99,2,0,0,3,"['JavaScript', 'Dockerfile']",0,0,80,82
+PSONALl/esp_sonali,esp_sonali,PSONALl,User,2021-02-02T05:10:14Z,2021-02-02T09:36:45Z,0,0,main,[],C,0,0,1,0,2,1,0,0,0,['C'],0,0,0,0
+PSONALl/esp,esp,PSONALl,User,2021-02-02T05:11:57Z,2021-02-02T05:13:27Z,0,0,main,[],C,0,0,1,0,2,1,0,0,0,['C'],0,0,0,0
+PSONALl/zap-templates,zap-templates,PSONALl,User,2021-07-09T16:20:08Z,2021-12-02T05:24:24Z,0,0,main,[],,0,0,1,0,2,1,0,0,0,[],0,0,0,0
+shubhamdp/esp_ota,esp_ota,shubhamdp,User,2021-10-28T08:10:25Z,2023-01-31T11:50:52Z,1,3,main,[],C,0,0,1,0,38,1,0,0,0,['C'],0,0,0,0
+bukepo/connectedhomeip-private,connectedhomeip-private,bukepo,User,2020-05-19T11:54:03Z,2022-08-17T14:09:55Z,1,1,master,[],,0,0,12,0,734,1,0,0,0,"['C++', 'C', 'Makefile', 'M4', 'Objective-C', 'Shell']",0,0,0,0
+openwrt/packages,packages,openwrt,Organization,2014-05-29T20:43:16Z,2023-02-18T15:51:50Z,3023,3367,master,['hacktoberfest'],Makefile,616,170,8,1,28762,219,0,0,834,"['Makefile', 'Shell', 'C', 'C++', 'Lua', 'Vala']",3329,3945,16388,16558
+bukepo/vide,vide,bukepo,User,2012-09-26T12:18:16Z,2013-01-12T10:25:47Z,0,0,master,[],,1,0,1,0,1,1,0,0,0,[],0,1,0,0
+pexpect/pexpect,pexpect,pexpect,Organization,2013-09-17T17:36:44Z,2023-02-14T14:04:38Z,457,2328,master,[],Python,164,18,7,21,1578,98,11,0,85,['Python'],283,447,279,297
+riscv-non-isa/riscv-toolchain-conventions,riscv-toolchain-conventions,riscv-non-isa,Organization,2017-10-25T13:28:28Z,2023-02-17T02:06:30Z,17,89,master,[],,11,6,2,0,42,33,0,0,6,[],2,13,12,18
+bouffalolab/connectedhomeip-1,connectedhomeip-1,bouffalolab,Organization,2022-03-16T12:09:08Z,2023-01-31T19:39:16Z,1300,3,master,[],C++,0,4,30,15,11091,1,0,0,0,[],77,77,77,81
+kedars/matter-rs,matter-rs,kedars,User,2021-09-25T06:15:49Z,2023-02-01T12:44:19Z,5,42,master,[],Rust,4,1,3,0,418,7,0,0,3,['Rust'],0,4,12,13
+cesanta/frozen,frozen,cesanta,Organization,2013-12-22T14:27:00Z,2023-02-16T16:44:48Z,154,641,master,[],C,22,2,1,6,170,48,1,0,14,"['C', 'Makefile']",23,45,22,24
+makerdiary/nrf52840-mdk-usb-dongle,nrf52840-mdk-usb-dongle,makerdiary,Organization,2018-09-27T09:51:13Z,2023-02-09T01:50:55Z,69,212,master,"['bluetooth-low-energy', 'dongle', 'fido2', 'iot-device', 'nrf52840', 'open-hardware', 'openthread']",Python,49,3,2,0,80,10,0,0,5,"['Python', 'C', 'C++']",25,74,6,9
+BroderickCarlin/openweather,openweather,BroderickCarlin,User,2018-10-07T05:57:28Z,2022-06-16T17:05:14Z,12,6,master,[],Rust,5,2,2,0,3,3,0,0,0,['Rust'],1,6,0,2
+BroderickCarlin/stream_router,stream_router,BroderickCarlin,User,2020-04-12T01:06:33Z,2021-06-21T07:49:24Z,0,4,master,"['async', 'async-await', 'futures-rs', 'rust', 'streams']",Rust,0,0,1,0,18,2,0,0,0,['Rust'],0,0,0,0
+a1ien/libusb-rs,libusb-rs,a1ien,User,2018-10-12T15:35:37Z,2019-11-01T18:53:52Z,62,1,master,[],Rust,0,0,2,8,99,2,0,0,0,[],0,0,0,0
+BroderickCarlin/AdventOfCode,AdventOfCode,BroderickCarlin,User,2017-12-03T00:28:46Z,2018-02-07T19:20:12Z,0,0,master,[],Python,0,0,1,0,6,1,0,0,2,"['Python', 'C', 'Cuda', 'Rust']",0,0,0,0
+jithurjacob/Windows-10-Toast-Notifications,Windows-10-Toast-Notifications,jithurjacob,User,2015-12-08T08:17:04Z,2023-02-16T00:57:47Z,157,899,master,"['desktop-application', 'python', 'python-library', 'pywin32', 'win32', 'windows']",Python,46,22,1,0,44,24,0,0,8,['Python'],31,77,16,38
+Samsung/TizenRT,TizenRT,Samsung,Organization,2017-02-20T04:38:30Z,2023-02-19T12:20:58Z,522,473,master,[],C,24,59,2,6,10467,59,4,0,172,"['C', 'Assembly', 'Makefile', 'C++', 'Python', 'Shell']",117,141,5558,5617
+vidhis88/Android,Android,vidhis88,User,2014-07-15T22:14:09Z,2015-04-17T20:29:14Z,0,0,master,[],Java,0,0,1,0,21,1,0,0,0,['Java'],0,0,0,0
+vidhis88/ReturnApp,ReturnApp,vidhis88,User,2015-07-19T22:12:48Z,2015-09-12T23:27:17Z,0,0,develop,[],Java,0,0,2,0,14,1,0,0,2,['Java'],0,0,2,2
+TexasInstruments/matter,matter,TexasInstruments,Organization,2022-10-19T16:44:56Z,2023-01-23T20:10:41Z,4,6,v1.0-ti-branch,[],C++,0,0,30,17,9964,1,0,0,313,"['C++', 'C', 'Python', 'Objective-C', 'ZAP', 'Objective-C++']",1,1,1,1
+TexasInstruments/ot-ti,ot-ti,TexasInstruments,Organization,2022-12-15T19:52:20Z,2022-12-19T07:25:09Z,1,1,main,[],C,0,1,2,0,362,1,0,0,3,"['C', 'CMake', 'Shell']",0,0,37,38
+NXP/plug-and-trust,plug-and-trust,NXP,Organization,2020-07-13T18:03:48Z,2023-02-03T21:56:48Z,22,21,master,[],C,7,0,2,11,11,8,4,0,3,"['C', 'CMake']",4,11,2,2
+NXPPlugNTrust/nano-package,nano-package,NXPPlugNTrust,Organization,2022-03-10T20:43:00Z,2023-02-15T09:18:41Z,6,10,master,[],C,1,0,2,0,11,0,0,0,2,"['C', 'CMake']",0,1,7,7
+rikorsev/mocap-firmware,mocap-firmware,rikorsev,User,2021-06-06T14:08:39Z,2022-10-30T12:24:45Z,0,0,master,[],C,0,0,1,0,13,1,0,0,0,"['C', 'CMake']",0,0,0,0
+rikorsev/http_server,http_server,rikorsev,User,2022-09-11T23:00:03Z,2022-09-11T23:01:56Z,0,0,master,[],C,0,0,1,0,25,1,0,0,0,"['C', 'Makefile']",0,0,0,0
+rochaferraz/FreeFontConverter,FreeFontConverter,rochaferraz,User,2017-07-07T13:59:49Z,2021-11-29T18:28:32Z,0,1,master,[],C,0,0,1,0,18,2,0,0,0,"['C', 'Makefile', 'CMake']",1,1,0,0
+rxi/log.c,log.c,rxi,User,2017-03-12T14:31:53Z,2023-02-17T16:27:05Z,402,1787,master,[],C,10,15,1,0,7,48,0,0,0,['C'],6,16,2,17
+rxi/map,map,rxi,User,2014-09-11T18:23:09Z,2023-02-07T02:38:31Z,106,511,master,[],C,6,3,1,0,8,25,0,0,0,['C'],4,10,0,3
+amankhoza/synergy-binaries,synergy-binaries,amankhoza,User,2017-10-19T19:41:06Z,2023-02-18T22:49:08Z,53,179,master,[],,1,1,1,0,8,10,0,0,0,[],1,2,0,1
+sparkfun/SparkFun-Eagle-Libraries,SparkFun-Eagle-Libraries,sparkfun,Organization,2012-01-17T21:04:53Z,2023-02-11T19:54:33Z,1207,1667,main,"['eagle-cad', 'eagle-library', 'pcb-layout']",,9,0,2,9,2998,277,0,0,57,[],77,86,211,211
+rochaferraz/log,log,rochaferraz,User,2020-10-04T23:12:34Z,2020-10-04T23:12:38Z,0,0,main,[],,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+hubertmis/nRF-IEEE-802.15.4-radio-driver,nRF-IEEE-802.15.4-radio-driver,hubertmis,User,2017-09-21T10:46:35Z,2022-04-14T17:36:25Z,45,2,master,[],C,0,0,18,0,2,1,0,0,0,"['C', 'C++']",0,0,0,0
+NordicSemiconductor/pc-nrfconnect-gettingstarted,pc-nrfconnect-gettingstarted,NordicSemiconductor,Organization,2019-09-04T09:04:17Z,2023-02-16T13:08:13Z,8,13,main,[],SCSS,2,1,12,23,408,10,14,0,14,"['SCSS', 'JavaScript', 'Shell']",2,4,88,89
+janusheide/bouillon,bouillon,janusheide,User,2020-02-28T11:55:59Z,2022-09-28T06:36:18Z,0,1,master,[],Python,0,2,3,11,150,1,0,0,0,['Python'],0,0,35,37
+unbit/sftpclone,sftpclone,unbit,User,2014-10-29T12:13:02Z,2022-11-25T17:03:06Z,19,52,master,[],Python,4,4,3,6,95,5,0,0,7,['Python'],22,26,12,16
+steinwurf/cpuid,cpuid,steinwurf,Organization,2013-11-14T13:01:23Z,2023-02-16T09:57:45Z,21,84,master,"['cpuid', 'cpuinfo']",C++,2,0,2,22,342,16,0,0,7,"['C++', 'Python', 'CMake']",4,6,55,55
+steinwurf/hex,hex,steinwurf,Organization,2016-02-10T12:54:51Z,2022-01-11T05:20:51Z,3,3,master,"['dump', 'hex']",C++,0,0,1,11,58,8,0,0,3,"['C++', 'Python', 'CMake']",17,17,17,17
+steinwurf/endian,endian,steinwurf,Organization,2016-02-10T14:32:36Z,2023-01-11T11:28:07Z,10,21,master,"['endian', 'endianness']",C++,0,0,1,28,241,7,0,0,7,"['C++', 'CMake', 'Python']",53,53,53,53
+steinwurf/platform,platform,steinwurf,Organization,2014-02-24T17:58:48Z,2023-01-19T06:11:29Z,8,15,master,['platform'],C++,0,0,1,15,134,11,0,0,3,"['C++', 'Python', 'CMake']",24,24,24,24
+jimlyall-q/test-gen,test-gen,jimlyall-q,User,2021-06-17T06:44:51Z,2021-06-17T08:58:56Z,0,0,main,[],Python,0,0,1,0,5,1,0,0,0,['Python'],0,0,0,0
+braice/MuMuDVB,MuMuDVB,braice,User,2011-07-22T15:35:31Z,2023-01-23T23:32:30Z,135,194,mumudvb2,[],C,66,2,7,15,1545,37,0,0,36,"['C', 'Makefile', 'C++', 'Python', 'Dockerfile', 'M4', 'Shell']",159,225,82,84
+lboue/MuMuDVB-WebAdmin,MuMuDVB-WebAdmin,lboue,User,2012-02-03T15:24:57Z,2013-01-07T08:07:25Z,0,1,master,[],,0,0,0,0,0,0,0,0,0,[],0,0,0,0
+fitear/eve-ng,eve-ng,fitear,User,2017-11-24T04:57:46Z,2019-05-02T15:14:42Z,24,0,master,[],JavaScript,0,0,1,0,34,2,0,0,0,[],0,0,0,0
+carsonmcdonald/HTTP-Live-Video-Stream-Segmenter-and-Distributor,HTTP-Live-Video-Stream-Segmenter-and-Distributor,carsonmcdonald,User,2009-07-05T16:00:48Z,2022-06-22T18:18:44Z,138,605,master,[],Ruby,22,5,2,1,45,45,0,0,4,"['Ruby', 'C']",3,25,4,9
+ibc/nagios-sip-plugin,nagios-sip-plugin,ibc,User,2012-10-28T20:56:27Z,2021-07-05T04:07:56Z,10,11,master,[],Ruby,0,0,1,0,17,5,0,0,3,['Ruby'],0,0,3,3
+budda/hc2-scenes,hc2-scenes,budda,User,2013-10-04T20:35:57Z,2021-12-15T10:08:12Z,15,24,master,[],Lua,0,2,1,0,14,13,0,0,2,['Lua'],0,0,1,3
+darconeous/shattings,shattings,darconeous,User,2011-03-30T18:47:04Z,2023-01-23T14:22:35Z,9,18,master,[],Vim Script,0,0,1,0,309,3,0,0,2,"['Vim Script', 'Shell', 'Java', 'Python', 'Perl', 'Smarty']",0,0,1,1
+wojtekka/6tunnel,6tunnel,wojtekka,User,2013-10-29T18:39:42Z,2023-02-16T19:55:09Z,28,125,master,[],C,6,0,1,14,48,12,6,0,5,"['C', 'Shell', 'Python', 'Roff', 'M4', 'Makefile']",5,11,4,4
+nestlabs/nlfaultinjection,nlfaultinjection,nestlabs,Organization,2017-07-06T19:23:54Z,2023-01-28T05:27:14Z,5,2,master,[],Makefile,0,0,5,10,65,9,0,0,2,"['Makefile', 'C++', 'M4', 'Shell']",16,16,16,16
+google-home/sample-app-for-matter-android,sample-app-for-matter-android,google-home,Organization,2022-06-23T16:45:18Z,2023-02-15T08:32:46Z,13,36,main,"['android', 'matter']",Kotlin,15,1,13,9,50,8,9,0,6,['Kotlin'],27,42,41,42
+FaqiangZhu-nxp/empty,empty,FaqiangZhu-nxp,User,2021-09-02T03:03:37Z,2021-09-02T03:03:40Z,0,0,main,[],,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+FaqiangZhu-nxp/blk_discard_test,blk_discard_test,FaqiangZhu-nxp,User,2022-10-13T12:40:48Z,2022-10-13T12:45:50Z,0,0,master,[],C++,0,0,1,0,1,1,0,0,0,['C++'],0,0,0,0
+NordicSemiconductor/Android-nRF-Connect-Device-Manager,Android-nRF-Connect-Device-Manager,NordicSemiconductor,Organization,2020-05-07T06:33:54Z,2023-01-10T22:56:00Z,20,44,main,[],Java,5,1,1,40,480,8,20,0,4,"['Java', 'Kotlin', 'Shell', 'Ruby']",20,25,64,65
+erwinpan1/jagabee,jagabee,erwinpan1,User,2014-06-18T09:00:05Z,2014-06-26T15:09:24Z,0,0,master,[],Python,0,0,1,0,51,1,0,0,2,['Python'],0,0,0,0
+erwinpan1/study,study,erwinpan1,User,2014-06-20T06:31:26Z,2014-06-26T14:23:17Z,0,0,master,[],JavaScript,0,0,1,0,12,1,0,0,2,"['JavaScript', 'CSS', 'Python', 'Shell']",0,0,0,0
+erwinpan1/onionring,onionring,erwinpan1,User,2014-10-01T14:19:29Z,2014-10-01T14:26:47Z,0,0,master,[],Java,0,0,1,0,2,1,0,0,0,['Java'],0,0,0,0
+erwinpan1/ML100-Days,ML100-Days,erwinpan1,User,2018-12-15T09:40:23Z,2019-05-27T13:25:22Z,0,0,master,[],Jupyter Notebook,0,0,1,0,93,1,0,0,0,['Jupyter Notebook'],0,0,0,0
+dnicoara/dnicoara.github.io,dnicoara.github.io,dnicoara,User,2021-09-30T01:05:34Z,2021-09-30T01:33:55Z,0,0,main,[],HTML,0,0,1,0,2,1,0,0,0,['HTML'],0,0,0,0
+fish-shell/fish-shell,fish-shell,fish-shell,Organization,2012-05-10T03:00:55Z,2023-02-19T14:34:17Z,1684,20894,master,"['fish', 'shell', 'terminal']",C++,449,18,30,73,16758,284,38,0,773,"['C++', 'Shell', 'Python', 'CMake', 'JavaScript', 'HTML']",6176,6625,2831,2849
+thcu-gp/openthread,openthread,thcu-gp,User,2017-07-12T08:02:19Z,2022-07-26T08:44:32Z,988,0,main,[],C++,0,1,3,0,6508,1,0,0,0,[],6,6,6,7
+JasonLiuZhuoCheng/Sorcery,Sorcery,JasonLiuZhuoCheng,User,2019-03-24T16:35:12Z,2019-03-27T17:30:37Z,0,0,master,[],C++,0,0,1,0,105,1,0,0,3,['C++'],0,0,0,0
+JasonLiuZhuoCheng/flappybird,flappybird,JasonLiuZhuoCheng,User,2019-05-18T20:16:22Z,2019-05-20T23:38:15Z,0,0,master,[],Java,0,0,1,0,4,1,0,0,0,['Java'],0,0,0,0
+JasonLiuZhuoCheng/Insta,Insta,JasonLiuZhuoCheng,User,2020-05-15T16:37:03Z,2020-05-20T04:26:13Z,0,0,master,[],Python,0,2,3,0,17,1,0,0,0,"['Python', 'CSS', 'HTML', 'JavaScript']",0,0,12,14
+JasonLiuZhuoCheng/todoList-front-end,todoList-front-end,JasonLiuZhuoCheng,User,2020-08-14T14:06:09Z,2020-09-01T00:08:23Z,0,0,master,[],JavaScript,0,0,1,0,23,2,0,0,0,"['JavaScript', 'HTML']",0,0,0,0
+JasonLiuZhuoCheng/todoList-back-end,todoList-back-end,JasonLiuZhuoCheng,User,2020-08-31T04:35:13Z,2020-08-31T04:36:56Z,0,0,master,[],Python,0,0,1,0,8,2,0,0,0,"['Python', 'HTML']",0,0,0,0
+felangel/bloc,bloc,felangel,User,2018-10-07T19:32:59Z,2023-02-19T15:24:43Z,3112,10109,master,"['angulardart', 'bloc', 'concurrency', 'dart', 'dart-library', 'dart-web', 'dartlang', 'flutter', 'flutter-package', 'library', 'state-management']",Dart,81,3,5,532,2082,168,455,0,184,"['Dart', 'C++', 'Kotlin', 'TypeScript', 'CMake', 'HTML']",2237,2318,1184,1187
+jonsmirl/mpc5200,mpc5200,jonsmirl,User,2008-06-25T03:57:48Z,2022-03-19T20:13:27Z,784,18,master,[],C,0,0,7,55,156189,6,0,0,0,"['C', 'Assembly', 'Perl', 'Shell', 'C++', 'Python']",0,0,2,2
+jonsmirl/cam,cam,jonsmirl,User,2013-10-18T01:51:45Z,2023-02-01T09:42:34Z,6,6,master,[],C,0,0,1,0,6,2,0,0,0,"['C', 'Objective-C', 'C++']",0,0,0,0
+jonsmirl/packages,packages,jonsmirl,User,2013-05-23T14:50:10Z,2019-02-27T05:15:54Z,1,4,master,[],C,1,0,3,0,9229,2,0,0,0,"['C', 'C++', 'Shell', 'Perl', 'JavaScript', 'Lua']",0,1,0,0
+jonsmirl/mpc5200-uBoot,mpc5200-uBoot,jonsmirl,User,2011-07-15T14:45:31Z,2018-09-07T02:54:02Z,3,2,master,[],C,0,0,2,0,1,1,0,0,0,"['C', 'Assembly']",0,0,0,0
+torvalds/linux,linux,torvalds,User,2011-09-04T22:48:12Z,2023-02-19T15:10:55Z,46752,146382,master,[],C,0,310,1,779,1155633,8100,0,0,5001,"['C', 'Assembly', 'Shell', 'Makefile', 'Python', 'Perl']",451,451,451,761
+jonsmirl/lpc31xx-uboot,lpc31xx-uboot,jonsmirl,User,2012-03-18T02:15:48Z,2015-10-14T22:05:10Z,0,2,master,[],C,1,0,5,0,15241,1,0,0,131,"['C', 'Assembly']",0,1,0,0
+NordicSemiconductor/nRF-Sniffer-for-802.15.4,nRF-Sniffer-for-802.15.4,NordicSemiconductor,Organization,2018-09-27T09:27:01Z,2023-02-16T09:08:09Z,53,159,master,"['ieee-802154', 'nrf52840', 'sniffer', 'wireshark-extcap', 'wireshark-plugin']",Python,8,2,7,3,30,25,3,0,11,"['Python', 'Lua', 'Batchfile']",15,23,31,33
+e-rk/st,st,e-rk,User,2019-01-06T01:21:16Z,2019-08-01T18:45:08Z,0,0,custom,[],C,0,0,1,12,1061,2,0,0,66,"['C', 'Objective-C', 'Roff', 'Makefile']",0,0,0,0
+e-rk/dwm,dwm,e-rk,User,2019-01-26T17:08:15Z,2019-10-30T21:05:07Z,0,0,custom,[],C,0,0,2,74,1686,2,0,0,10,"['C', 'Objective-C', 'Roff', 'Makefile', 'C++']",0,0,0,0
+e-rk/dmenu,dmenu,e-rk,User,2019-01-27T21:54:09Z,2019-01-27T21:55:05Z,0,0,master,[],C,0,0,2,54,563,2,0,0,14,"['C', 'Roff', 'Makefile']",0,0,0,0
+Qorvo/QMatter,QMatter,Qorvo,Organization,2022-01-20T08:36:35Z,2023-01-19T14:56:18Z,8,10,v0.9.1.0,[],C,0,0,5,0,13,5,0,0,4,"['C', 'ZAP', 'Assembly', 'C++', 'Python', 'Makefile', 'Shell']",1,1,1,1
+Alamot/code-snippets,code-snippets,Alamot,User,2016-10-09T20:25:27Z,2023-02-17T19:48:55Z,104,231,master,[],C++,0,1,1,0,117,15,0,0,2,"['C++', 'PowerShell', 'C', 'Python', 'Assembly', 'Shell']",3,3,1,2
+DaveGamble/cJSON,cJSON,DaveGamble,User,2016-03-19T18:22:54Z,2023-02-19T12:54:39Z,2845,8442,master,[],C,112,42,11,45,1073,274,45,0,77,"['C', 'Ruby', 'CMake', 'Makefile', 'Python', 'Shell']",351,463,210,252
+kvikrambhat/BlazorStateExploration,BlazorStateExploration,kvikrambhat,User,2022-11-28T03:46:01Z,2023-01-08T09:27:25Z,0,1,sm_injected,[],HTML,0,0,2,0,1,1,0,0,0,"['HTML', 'C#', 'CSS']",0,0,0,0
+kvikrambhat/git-hooks,git-hooks,kvikrambhat,User,2019-12-04T10:07:08Z,2019-12-04T14:02:43Z,0,0,master,[],Python,0,0,1,0,10,1,0,0,0,['Python'],0,0,0,0
+kvikrambhat/100Alogs,100Alogs,kvikrambhat,User,2019-12-11T16:36:07Z,2019-12-15T06:20:50Z,0,0,master,[],TypeScript,0,0,1,0,3,1,0,0,0,['TypeScript'],0,0,0,0
+SmartThingsCommunity/st-device-sdk-c-ref,st-device-sdk-c-ref,SmartThingsCommunity,Organization,2019-09-10T17:36:31Z,2023-01-15T06:23:32Z,138,80,master,"['iot-device', 'mqtt', 'opensource', 'smartthings-sdk', 'wifi']",C,2,0,19,5,619,37,4,0,26,"['C', 'Shell', 'Python']",23,25,100,100
+SmartThingsCommunity/st-device-sdk-c,st-device-sdk-c,SmartThingsCommunity,Organization,2019-09-10T17:34:08Z,2023-02-18T16:59:21Z,99,87,develop,"['iot-device', 'mqtt', 'opensource', 'smartthings-sdk', 'wifi']",C,2,0,4,7,1328,43,5,0,28,"['C', 'CMake', 'CSS', 'HTML', 'Python', 'Makefile']",20,22,90,90
+Azure/iotedge,iotedge,Azure,Organization,2018-06-25T20:31:33Z,2023-02-15T08:23:26Z,449,1386,main,[],C#,50,40,19,146,4018,145,82,0,89,"['C#', 'Rust', 'Shell', 'PowerShell', 'Dockerfile', 'Makefile']",1564,1614,5222,5262
+lf-edge/edge-home-orchestration-go,edge-home-orchestration-go,lf-edge,Organization,2019-06-27T19:14:36Z,2023-02-01T05:04:28Z,48,80,master,"['cluster-computing', 'container', 'containerization', 'data-storage', 'docker', 'edgecomputing', 'hikey960', 'home-iot', 'homeedge', 'iot', 'lfedge', 'node', 'orchestration', 'raspberry-pi', 'rbac']",Go,18,3,4,24,745,11,7,0,20,"['Go', 'Makefile']",121,139,524,527
+markaj-nordic/matter-webinar,matter-webinar,markaj-nordic,User,2022-11-02T12:53:42Z,2022-11-11T17:54:05Z,1,1,master,[],ZAP,0,2,3,0,1,2,0,0,0,"['ZAP', 'C', 'C++', 'CMake']",0,0,0,2
+nrfconnect/sdk-hostap,sdk-hostap,nrfconnect,Organization,2022-03-10T15:40:05Z,2022-10-20T14:18:03Z,13,2,main,[],C,0,2,3,0,17605,55,0,0,311,"['C', 'Python', 'Makefile', 'C++', 'Shell', 'Java']",65,65,65,67
+randyrossi/bmc64,bmc64,randyrossi,User,2019-01-31T03:18:41Z,2023-02-18T19:55:01Z,44,377,master,[],C++,93,1,14,0,791,38,0,0,5,"['C++', 'C', 'Java', 'Shell', 'Assembly', 'Makefile']",128,221,9,10
+randyrossi/vicii-kawari,vicii-kawari,randyrossi,User,2021-09-23T23:27:41Z,2023-02-17T23:31:41Z,8,74,main,"['commodore', 'commodore-64']",Verilog,5,1,4,0,1091,16,0,0,3,"['Verilog', 'C', 'Assembly', 'C++', 'Makefile', 'SystemVerilog']",8,13,5,6
+randyrossi/fisher-modem,fisher-modem,randyrossi,User,2017-07-26T23:36:16Z,2023-01-13T10:12:36Z,7,21,master,[],C,5,1,1,0,12,4,0,0,0,"['C', 'Forth', 'C++', 'HTML', 'Perl', 'Makefile']",0,5,0,1
+randyrossi/c64-games-menu,c64-games-menu,randyrossi,User,2018-12-15T16:55:15Z,2023-01-02T18:29:01Z,1,4,master,[],Assembly,0,0,1,0,6,4,0,0,0,"['Assembly', 'Makefile']",0,0,0,0
+randyrossi/arduino_dram4164_tester,arduino_dram4164_tester,randyrossi,User,2020-12-28T15:19:49Z,2022-03-27T13:19:32Z,1,2,main,[],C++,0,0,1,0,4,2,0,0,0,['C++'],0,0,0,0
+randyrossi/carousel,carousel,randyrossi,User,2016-09-08T17:05:20Z,2021-05-08T21:58:22Z,0,1,master,[],C++,0,0,1,0,21,2,0,0,0,"['C++', 'CMake', 'Python', 'Shell']",0,0,0,0
+Samsung/tizen-docs,tizen-docs,Samsung,Organization,2017-07-19T05:35:09Z,2023-02-14T20:53:28Z,369,131,master,[],,26,9,36,1,4225,20,1,0,212,[],77,103,1661,1670
+Samsung/TizenFX,TizenFX,Samsung,Organization,2017-12-22T04:30:55Z,2023-02-14T20:53:28Z,225,153,master,"['c-sharp', 'device-apis', 'dotnet', 'tizen', 'tizenfx']",C#,0,30,14,422,7697,61,0,0,191,"['C#', 'Shell', 'Component Pascal', 'HTML', 'Python', 'Smalltalk']",117,117,4863,4893
+hyunuktak/hello-github-actions,hello-github-actions,hyunuktak,User,2021-05-20T02:31:15Z,2021-05-20T03:49:52Z,0,0,main,[],Dockerfile,1,0,1,0,8,1,0,0,3,"['Dockerfile', 'Shell']",1,2,1,1
+hadolint/hadolint,hadolint,hadolint,Organization,2015-11-15T20:20:58Z,2023-02-19T10:23:21Z,356,8169,master,"['docker', 'dockerfile', 'dockerfile-linter', 'haskell', 'linter', 'shellcheck', 'static-analysis']",Haskell,132,6,11,81,1103,59,79,0,113,"['Haskell', 'Nix', 'Shell', 'Dockerfile']",391,523,408,414
+Comcast/libcertifier,libcertifier,Comcast,Organization,2020-04-14T20:06:16Z,2022-10-31T19:41:39Z,12,5,master,[],C,0,0,1,1,77,7,1,0,4,"['C', 'C++', 'CMake']",0,0,26,26
+ethayer/lock-manager,lock-manager,ethayer,User,2016-09-20T00:40:34Z,2023-02-10T02:14:41Z,682,209,master,[],Groovy,72,9,8,11,168,74,11,0,7,"['Groovy', 'JavaScript']",38,110,24,33
+MtTsai/training,training,MtTsai,User,2014-06-30T06:46:40Z,2015-09-30T15:28:48Z,0,0,master,[],C,0,0,1,0,3,2,0,0,0,"['C', 'TeX', 'Assembly', 'Makefile', 'Roff', 'Shell']",0,0,0,0
+MtTsai/Micro_OS,Micro_OS,MtTsai,User,2014-07-20T16:46:56Z,2014-10-17T18:18:49Z,0,0,master,[],Assembly,0,0,2,0,5,2,0,0,0,"['Assembly', 'Shell']",0,0,0,0
+RIOT-OS/RIOT,RIOT,RIOT-OS,Organization,2012-12-29T20:38:40Z,2023-02-18T18:01:39Z,1870,4367,master,"['c', 'hacktoberfest', 'internet', 'internet-of-things', 'internetofthings', 'iot', 'microcontrollers', 'os', 'riot-os', 'riotos', 'rtos']",C,356,314,33,157,42764,243,39,0,331,"['C', 'C++', 'Makefile', 'Python', 'Shell', 'Assembly']",2659,3015,15954,16268
+hugovincent/mbed-freertos,mbed-freertos,hugovincent,User,2010-04-24T00:19:39Z,2022-12-04T17:19:02Z,18,58,master,[],C,0,0,1,0,156,13,0,0,3,['C'],0,0,1,1
+minetest/minetest,minetest,minetest,Organization,2011-08-07T13:48:36Z,2023-02-19T14:27:47Z,1738,8442,master,"['c-plus-plus', 'cpp11', 'game-engine', 'lua', 'minetest', 'voxel', 'voxel-engine']",C++,1000,92,5,60,10560,317,24,0,651,"['C++', 'Lua', 'C', 'CMake', 'GLSL', 'Shell']",5742,6742,6313,6405
+tdrozdovskiy/crib,crib,tdrozdovskiy,User,2017-11-22T18:19:22Z,2021-12-20T14:18:33Z,1,1,master,[],C,0,0,1,0,37,1,0,0,2,"['C', 'Makefile', 'Shell']",4,4,7,7
+OpenNuvoton/M2351BSP,M2351BSP,OpenNuvoton,Organization,2018-09-07T07:42:26Z,2022-10-04T17:12:34Z,8,14,master,[],C,3,1,1,6,249,13,3,0,6,"['C', 'Assembly']",6,9,3,4
+standard/.github,.github,standard,Organization,2019-06-28T18:25:14Z,2023-01-25T17:00:38Z,47,7,master,[],,0,1,1,0,25,4,0,0,0,[],0,0,1,2
+nnstreamer/nnstreamer,nnstreamer,nnstreamer,Organization,2018-07-23T08:57:11Z,2023-02-18T05:27:32Z,144,559,main,"['ai', 'android', 'caffe2', 'gstreamer', 'gstreamer-plugins', 'hacktoberfest', 'intelligence', 'linux-foundation', 'neural-network', 'tensorflow', 'tizen', 'ubuntu', 'yocto']",C,83,17,5,19,3354,36,15,0,49,"['C', 'C++', 'Shell', 'Meson', 'Python', 'Makefile']",1379,1462,2539,2556
+openweave/openweave-schema-vendor-common,openweave-schema-vendor-common,openweave,Organization,2019-07-10T08:53:14Z,2021-07-01T06:55:20Z,14,5,master,[],Makefile,2,2,2,1,51,9,0,0,9,"['Makefile', 'Shell']",2,4,20,22
+stoneM2017/egg-rabbitmq,egg-rabbitmq,stoneM2017,User,2019-03-30T08:14:15Z,2021-10-14T06:05:09Z,2,15,master,[],JavaScript,1,0,1,0,23,0,0,0,0,['JavaScript'],0,1,0,0
+deviantony/docker-elk,docker-elk,deviantony,User,2014-11-18T20:07:47Z,2023-02-19T09:00:06Z,6083,14659,main,"['docker', 'docker-compose', 'elasticsearch', 'elk', 'kibana', 'logstash', 'searchguard']",Shell,7,0,6,7,396,349,7,0,60,"['Shell', 'Dockerfile', 'Go']",508,515,313,313
+bitsensor/elastalert,elastalert,bitsensor,Organization,2016-09-20T16:46:19Z,2023-02-17T01:43:29Z,220,361,master,[],JavaScript,88,7,3,15,355,22,7,0,9,"['JavaScript', 'Dockerfile', 'Python', 'Shell', 'Makefile']",86,174,26,33
+krizsan/elastalert-docker,elastalert-docker,krizsan,User,2015-10-18T20:53:15Z,2023-01-28T17:58:55Z,119,93,master,[],Shell,0,0,1,0,65,8,0,0,7,['Shell'],16,16,16,16
+anjia0532/elastalert-docker,elastalert-docker,anjia0532,User,2020-04-28T10:29:59Z,2023-01-31T18:07:48Z,39,74,master,"['dingtalk', 'dingtalk-robot', 'elastalert', 'elasticsearch', 'wechat', 'wechat-rebot']",Smarty,0,0,1,0,57,0,0,0,0,"['Smarty', 'Python', 'Shell', 'Dockerfile']",14,14,0,0
+apache/airflow,airflow,apache,Organization,2015-04-13T18:04:58Z,2023-02-19T15:25:13Z,11948,29188,main,"['airflow', 'apache', 'apache-airflow', 'hacktoberfest', 'python', 'scheduler', 'workflow']",Python,725,161,51,2767,18887,760,60,67,2362,"['Python', 'TypeScript', 'Shell', 'HTML', 'JavaScript', 'Dockerfile']",6142,6867,19806,19967
+lmpprk/daikin_ha_wifi_control,daikin_ha_wifi_control,lmpprk,User,2017-12-30T00:03:21Z,2017-12-30T15:47:53Z,0,0,master,[],Python,0,0,1,0,2,1,0,0,0,['Python'],0,0,0,0
+panliming-tuya/NotchScreenTool,NotchScreenTool,panliming-tuya,User,2019-06-03T13:44:42Z,2023-01-31T17:19:36Z,59,333,master,"['android', 'java']",Java,3,0,1,2,8,5,1,0,0,['Java'],0,3,0,0
+panliming-tuya/smarxpan.github.io,smarxpan.github.io,panliming-tuya,User,2015-12-17T01:53:35Z,2021-06-07T05:32:05Z,1,2,master,[],HTML,3,0,1,0,51,2,0,0,0,"['HTML', 'JavaScript', 'CSS']",0,3,0,0
+panliming-tuya/LearnAndroidArchitectureComponents,LearnAndroidArchitectureComponents,panliming-tuya,User,2019-03-05T08:07:51Z,2019-11-03T13:18:21Z,1,1,master,"['android', 'architecture', 'java', 'jetpack']",Java,0,0,1,0,2,2,0,0,0,['Java'],0,0,0,0
+yscoder/hexo-theme-indigo,hexo-theme-indigo,yscoder,User,2016-01-22T02:12:05Z,2023-02-17T01:31:23Z,562,2755,card,"['hexo', 'material-design', 'theme']",CSS,140,10,3,18,269,71,18,0,24,"['CSS', 'HTML', 'JavaScript']",331,471,55,65
+eclipse/paho.mqtt.java,paho.mqtt.java,eclipse,Organization,2015-12-16T19:13:48Z,2023-02-17T02:21:50Z,805,1823,master,"['eclipseiot', 'internet-of-things', 'iot', 'mqtt', 'mqtt-client']",Java,274,32,9,17,910,113,7,0,61,['Java'],425,699,253,285
+TuyaInc/tuyasmart_android_activator_sdk,tuyasmart_android_activator_sdk,TuyaInc,Organization,2019-03-19T06:35:07Z,2021-08-05T10:11:24Z,4,3,master,['tuya'],,1,0,1,0,15,12,0,0,2,[],1,2,1,1
+tewarid/node-tcp-proxy,node-tcp-proxy,tewarid,User,2015-11-15T12:11:29Z,2023-02-14T06:12:18Z,30,71,master,[],JavaScript,0,0,1,0,101,3,0,0,9,['JavaScript'],21,21,14,14
+tewarid/node-tcp-relay,node-tcp-relay,tewarid,User,2015-11-14T11:38:58Z,2023-01-17T18:06:23Z,19,37,master,[],JavaScript,0,0,1,0,61,7,0,0,3,['JavaScript'],10,10,5,5
+tewarid/docker-pandoc,docker-pandoc,tewarid,User,2018-02-03T00:34:45Z,2023-01-04T15:14:26Z,10,16,master,[],Dockerfile,1,0,2,2,47,1,0,0,0,['Dockerfile'],9,10,1,1
+tewarid/dotnet-tools,dotnet-tools,tewarid,User,2015-09-23T12:57:59Z,2023-02-09T05:28:00Z,9,15,master,[],C#,0,0,4,15,639,3,15,0,4,"['C#', 'C++']",5,5,7,7
+tewarid/atmega32u4-usb-serial,atmega32u4-usb-serial,tewarid,User,2016-10-28T13:16:55Z,2022-09-23T21:07:15Z,4,7,master,"['atmel-avr', 'atmel-studio', 'c', 'usbserial']",C,0,0,1,0,2,1,0,0,0,"['C', 'C++', 'Objective-C']",0,0,0,0
+tewarid/wireshark-nordic-ble-lua,wireshark-nordic-ble-lua,tewarid,User,2017-01-26T19:05:06Z,2022-11-28T06:23:20Z,0,7,master,[],Lua,0,0,1,0,10,2,0,0,0,['Lua'],0,0,0,0
+espressif/esp-iot-solution,esp-iot-solution,espressif,Organization,2017-08-08T12:32:16Z,2023-02-17T08:58:13Z,627,1391,master,[],C,103,14,4,0,1118,107,0,0,44,"['C', 'Python']",97,200,35,49
+Samsung/Tizen-CSharp-Samples,Tizen-CSharp-Samples,Samsung,Organization,2017-09-01T01:47:10Z,2023-02-16T07:26:25Z,223,219,master,[],C#,11,6,5,0,1415,56,0,0,88,['C#'],30,41,319,325
+wootak-jung/hello-world,hello-world,wootak-jung,User,2019-06-21T01:12:46Z,2019-06-21T01:12:49Z,0,0,master,[],,0,0,1,0,1,0,0,0,0,[],0,0,0,0
+nui-dali/NUITizenGallery,NUITizenGallery,nui-dali,Organization,2021-07-08T06:59:47Z,2022-01-06T05:07:09Z,20,1,main,[],C#,8,6,3,0,134,1,0,0,12,['C#'],13,21,82,88
+du48s03/AWSOME-TF2-DATA-SCANNER,AWSOME-TF2-DATA-SCANNER,du48s03,User,2015-10-14T22:01:47Z,2015-12-07T04:18:44Z,2,1,master,[],Python,0,0,1,0,222,2,0,0,3,"['Python', 'HTML', 'CSS', 'Shell']",0,0,0,0
+du48s03/space-shooter,space-shooter,du48s03,User,2016-02-19T23:01:26Z,2023-02-04T20:59:44Z,0,1,master,[],Game Maker Language,0,0,1,0,3,2,0,0,0,"['Game Maker Language', 'NSIS', 'GLSL']",0,0,0,0
+du48s03/Power_law_analysis,Power_law_analysis,du48s03,User,2014-02-19T10:00:33Z,2014-02-20T02:45:57Z,0,0,master,[],,0,0,1,0,1,2,0,0,0,[],0,0,0,0
+du48s03/Hello-World,Hello-World,du48s03,User,2014-02-19T10:19:14Z,2014-02-19T10:19:14Z,0,0,master,[],,0,0,0,0,0,0,0,0,0,[],0,0,0,0
+du48s03/Hello,Hello,du48s03,User,2014-02-20T01:57:03Z,2014-02-20T01:57:12Z,0,0,master,[],,0,0,1,0,1,2,0,0,0,[],0,0,0,0
+octocat/Spoon-Knife,Spoon-Knife,octocat,User,2011-01-27T19:30:43Z,2023-02-19T10:51:24Z,133297,11521,main,[],HTML,1600,5001,3,0,3,613,0,0,0,"['HTML', 'CSS']",465,2065,12766,17767
+SiliconLabs/wiseconnect-wifi-bt-sdk,wiseconnect-wifi-bt-sdk,SiliconLabs,Organization,2021-06-01T14:53:06Z,2023-02-15T12:26:32Z,15,16,master,"['aws-sdk', 'ble', 'bluetooth', 'bluetooth-le', 'bluetooth-low-energy', 'iot', 'wifi', 'wifi-modules']",C,3,1,5,16,18,11,0,0,3,"['C', 'Python', 'Assembly', 'Jinja', 'Makefile', 'HTML']",0,3,3,4
+piscisaureus/wepoll,wepoll,piscisaureus,User,2012-08-25T02:06:20Z,2023-02-15T02:59:54Z,122,735,dist,[],C,5,1,3,22,563,44,0,0,2,"['C', 'C++']",24,29,2,3
+truebiker/datasciencecoursera,datasciencecoursera,truebiker,User,2015-02-21T09:11:28Z,2015-02-21T09:11:28Z,0,0,master,[],,0,0,1,0,2,1,0,0,0,[],0,0,0,0
+jtleek/datasharing,datasharing,jtleek,User,2013-11-07T13:25:07Z,2023-02-18T15:58:13Z,242358,6250,master,[],,299,585,1,0,29,559,0,0,10,[],48,347,130,715
+rdpeng/ProgrammingAssignment2,ProgrammingAssignment2,rdpeng,User,2014-01-14T22:07:41Z,2023-02-17T15:45:06Z,141954,780,master,[],R,189,4000,1,0,7,136,0,0,2,['R'],21,210,1336,5336
+truebiker/storages,storages,truebiker,User,2017-04-25T08:26:20Z,2017-04-25T08:49:00Z,0,0,master,[],C,0,0,1,0,1,1,0,0,0,['C'],0,0,0,0
+DrumMachineLearning/git-practice,git-practice,DrumMachineLearning,User,2018-05-11T00:53:04Z,2018-05-11T01:15:28Z,19,0,master,[],Python,0,6,2,0,5,1,0,0,0,['Python'],0,0,22,28
+UPRM-CIIC4010-S17/lab3-FernandoLGuzman,lab3-FernandoLGuzman,UPRM-CIIC4010-S17,Organization,2017-11-15T19:39:40Z,2017-11-15T19:39:59Z,1,0,master,[],Java,0,0,1,0,2,6,0,0,0,['Java'],0,0,0,0
+FernandoLGuzman/DB_Project,DB_Project,FernandoLGuzman,User,2020-03-09T21:10:50Z,2020-05-15T22:33:52Z,1,0,master,[],Python,0,1,6,1,172,2,1,0,3,['Python'],0,0,32,33
+JDRamos15/DnDAssistant,DnDAssistant,JDRamos15,User,2020-11-07T21:59:33Z,2020-12-22T03:24:29Z,1,0,main,[],Java,0,0,1,1,11,1,0,0,2,['Java'],1,1,1,1
+Infineon/amazon-freertos,amazon-freertos,Infineon,Organization,2019-10-30T14:05:50Z,2023-02-11T19:34:24Z,9,5,feature/infineon,[],C,6,4,52,31,3014,9,5,0,74,"['C', 'Python', 'C++', 'CMake', 'HTML', 'Go']",7,13,11,15
+mburshteyn1/DUKPT,DUKPT,mburshteyn1,User,2013-01-07T16:52:12Z,2022-09-02T22:40:50Z,11,30,master,[],Objective-C,3,0,1,0,7,7,0,0,2,['Objective-C'],1,4,1,1
+mburshteyn1/Kal,Kal,mburshteyn1,User,2014-11-12T20:21:25Z,2015-01-14T22:23:01Z,0,1,master,[],Objective-C,1,0,1,0,7,1,0,0,0,['Objective-C'],0,1,0,0
+mburshteyn1/Convert,Convert,mburshteyn1,User,2015-04-09T17:33:02Z,2015-04-30T02:21:27Z,0,1,master,[],Swift,1,0,1,0,7,1,0,0,0,['Swift'],0,1,0,0
+mburshteyn1/MBCollectionView,MBCollectionView,mburshteyn1,User,2015-07-31T21:17:59Z,2017-04-25T13:33:36Z,1,1,master,[],Swift,1,0,1,0,7,2,0,0,0,"['Swift', 'C++']",0,1,0,0
+SVProgressHUD/SVProgressHUD,SVProgressHUD,SVProgressHUD,Organization,2011-03-28T19:23:04Z,2023-02-14T04:28:04Z,2583,12366,master,"['carthage', 'cocoapods', 'hud', 'ios', 'objective-c', 'progress', 'svprogresshud', 'tvos']",Objective-C,36,44,1,36,781,329,0,0,93,"['Objective-C', 'Ruby']",697,733,324,368
+CocoaPods/Specs,Specs,CocoaPods,Organization,2011-09-11T13:47:10Z,2023-02-17T07:07:10Z,9132,6530,master,[],,0,18,10,2,724662,268,1,0,5001,[],14043,14043,14043,14061
+nxptest/mw320_sdk,mw320_sdk,nxptest,User,2022-05-09T07:07:39Z,2022-05-09T07:12:01Z,2,0,master,[],C,0,0,1,1,15,1,0,0,2,"['C', 'Assembly', 'Python', 'CMake', 'Makefile', 'Shell']",0,0,0,0
+shgutte/MatterLockOverMG24_WF200,MatterLockOverMG24_WF200,shgutte,User,2022-12-13T10:27:30Z,2022-12-13T10:31:35Z,0,0,main,[],C,0,0,1,0,2,1,0,0,0,"['C', 'ZAP', 'C++']",0,0,0,0
+zephyrproject-rtos/hal_infineon,hal_infineon,zephyrproject-rtos,Organization,2020-05-08T17:30:49Z,2023-02-03T15:23:21Z,12,3,master,"['hal', 'module']",C,0,2,1,0,9,32,0,0,3,"['C', 'Assembly']",5,5,5,7
+SiliconLabs/matter_extension,matter_extension,SiliconLabs,Organization,2022-09-30T12:36:18Z,2023-01-10T16:00:20Z,3,3,main,[],C++,0,0,2,9,3,5,3,0,2,"['C++', 'Objective-C++', 'Objective-C', 'C', 'Java', 'Python']",0,0,1,1
+g-truc/glm,glm,g-truc,Organization,2012-09-06T00:04:56Z,2023-02-19T14:27:29Z,1759,7216,master,"['cpp', 'cpp-library', 'glm', 'header-only', 'mathematics', 'matrix', 'opengl', 'quaternion', 'simd', 'sycl', 'vector', 'vulkan']",C++,0,34,51,72,4555,269,36,0,0,[],405,405,405,439
+linux-sunxi/meta-sunxi,meta-sunxi,linux-sunxi,Organization,2012-06-12T21:05:19Z,2023-01-24T19:20:20Z,161,112,master,[],C,4,3,27,0,676,28,0,0,0,[],115,119,245,248
+InkubatorTieto/melvil,melvil,InkubatorTieto,Organization,2018-05-02T07:46:34Z,2019-09-13T13:22:18Z,7,2,master,[],Python,8,11,21,0,945,5,0,0,13,"['Python', 'HTML', 'CSS', 'Shell', 'Batchfile', 'JavaScript']",159,167,178,189
+SoMLabs/somlabs-buildroot,somlabs-buildroot,SoMLabs,Organization,2018-03-07T12:38:51Z,2020-07-10T12:01:32Z,1,0,somlabs-2019.05.x,[],Makefile,1,1,16,165,45844,2,0,0,655,"['Makefile', 'C', 'Python', 'Shell', 'C++', 'Perl']",1,2,0,1
+brocaar/sx1302_hal,sx1302_hal,brocaar,User,2021-04-14T13:52:37Z,2022-12-19T09:49:51Z,208,2,master,[],C,0,1,2,21,19,1,0,0,0,[],2,2,2,3
+randomplum/stm32f,stm32f,randomplum,User,2019-11-26T10:45:35Z,2021-03-27T13:17:57Z,1,0,master,[],C,0,0,3,0,1,2,0,0,0,"['C', 'HTML', 'C++', 'Assembly', 'Rich Text Format', 'Objective-C']",0,0,0,0
+psurply/ReGAL,ReGAL,psurply,User,2018-01-28T14:42:28Z,2023-01-22T17:06:30Z,6,51,master,[],Python,2,0,1,0,16,9,0,0,0,"['Python', 'Verilog', 'C', 'Makefile']",2,4,0,0
+google/oss-fuzz,oss-fuzz,google,Organization,2016-07-20T19:39:50Z,2023-02-19T15:31:03Z,1826,8383,master,"['fuzz-testing', 'fuzzing', 'oss-fuzz', 'security', 'stability', 'vulnerabilities']",Shell,198,168,166,0,8852,243,0,0,727,"['Shell', 'Python', 'Dockerfile', 'Java', 'C', 'C++']",1818,2016,7530,7698
+lcj446068124/WallpaperSetter,WallpaperSetter,lcj446068124,User,2018-04-18T11:13:35Z,2021-09-01T06:45:16Z,0,2,master,[],Java,0,0,1,0,6,1,0,0,0,['Java'],0,0,0,0
+lcj446068124/-coolweather,-coolweather,lcj446068124,User,2018-02-19T15:54:43Z,2018-02-19T15:58:45Z,0,0,master,[],Java,0,0,1,0,5,0,0,0,0,['Java'],0,0,0,0
+lcj446068124/javamanlabs,javamanlabs,lcj446068124,User,2018-11-14T06:19:21Z,2019-06-02T15:52:44Z,0,0,master,[],Java,0,0,1,0,57,0,0,0,0,"['Java', 'JavaScript', 'CSS']",0,0,0,0
+lcj446068124/IOT1,IOT1,lcj446068124,User,2020-12-10T12:52:04Z,2021-06-22T04:54:21Z,0,0,main,[],C,0,0,1,0,9,1,0,0,0,['C'],0,0,0,0
+lcj446068124/IOT2,IOT2,lcj446068124,User,2020-12-19T11:09:06Z,2020-12-24T12:18:43Z,0,0,main,[],C,0,0,1,0,7,1,0,0,0,"['C', 'C++']",0,0,0,0
+0x1abin/MultiButton,MultiButton,0x1abin,User,2016-08-29T08:34:28Z,2023-02-19T07:57:47Z,436,816,master,[],C,13,3,1,0,60,63,0,0,10,['C'],6,19,13,16
+chiragatal/temp_uploads,temp_uploads,chiragatal,User,2020-05-18T05:32:50Z,2021-12-13T10:16:51Z,0,1,master,[],,0,0,1,0,3,1,0,0,0,[],0,0,0,0
+chiragatal/esp-zerocode,esp-zerocode,chiragatal,User,2023-02-14T10:36:37Z,2023-02-17T03:19:50Z,0,1,main,[],,0,0,1,0,9,1,0,0,0,[],0,0,0,0
+chiragatal/esp-aia,esp-aia,chiragatal,User,2020-03-03T12:52:28Z,2020-03-03T13:01:01Z,0,0,master,[],,0,0,2,0,1,1,0,0,0,[],0,0,0,0
+CESARBR/corona-mission,corona-mission,CESARBR,Organization,2020-03-21T20:35:26Z,2021-05-31T23:45:41Z,7,6,dev,[],TypeScript,21,28,28,1,208,15,0,0,6,"['TypeScript', 'HTML', 'CSS', 'JavaScript']",28,49,44,72
+bluez/bluez,bluez,bluez,Organization,2019-11-05T10:32:32Z,2023-02-17T08:33:15Z,174,396,master,[],C,213,1,1,307,26751,12,0,0,260,"['C', 'Python', 'Makefile', 'Roff', 'M4', 'Shell']",229,442,37,38
+hubTab/egt,egt,hubTab,User,2021-02-02T21:10:43Z,2021-02-02T21:24:15Z,0,0,master,[],C++,0,0,1,0,2233,1,0,0,0,"['C++', 'M4', 'C', 'Makefile', 'Shell', 'SWIG', 'Assembly']",0,0,0,0
+wehale/songs,songs,wehale,User,2019-11-07T11:06:07Z,2019-11-07T14:21:39Z,0,0,master,[],,0,0,1,0,9,2,0,0,0,[],0,0,1,1
+wehale/hig,hig,wehale,User,2020-02-05T01:57:48Z,2020-05-08T02:47:31Z,2,0,master,[],JavaScript,0,0,1,0,51,2,0,0,2,['JavaScript'],1,1,3,3
+SiliconLabs/java_packet_trace_library,java_packet_trace_library,SiliconLabs,Organization,2020-12-01T21:11:22Z,2023-01-05T20:15:52Z,6,6,master,[],Java,6,0,1,0,129,11,0,0,5,['Java'],2,8,34,34
+wehale/spelling-bee,spelling-bee,wehale,User,2023-01-04T17:11:17Z,2023-01-04T17:13:10Z,0,0,main,[],Python,0,0,1,0,1,1,0,0,0,['Python'],0,0,0,0
+ThrowTheSwitch/Unity,Unity,ThrowTheSwitch,Organization,2012-01-26T19:52:36Z,2023-02-18T09:06:54Z,818,2872,master,[],C,47,5,2,8,1240,155,7,0,108,"['C', 'Ruby', 'Python', 'Makefile', 'CMake', 'Meson', 'HTML']",219,266,387,392
+stevedonovan/mosquitto-client,mosquitto-client,stevedonovan,User,2017-11-08T08:59:18Z,2023-02-08T19:54:39Z,8,15,master,"['client-library', 'mosquitto', 'mqtt', 'rust']",Rust,9,2,1,0,16,2,0,0,0,['Rust'],1,10,1,3
+jsloth/marlin,marlin,jsloth,User,2021-07-20T07:55:35Z,2021-07-20T08:12:33Z,1,0,jsloth,[],C++,0,0,1,0,15453,1,0,0,755,"['C++', 'C', 'Python', 'Shell', 'Makefile', 'OpenSCAD']",0,0,0,0
+kentora/renoweb-legacy,renoweb-legacy,kentora,User,2022-09-09T07:25:29Z,2022-12-18T06:59:46Z,1,2,master,[],Python,1,10,11,0,6,1,0,0,0,['Python'],0,1,29,39
+smartish-home/erocm123.SmartThingsPublic,erocm123.SmartThingsPublic,smartish-home,Organization,2017-01-17T19:37:53Z,2020-06-15T14:16:34Z,25,8,master,[],Groovy,2,0,1,0,409,8,0,0,19,['Groovy'],0,2,0,0
+google/googletest,googletest,google,Organization,2015-07-28T15:07:53Z,2023-02-19T14:36:20Z,9117,29030,main,[],C++,232,64,5,21,4120,1200,6,0,376,"['C++', 'Python', 'CMake', 'C', 'Starlark', 'Shell']",1829,2061,1796,1860
+quiet/quiet-lwip,quiet-lwip,quiet,Organization,2016-05-25T00:05:52Z,2023-01-14T18:03:07Z,57,640,master,[],C,1,0,2,0,21,27,0,0,0,['C'],2,3,0,0
+PetruSicoe/Python101-GameProject,Python101-GameProject,PetruSicoe,User,2021-05-10T17:42:24Z,2021-05-10T21:28:03Z,0,0,main,[],Python,0,0,5,0,9,1,0,0,2,['Python'],0,0,4,4
+PetruSicoe/Proiect_PM_2021,Proiect_PM_2021,PetruSicoe,User,2021-06-02T14:01:28Z,2021-06-02T14:03:33Z,0,0,main,[],C++,0,0,1,0,1,1,0,0,0,['C++'],0,0,0,0
+ShubhamMalasane/ShubhamMalasane,ShubhamMalasane,ShubhamMalasane,User,2022-07-06T05:15:34Z,2022-07-06T05:15:34Z,0,0,main,"['config', 'github-config']",,0,0,0,0,0,0,0,0,0,[],0,0,0,0
+EthanJWright/dotfiles,dotfiles,EthanJWright,User,2016-10-09T16:02:57Z,2021-03-30T18:02:55Z,3,0,master,[],Vim script,0,0,3,0,295,1,0,0,5,"['Vim Script', 'Python', 'Shell', 'C', 'C++', 'Makefile']",0,0,7,7
+PLVision/ovsdb-client,ovsdb-client,PLVision,Organization,2016-11-30T17:46:54Z,2018-04-02T08:43:47Z,1,1,master,['ovsdb'],JavaScript,0,0,1,0,8,4,0,0,0,['JavaScript'],0,0,0,0
+dbalatero/VimMode.spoon,VimMode.spoon,dbalatero,User,2018-06-19T22:46:22Z,2023-02-18T17:39:05Z,24,551,master,"['hammerspoon', 'lua', 'macvim', 'osx', 'vim']",Lua,15,6,16,0,274,14,0,0,6,"['Lua', 'Ruby', 'Shell']",43,58,38,44
+evilsocket/pwnagotchi,pwnagotchi,evilsocket,User,2019-09-19T13:07:15Z,2023-02-19T10:37:29Z,847,5513,master,"['ai', 'bettercap', 'deep-learning', 'deep-neural-network', 'deep-reinforcement-learning', 'handshakes', 'wpa-psk']",JavaScript,190,15,3,22,1734,208,21,0,144,"['JavaScript', 'Python', 'CSS', 'HTML', 'Shell', 'PowerShell', 'Makefile']",402,592,521,536
+schollz/progressbar,progressbar,schollz,User,2017-10-26T18:28:10Z,2023-02-19T10:14:45Z,182,3117,main,"['command-line', 'go', 'golang', 'hacktoberfest', 'library', 'progress-bar', 'progressbar', 'terminal']",Go,23,4,7,81,298,23,65,0,42,['Go'],54,77,72,76
+j8xixo12/QuantFinance,QuantFinance,j8xixo12,User,2020-03-23T15:34:59Z,2020-06-01T05:28:56Z,1,1,master,[],Jupyter Notebook,0,0,1,0,66,1,0,0,0,"['Jupyter Notebook', 'C++']",0,0,0,0
+j8xixo12/Stm32-Bootloader,Stm32-Bootloader,j8xixo12,User,2020-07-28T07:55:19Z,2022-02-22T02:09:39Z,0,1,master,[],C,0,0,1,0,3,0,0,0,0,"['C', 'Assembly']",0,0,0,0
+cambecc/earth,earth,cambecc,User,2013-11-04T10:40:52Z,2023-02-19T03:10:33Z,1059,4778,master,[],JavaScript,83,3,1,0,175,273,0,0,2,"['JavaScript', 'HTML', 'CSS']",35,118,7,10
+nasa/trick,trick,nasa,Organization,2015-02-17T16:17:32Z,2023-02-17T00:37:26Z,213,654,master,[],C++,125,10,39,31,1960,67,25,0,36,"['C++', 'Java', 'C', 'Python', 'Perl', 'Makefile']",914,1039,408,418
+dungru/P.E.K.K.A,P.E.K.K.A,dungru,User,2016-11-05T16:12:20Z,2016-11-19T02:15:08Z,2,1,master,[],C,0,0,1,0,15,2,0,0,0,"['C', 'Assembly']",0,0,0,0
+progranism/stm32f4-gcc-template,stm32f4-gcc-template,progranism,User,2013-02-27T01:59:10Z,2022-04-09T23:12:14Z,16,18,master,[],C,2,0,1,0,3,4,0,0,2,"['C', 'Assembly']",0,2,0,0
+pakls/lanspeed,lanspeed,pakls,User,2013-02-01T08:13:06Z,2022-07-03T02:57:54Z,0,3,master,[],C,0,0,1,0,2,2,0,0,0,['C'],0,0,0,0
+pakls/civil-manual-tw,civil-manual-tw,pakls,User,2012-11-07T05:08:31Z,2013-11-06T08:32:12Z,0,1,master,[],,0,0,1,0,8,4,0,0,0,[],0,0,0,0
+pakls/qdot,qdot,pakls,User,2013-06-18T14:03:06Z,2014-10-03T04:06:14Z,3,1,master,[],Python,0,0,1,0,39,2,0,0,3,"['Python', 'Shell']",0,0,4,4
+pakls/emu8051,emu8051,pakls,User,2013-12-05T15:31:08Z,2015-10-10T04:49:08Z,1,1,master,[],C,0,0,1,0,177,2,0,0,0,"['C', 'Perl', 'C++', 'Assembly', 'Shell']",0,0,0,0
+pakls/teraterm-ttssh2,teraterm-ttssh2,pakls,User,2014-12-15T08:42:05Z,2016-05-25T09:41:14Z,0,1,master,[],C,0,0,3,144,2444,2,0,0,0,"['C', 'C++', 'Objective-C', 'Perl', 'Shell', 'CSS']",0,0,0,0
+pakls/minicli,minicli,pakls,User,2015-04-13T00:09:13Z,2022-03-25T08:14:33Z,1,1,master,[],C,0,0,1,0,21,2,0,0,0,"['C', 'C++', 'Makefile']",0,0,0,0
+zhengyaohan/zheng,zheng,zhengyaohan,User,2016-09-23T05:14:47Z,2016-09-23T05:14:47Z,0,0,master,[],,0,0,0,0,0,0,0,0,0,[],0,0,0,0
+bekencorp/armino,armino,bekencorp,User,2022-05-09T14:42:21Z,2023-02-07T15:36:41Z,10,18,main,[],C,3,1,1,6,16,4,1,0,2,"['C', 'C++', 'ZAP', 'Objective-C', 'Objective-C++', 'HTML']",0,3,2,3
+KyleBastien/DominoEffect,DominoEffect,KyleBastien,User,2015-02-06T20:00:15Z,2015-03-11T22:03:00Z,1,0,master,[],ASP,6,0,1,0,19,4,0,0,4,"['Classic ASP', 'HTML', 'C#']",2,8,11,11
+AlexPygin/TerminalSetup,TerminalSetup,AlexPygin,User,2021-10-30T18:05:45Z,2021-10-31T00:14:37Z,0,0,main,[],Shell,0,0,1,0,5,1,0,0,0,"['Shell', 'PowerShell']",0,0,0,0
+ARMmbed/mbed-os-tools,mbed-os-tools,ARMmbed,Organization,2018-11-02T16:29:10Z,2023-01-27T19:42:54Z,63,31,master,[],Python,5,5,11,31,2872,12,15,0,74,['Python'],84,89,191,196
+petroakzhygitov/nest-ios-sdk,nest-ios-sdk,petroakzhygitov,User,2016-01-07T22:13:26Z,2018-11-16T09:46:54Z,5,12,master,[],Objective-C,2,2,2,6,405,3,6,0,0,"['Objective-C', 'Swift']",3,5,0,2
+petroakzhygitov/VGTS2MP4,VGTS2MP4,petroakzhygitov,User,2014-11-14T10:49:12Z,2022-07-25T08:34:59Z,3,7,master,[],C,0,0,1,0,1,1,0,0,0,"['C', 'C++', 'Objective-C']",0,0,0,0
+twitter-archive/CocoaSPDY,CocoaSPDY,twitter-archive,Organization,2013-12-19T01:50:59Z,2023-01-28T09:07:18Z,248,2400,master,[],Objective-C,18,4,4,26,243,217,4,0,17,"['Objective-C', 'C']",33,51,110,114
+venmo/VENTokenField,VENTokenField,venmo,Organization,2014-06-19T01:34:44Z,2023-01-25T17:00:37Z,192,796,master,[],Objective-C,28,19,7,18,160,62,11,0,14,"['Objective-C', 'Ruby']",19,47,51,70
+jsonmodel/jsonmodel,jsonmodel,jsonmodel,Organization,2012-12-02T17:19:21Z,2023-02-17T02:48:38Z,1071,6856,master,[],Objective-C,24,9,4,29,732,263,9,0,61,"['Objective-C', 'Ruby']",458,482,160,169
+prasad-alatkar/prasad-edits,prasad-edits,prasad-alatkar,User,2018-10-01T12:26:37Z,2018-10-04T05:44:11Z,0,0,master,[],,0,0,2,0,3,0,0,0,0,[],0,0,0,0
+mahavirj/esp-bootstrap,esp-bootstrap,mahavirj,User,2018-10-03T07:38:19Z,2019-12-31T17:58:54Z,3,9,master,[],C,0,0,1,0,21,4,0,0,2,"['C', 'C++', 'Python', 'M4', 'Makefile', 'CMake', 'Shell']",1,1,0,0
+apache/mynewt-nimble,mynewt-nimble,apache,Organization,2017-12-04T19:34:47Z,2023-02-19T06:41:34Z,324,532,master,['mynewt'],C,94,73,11,15,4770,45,0,0,91,"['C', 'Python', 'Ruby', 'Makefile', 'Shell', 'C++']",147,241,1147,1220
+zero-to-mastery/travel-guide,travel-guide,zero-to-mastery,Organization,2018-01-13T21:01:48Z,2023-01-28T05:30:38Z,937,101,master,"['hacktoberfest', 'travel-guide']",JavaScript,0,4,3,0,1580,23,0,0,484,"['JavaScript', 'CSS', 'HTML']",16,16,738,742
+shinchan-bot/smart-brain-api,smart-brain-api,shinchan-bot,User,2018-11-03T16:33:48Z,2018-11-03T16:55:24Z,0,0,master,[],JavaScript,0,0,1,0,1,1,0,0,0,['JavaScript'],0,0,0,0
+shinchan-bot/smart-brain-frontend,smart-brain-frontend,shinchan-bot,User,2018-11-04T06:32:51Z,2018-11-09T19:41:40Z,0,0,master,[],JavaScript,0,0,1,0,1,1,0,0,0,"['JavaScript', 'HTML', 'CSS']",0,0,0,0
+shinchan-bot/phone-directory,phone-directory,shinchan-bot,User,2019-03-05T11:48:28Z,2019-03-05T12:32:57Z,0,0,master,[],JavaScript,0,0,2,0,3,1,0,0,0,"['JavaScript', 'CSS', 'HTML']",0,0,0,0
+shinchan-bot/zenith19,zenith19,shinchan-bot,User,2019-03-18T13:15:16Z,2019-03-19T21:40:41Z,2,0,master,[],JavaScript,0,1,2,0,2,1,0,0,0,"['JavaScript', 'CSS', 'HTML']",0,0,0,1
+saagarverma1234/Zenith-19,Zenith-19,saagarverma1234,User,2019-03-13T18:36:12Z,2019-03-21T09:23:30Z,2,0,master,[],JavaScript,0,2,1,0,4,0,0,0,2,"['JavaScript', 'HTML', 'CSS']",0,0,1,3
+tpmanley/conferences,conferences,tpmanley,User,2019-04-23T03:28:07Z,2019-04-23T18:40:28Z,0,2,master,[],Groovy,0,0,1,0,10,3,0,0,2,['Groovy'],0,0,0,0
+rbrady/django-bootstrapped,django-bootstrapped,rbrady,User,2011-12-03T20:36:05Z,2021-03-29T04:24:12Z,20,69,master,[],Python,3,0,2,0,19,7,0,0,2,['Python'],1,4,1,1
+posborne/Anvil,Anvil,posborne,User,2012-04-07T02:38:23Z,2016-07-07T18:25:34Z,3,3,master,[],Python,28,0,1,0,18,2,0,0,3,['Python'],0,28,2,2
+tpmanley/protocol-diagrams,protocol-diagrams,tpmanley,User,2012-05-20T17:08:13Z,2013-10-14T22:31:33Z,0,1,master,[],JavaScript,0,0,1,0,8,1,0,0,0,"['JavaScript', 'Python']",0,0,0,0
+tpmanley/maxsonar,maxsonar,tpmanley,User,2012-06-13T04:30:44Z,2015-09-04T12:19:34Z,1,1,master,[],Python,0,0,1,0,2,1,0,0,0,['Python'],0,0,0,0
+tpmanley/pymissile,pymissile,tpmanley,User,2012-06-26T05:08:20Z,2013-10-06T03:22:13Z,0,1,master,[],Python,0,0,1,0,2,1,0,0,0,['Python'],0,0,0,0
+Kxuan/AndroidSensorOnPcBrowesr,AndroidSensorOnPcBrowesr,Kxuan,User,2015-12-25T07:58:43Z,2022-12-13T05:36:15Z,0,2,master,[],JavaScript,0,0,1,0,4,2,0,0,0,['JavaScript'],0,0,0,0
+Kxuan/dnspod-ddns,dnspod-ddns,Kxuan,User,2018-02-28T16:56:16Z,2021-06-14T07:21:37Z,2,2,master,[],Python,0,1,2,0,17,3,0,0,3,['Python'],0,0,2,3
+Kxuan/event_list,event_list,Kxuan,User,2015-06-13T02:19:30Z,2017-08-31T05:43:48Z,0,1,master,[],C,0,0,1,0,8,2,0,0,0,"['C', 'Makefile']",0,0,0,0
+Kxuan/RtcCentralServer,RtcCentralServer,Kxuan,User,2016-01-22T13:49:07Z,2022-12-13T05:36:48Z,0,1,master,[],JavaScript,0,0,1,0,156,2,0,0,5,"['JavaScript', 'HTML', 'CSS']",0,0,0,0
+Kxuan/transparent_http_proxy,transparent_http_proxy,Kxuan,User,2016-08-31T10:38:37Z,2018-12-08T15:36:12Z,0,1,master,[],JavaScript,0,0,1,0,13,2,0,0,0,['JavaScript'],0,0,0,0
+Kxuan/ringzer0,ringzer0,Kxuan,User,2017-03-24T08:55:10Z,2020-01-07T08:45:59Z,0,1,master,[],Shell,0,0,1,0,21,2,0,0,0,"['Shell', 'C', 'Python', 'JavaScript', 'Fortran', 'Makefile']",0,0,0,0
+hoobs-org/cli,cli,hoobs-org,Organization,2020-10-05T02:58:20Z,2021-09-17T05:00:00Z,2,3,main,[],TypeScript,0,0,3,19,194,3,19,0,0,"['TypeScript', 'Shell', 'JavaScript']",2,2,20,20
+alexa-labs/skill-workshop-smart-city,skill-workshop-smart-city,alexa-labs,Organization,2019-05-29T19:53:36Z,2019-06-21T02:19:19Z,4,8,master,[],JavaScript,0,2,1,0,29,8,0,0,3,['JavaScript'],0,0,0,2
+seb-fae/imx6ul-14x14-evk-wf200-Yocto-integration,imx6ul-14x14-evk-wf200-Yocto-integration,seb-fae,User,2020-11-17T11:28:06Z,2021-06-02T10:24:22Z,0,0,main,[],BitBake,0,0,1,0,18,1,0,0,2,['BitBake'],0,0,0,0
+seb-fae/pilot-wire-zero-crossing,pilot-wire-zero-crossing,seb-fae,User,2020-11-17T14:59:44Z,2021-06-02T20:02:02Z,0,0,main,[],C,0,0,1,0,3,1,0,0,0,['C'],0,0,0,0
+seb-fae/zigbee-host-code-snippet,zigbee-host-code-snippet,seb-fae,User,2020-12-01T20:17:27Z,2021-08-24T14:08:02Z,0,0,main,[],,0,0,1,0,14,1,0,0,2,[],0,0,1,1
+seb-fae/NCP-Zigbee-Secure-Element,NCP-Zigbee-Secure-Element,seb-fae,User,2021-04-24T14:48:02Z,2021-07-25T20:47:59Z,0,0,main,[],C,0,0,1,0,67,1,0,0,2,['C'],0,0,0,0
+seb-fae/efr32xg2x-infrared,efr32xg2x-infrared,seb-fae,User,2021-06-02T09:31:12Z,2021-08-23T11:57:56Z,0,0,main,[],C,0,0,1,0,39,1,0,0,0,['C'],0,0,0,0
+seb-fae/efr32mg2x-em4-zigbee-SED,efr32mg2x-em4-zigbee-SED,seb-fae,User,2021-08-05T09:03:30Z,2021-08-23T11:56:23Z,0,0,main,[],C,0,0,1,0,12,1,0,0,0,['C'],0,0,0,0
+AnotherIndieDevStudio/Coopgamemaking-01,Coopgamemaking-01,AnotherIndieDevStudio,User,2015-05-05T15:05:52Z,2023-02-05T03:18:49Z,10,7,master,[],JavaScript,0,1,8,1,92,6,1,0,7,"['JavaScript', 'HTML', 'CSS']",2,2,31,32
+DMOJ/judge-server,judge-server,DMOJ,Organization,2014-03-14T15:14:10Z,2023-02-17T19:51:43Z,207,787,master,"['competitive-programming', 'computer-science', 'contest-platform', 'freebsd', 'linux', 'online-judge', 'python', 'sandbox']",Python,51,19,24,13,3855,26,12,0,27,"['Python', 'C++', 'Cython', 'C', 'Java', 'Brainfuck']",396,447,633,652
+milezhacks/libsharedexample,libsharedexample,milezhacks,User,2022-06-10T14:34:23Z,2022-06-10T14:50:40Z,0,0,main,[],Makefile,0,0,1,0,5,1,0,0,0,"['Makefile', 'C']",0,0,0,0
+milezhacks/appexample,appexample,milezhacks,User,2022-06-10T14:52:08Z,2022-06-10T15:02:49Z,0,0,main,[],Makefile,0,0,1,0,5,1,0,0,0,"['Makefile', 'C']",0,0,0,0
+tpudlik/hydroponics,hydroponics,tpudlik,User,2016-02-06T03:05:02Z,2023-02-11T17:07:03Z,14,43,master,[],Python,1,0,3,0,14,16,0,0,0,"['Python', 'HTML']",0,1,0,0
+tpudlik/RaspAC,RaspAC,tpudlik,User,2014-03-11T01:26:47Z,2022-12-13T10:55:46Z,5,28,master,"['ir-codes', 'lirc', 'raspberry-pi', 'temperature-sensor']",Python,2,0,1,0,6,7,0,0,0,"['Python', 'CSS', 'HTML', 'C']",1,3,0,0
+tpudlik/sbf,sbf,tpudlik,User,2015-10-31T21:38:02Z,2022-12-13T10:56:04Z,2,5,master,[],Python,0,0,1,0,29,2,0,0,0,['Python'],0,0,0,0
+tpudlik/Graphene-nanoribbons,Graphene-nanoribbons,tpudlik,User,2014-02-22T23:48:08Z,2022-12-13T10:56:30Z,0,3,master,[],,0,0,1,0,3,3,0,0,0,[],0,0,0,0
+tpudlik/Birdfeeder,Birdfeeder,tpudlik,User,2014-04-05T13:51:44Z,2022-12-13T10:56:43Z,0,3,master,[],Python,0,0,4,0,87,2,0,0,0,['Python'],0,0,0,0
+tpudlik/bioprinter_arduino,bioprinter_arduino,tpudlik,User,2015-01-24T17:37:35Z,2022-12-13T10:57:04Z,0,3,master,[],Arduino,0,0,2,0,7,7,0,0,2,[],0,0,0,0
+SamsungSLAV/muxpi,muxpi,SamsungSLAV,Organization,2018-10-01T12:32:08Z,2022-08-11T05:02:39Z,9,15,master,[],C,5,1,3,1,69,7,0,0,4,"['C', 'Go', 'C++', 'Makefile', 'Shell', 'Python']",0,5,4,5
+ROBOTIS-GIT/OpenCR,OpenCR,ROBOTIS-GIT,Organization,2016-04-26T22:48:46Z,2023-02-19T08:45:58Z,218,340,master,"['arduino', 'board', 'dynamixel', 'embedded', 'op3', 'opencr', 'openmanipultor', 'robotis', 'ros', 'turtlebot3']",C,33,5,7,51,1482,44,50,0,35,"['C', 'C++', 'HTML', 'Assembly', 'Shell', 'QMake']",154,187,131,136
+tern-tools/tern,tern,tern-tools,Organization,2017-11-27T23:32:17Z,2023-02-19T09:47:08Z,183,823,main,"['compliance', 'containers', 'dependencies', 'docker', 'metadata-extraction', 'open-source', 'oss-compliance', 'python', 'risk-management', 'sbom', 'software-composition-analysis', 'spdx', 'supply-chain-security', 'tool']",Python,47,3,3,27,1085,29,21,0,65,['Python'],463,510,692,695
+nexB/scancode.io,scancode.io,nexB,Organization,2020-09-10T15:06:52Z,2023-02-16T10:34:06Z,66,69,main,"['cyclonedx', 'docker', 'foss-compliance', 'license', 'open-source', 'package-url', 'purl', 'sca', 'scancode', 'software-composition-analysis', 'spdx', 'virtual-machine', 'vulnerabilities']",Python,151,15,15,23,558,13,23,0,11,"['Python', 'HTML']",258,409,185,200
+nexB/fetchcode,fetchcode,nexB,Organization,2019-10-04T07:24:32Z,2023-01-18T19:57:40Z,16,7,master,[],Python,25,11,4,2,232,8,2,0,14,['Python'],22,47,33,44
+nexB/scancode-toolkit,scancode-toolkit,nexB,Organization,2015-07-01T13:43:06Z,2023-02-19T08:56:03Z,485,1642,develop,"['copyright', 'copyright-scan', 'cyclonedx', 'dependencies', 'dependency-graph', 'license', 'license-checking', 'license-scan', 'licensing', 'open-source-licensing', 'oss-compliance', 'package-url', 'packages', 'provenance', 'purl', 'sbom', 'sca', 'software-composition-analysis', 'spdx', 'spdx-licenses']",Python,716,16,26,76,10328,65,57,0,307,"['Python', 'HTML', 'C', 'Shell', 'C++', 'Roff']",1361,2077,1109,1125
+rdkcentral/rdkservices,rdkservices,rdkcentral,Organization,2020-03-11T15:05:36Z,2023-02-09T17:21:21Z,274,16,sprint/23Q1,[],C++,18,34,124,6,2142,25,0,0,148,"['C++', 'CMake', 'Python', 'C', 'JavaScript', 'HTML']",21,39,3722,3756
+nestlabs/nlutilities,nlutilities,nestlabs,Organization,2018-02-13T18:57:09Z,2023-01-28T05:27:14Z,3,9,master,[],Makefile,0,1,3,13,72,8,0,0,2,"['Makefile', 'C', 'C++', 'M4', 'Shell']",0,0,16,17
+nestlabs/nlassert,nlassert,nestlabs,Organization,2017-06-29T01:03:34Z,2023-01-28T05:27:14Z,7,4,master,[],C,0,0,3,12,64,7,0,0,0,"['C', 'Makefile', 'M4']",0,0,13,13
+project-generator/project_generator_definitions,project_generator_definitions,project-generator,Organization,2015-03-20T07:55:16Z,2022-12-27T21:31:35Z,44,15,master,[],Python,7,0,1,47,383,7,1,0,30,['Python'],28,35,120,120
+ARMmbed/sockets,sockets,ARMmbed,Organization,2015-01-07T16:57:58Z,2022-01-17T17:05:48Z,18,6,master,[],C++,15,1,7,38,276,48,0,0,12,"['C++', 'Objective-C', 'Python']",11,26,43,44
+ARMmbed/sal,sal,ARMmbed,Organization,2015-02-09T15:51:03Z,2018-01-13T23:52:22Z,15,2,master,[],C,5,3,7,43,224,41,0,0,10,"['C', 'C++', 'Python']",2,7,41,44
+adbridge/jira-test-repo,jira-test-repo,adbridge,User,2016-02-03T17:02:02Z,2016-02-03T17:02:02Z,1,0,master,[],,4,0,1,0,1,1,0,0,0,[],0,4,0,0
+ARMmbed/mbed-hal,mbed-hal,ARMmbed,Organization,2014-12-11T11:59:35Z,2022-08-04T02:32:24Z,28,14,master,[],C,8,3,6,50,229,41,0,0,13,"['C', 'C++', 'Python', 'CMake']",7,15,64,67
+RoyAnupam/cool_codes,cool_codes,RoyAnupam,User,2015-10-05T18:41:24Z,2015-10-05T18:57:03Z,1,0,master,[],C,0,0,1,0,6,1,0,0,0,['C'],0,0,0,0
+CarolineToc/polycomp_display_driver,polycomp_display_driver,CarolineToc,User,2017-02-21T21:30:45Z,2022-11-08T14:12:54Z,0,0,master,[],Python,0,0,1,0,5,1,0,0,0,['Python'],0,0,0,0
+jsommers/switchyard,switchyard,jsommers,User,2014-07-27T18:18:14Z,2022-10-12T02:24:24Z,41,39,master,"['education', 'networking', 'prototyping', 'python', 'python3']",Python,5,0,3,4,612,4,0,0,2,['Python'],6,11,2,2
+cjswedes/world-hello,world-hello,cjswedes,User,2016-07-20T04:37:50Z,2023-01-28T18:41:33Z,0,0,master,[],,0,0,3,0,1,1,0,0,0,[],0,0,0,0
+cjswedes/real-wear,real-wear,cjswedes,User,2019-02-13T16:38:24Z,2019-05-04T03:24:09Z,0,0,master,[],HTML,15,3,15,4,164,5,4,0,5,"['HTML', 'Python', 'JavaScript', 'CSS']",24,39,28,31
+crossbario/autobahn-testsuite,autobahn-testsuite,crossbario,Organization,2012-03-19T09:59:18Z,2023-02-18T13:33:13Z,81,746,master,"['autobahn', 'autobahn-testsuite', 'test-coverage', 'testsuite', 'websocket', 'websocket-client', 'websocket-server']",Python,31,0,2,21,520,31,0,0,21,"['Python', 'HTML', 'JavaScript', 'Makefile', 'CSS', 'Dockerfile', 'Shell']",70,101,25,25
+chkimes/graphql-net,graphql-net,chkimes,User,2015-07-06T03:15:24Z,2023-02-13T14:38:36Z,93,885,master,[],C#,34,8,9,0,262,51,0,0,9,"['C#', 'F#']",39,73,32,40
+chkimes/arbitrary-async-return-nullable,arbitrary-async-return-nullable,chkimes,User,2016-05-03T00:28:39Z,2022-04-12T08:33:17Z,2,6,master,[],C#,0,0,2,0,7,1,0,0,0,['C#'],0,0,0,0
+chkimes/bashrc,bashrc,chkimes,User,2014-08-08T01:35:10Z,2023-01-17T08:25:26Z,0,2,master,[],Shell,0,0,1,0,36,2,0,0,0,['Shell'],0,0,0,0
+chkimes/actions-ssh,actions-ssh,chkimes,User,2022-12-14T16:56:17Z,2023-01-26T20:21:46Z,2,2,main,[],,0,0,1,1,7,1,1,0,0,[],0,0,0,0
+chkimes/codecamp-mvvmcross,codecamp-mvvmcross,chkimes,User,2015-10-19T02:01:32Z,2015-10-21T18:04:54Z,0,1,master,[],C#,0,0,2,5,8,1,0,0,0,['C#'],0,0,0,0
+chkimes/rlox,rlox,chkimes,User,2021-07-08T21:45:18Z,2021-07-19T01:39:13Z,1,1,main,[],Rust,0,0,1,0,8,2,0,0,0,['Rust'],0,0,0,0
+KrypticCliff/PhotoRec-Extension-Sorter,PhotoRec-Extension-Sorter,KrypticCliff,User,2018-11-21T21:12:45Z,2019-11-06T00:38:31Z,0,1,master,[],C++,0,0,2,0,13,0,0,0,0,"['C++', 'Makefile']",0,0,0,0
+KrypticCliff/OptiMac,OptiMac,KrypticCliff,User,2019-03-29T21:40:38Z,2019-04-27T13:31:44Z,0,1,master,[],Shell,0,0,1,0,10,0,0,0,0,['Shell'],0,0,0,0
+KrypticCliff/Inventory-Scanner,Inventory-Scanner,KrypticCliff,User,2018-11-21T17:21:38Z,2023-01-28T07:54:11Z,0,0,master,[],C++,0,0,3,0,26,0,0,0,0,"['C++', 'Makefile']",0,0,0,0
+KrypticCliff/LIDAR-Scan-Generator,LIDAR-Scan-Generator,KrypticCliff,User,2019-02-19T17:59:59Z,2019-04-25T07:48:02Z,0,0,master,[],C++,0,0,1,0,29,0,0,0,0,['C++'],0,0,0,0
+BVLC/caffe,caffe,BVLC,Organization,2013-09-12T18:39:48Z,2023-02-19T13:36:30Z,18981,33133,master,"['deep-learning', 'machine-learning', 'vision']",C++,895,286,7,14,4156,2100,14,0,269,"['C++', 'Python', 'Cuda', 'CMake', 'MATLAB', 'Makefile']",3892,4787,1954,2240
+KrypticCliff/OpenCV-Counter,OpenCV-Counter,KrypticCliff,User,2019-03-02T09:48:21Z,2019-04-28T23:54:00Z,0,0,master,[],C++,0,0,1,0,4,0,0,0,0,"['C++', 'CMake', 'Python', 'Makefile']",0,0,0,0
+DamKast/chip-build-crosscompile-armhf,chip-build-crosscompile-armhf,DamKast,User,2023-01-31T14:30:51Z,2023-02-02T11:37:27Z,0,0,main,[],Shell,0,0,1,0,11,1,0,0,0,"['Shell', 'Dockerfile']",0,0,0,0
+DamKast/chip-wheels-armhf,chip-wheels-armhf,DamKast,User,2023-02-06T15:09:52Z,2023-02-06T15:09:52Z,0,0,main,[],,0,0,1,0,9,1,0,0,0,[],0,0,0,0
+home-assistant-libs/chip-wheels,chip-wheels,home-assistant-libs,Organization,2022-11-21T12:04:52Z,2023-01-26T21:40:22Z,5,4,main,[],,0,0,3,6,42,1,6,0,0,[],2,2,4,4
+llllVIIII/ulog,ulog,llllVIIII,User,2022-02-22T21:12:52Z,2022-11-03T16:03:56Z,0,1,main,[],C,0,0,1,0,41,1,0,0,0,"['C', 'C++', 'CMake', 'Shell']",0,0,0,0
+llllVIIII/dotfiles,dotfiles,llllVIIII,User,2020-07-09T18:35:36Z,2020-07-23T16:34:47Z,0,0,master,[],Shell,0,0,1,0,4,0,0,0,0,['Shell'],0,0,0,0
+llllVIIII/nrf52-app,nrf52-app,llllVIIII,User,2022-03-02T19:51:40Z,2022-03-02T20:14:17Z,0,0,main,[],C,0,0,1,0,5,1,0,0,0,"['C', 'Makefile']",0,0,0,0
+llllVIIII/ulog-bench-app,ulog-bench-app,llllVIIII,User,2022-03-09T20:16:48Z,2022-03-09T20:26:18Z,0,0,main,[],C,0,0,1,0,17,1,0,0,0,"['C', 'Makefile']",0,0,0,0
+thlorenz/chromium-build,chromium-build,thlorenz,User,2014-10-07T20:57:00Z,2022-06-27T22:48:02Z,11,4,master,[],Python,0,0,1,0,7167,1,0,0,34,"['Python', 'Shell', 'C++', 'Java']",0,0,0,0
+emontnemery/domoticz_mqtt_discovery,domoticz_mqtt_discovery,emontnemery,User,2018-01-06T09:47:23Z,2023-02-02T13:28:07Z,28,39,development,[],Python,21,2,6,0,20,15,0,0,4,['Python'],21,42,10,12
+emontnemery/hatasmota,hatasmota,emontnemery,User,2020-09-02T19:35:46Z,2022-07-17T13:11:05Z,13,19,master,[],Python,7,6,72,74,233,4,73,0,6,['Python'],9,16,184,190
+home-assistant/core,core,home-assistant,Organization,2013-09-17T07:29:48Z,2023-02-19T14:49:31Z,22035,58182,dev,"['asyncio', 'hacktoberfest', 'home-automation', 'internet-of-things', 'iot', 'mqtt', 'python', 'raspberry-pi']",Python,2100,565,81,1067,59358,1300,1066,24,3100,['Python'],34265,36365,50969,51534
+emontnemery/domoticz_kamstrup_mqtt,domoticz_kamstrup_mqtt,emontnemery,User,2018-08-08T13:47:02Z,2019-03-01T14:41:06Z,2,2,development,[],Python,1,0,2,0,3,3,0,0,0,['Python'],0,1,0,0
+home-assistant/frontend,frontend,home-assistant,Organization,2015-07-12T23:58:06Z,2023-02-17T14:54:12Z,1934,2922,dev,"['frontend', 'hacktoberfest', 'home-assistant', 'home-automation', 'lit-element', 'polymer', 'webcomponents']",TypeScript,491,83,207,504,10333,125,501,0,461,"['TypeScript', 'JavaScript']",5280,5771,8297,8380
+tasmota/docs,docs,tasmota,Organization,2019-11-18T15:43:30Z,2023-02-16T08:57:33Z,632,115,master,"['documentation', 'hacktoberfest', 'help', 'tasmota', 'wiki']",Python,7,12,3,0,4901,17,0,0,479,"['Python', 'HTML']",56,63,1109,1121
+fengli/alipay_python,alipay_python,fengli,User,2012-03-11T14:12:34Z,2022-12-06T20:34:26Z,232,618,master,[],Python,8,1,1,0,7,65,0,0,2,['Python'],2,10,2,3
+fengli/autocomplete-redis,autocomplete-redis,fengli,User,2012-07-30T14:19:18Z,2022-09-18T07:06:20Z,43,204,master,[],Python,1,0,2,1,38,31,0,0,0,['Python'],0,1,1,1
+fengli/ikindle_recipe,ikindle_recipe,fengli,User,2012-01-07T14:32:05Z,2022-12-30T09:16:55Z,16,57,master,[],,0,0,1,0,6,8,0,0,0,[],0,0,0,0
+fengli/fabfile-deploy,fabfile-deploy,fengli,User,2012-07-27T14:30:44Z,2019-08-13T15:06:54Z,5,56,master,[],,0,0,1,0,2,6,0,0,0,[],0,0,0,0
+omab/django-social-auth,django-social-auth,omab,User,2010-11-07T21:07:55Z,2023-02-06T18:40:01Z,781,2630,master,[],Python,10,0,1,94,1613,102,0,0,167,"['Python', 'HTML', 'Makefile']",534,544,326,326
+fengli/ikandou.douban,ikandou.douban,fengli,User,2012-05-31T13:43:58Z,2018-02-25T03:55:40Z,12,21,master,[],JavaScript,0,0,1,0,14,7,0,0,3,['JavaScript'],0,0,1,1
+ARMmbed/mbed-os-5-docs,mbed-os-5-docs,ARMmbed,Organization,2015-03-10T13:06:41Z,2023-01-24T05:15:18Z,175,91,development,[],Python,32,0,79,1,8349,81,0,0,123,"['Python', 'Shell']",170,202,1303,1303
+ARMmbed/mbed-os-examples-docs_only,mbed-os-examples-docs_only,ARMmbed,Organization,2018-10-11T14:19:44Z,2022-04-24T21:05:29Z,25,5,master,[],C++,1,8,35,0,307,81,0,0,23,"['C++', 'Python']",1,2,119,127
+ARMmbed/fpga-ci-test-shield-updater,fpga-ci-test-shield-updater,ARMmbed,Organization,2019-05-09T15:23:09Z,2020-08-05T15:47:29Z,2,2,master,[],C++,0,0,1,0,5,6,0,0,3,"['C++', 'Python']",1,1,2,2
+ARMmbed/fpga-ci-test-shield,fpga-ci-test-shield,ARMmbed,Organization,2019-07-05T19:35:21Z,2023-01-26T10:58:21Z,8,6,master,[],Verilog,0,0,1,1,11,7,1,0,4,"['Verilog', 'Tcl', 'C++', 'Batchfile']",0,0,3,3
+ARMmbed/mbed-os-example-attestation,mbed-os-example-attestation,ARMmbed,Organization,2019-03-07T15:08:17Z,2022-11-03T06:48:59Z,13,1,master,[],C++,1,2,12,51,86,8,3,0,14,"['C++', 'C', 'CMake']",4,5,61,63
+WAvdBeek/CoAPthon3,CoAPthon3,WAvdBeek,User,2020-04-24T08:56:34Z,2021-12-06T12:07:04Z,45,0,master,[],Python,0,0,1,4,92,1,1,0,0,[],3,3,3,3
+FrankZRS/stock_trading,stock_trading,FrankZRS,User,2021-09-13T22:15:28Z,2021-11-02T11:32:41Z,0,0,master,[],Python,0,0,1,0,30,1,0,0,0,['Python'],0,0,0,0
+FrankZRS/Champions_League_Draw_Simulator,Champions_League_Draw_Simulator,FrankZRS,User,2021-12-18T14:47:29Z,2021-12-22T22:15:27Z,0,0,main,[],Python,0,0,1,0,9,1,0,0,0,['Python'],0,0,0,0
+iotivity/iotivity-lite,iotivity-lite,iotivity,Organization,2019-02-19T18:47:09Z,2023-02-01T09:16:26Z,61,100,master,"['coap', 'framework', 'iot', 'iot-platform', 'secure', 'stack']",C,37,9,176,43,2399,20,9,4,49,"['C', 'Java', 'C++', 'SWIG', 'Python', 'Makefile']",45,82,291,300
+verdaccio/verdaccio,verdaccio,verdaccio,Organization,2016-04-15T16:21:12Z,2023-02-19T12:58:10Z,1284,14433,master,"['docker', 'docker-image', 'hacktoberfest', 'heml', 'javascript', 'kubernetes', 'node', 'nodejs', 'npm', 'npm-registry', 'pnpm', 'private-npm', 'registry', 'registry-proxy', 'sponsor', 'verdaccio', 'yarn', 'yarnpkg']",TypeScript,50,12,43,1110,4783,160,324,0,259,"['TypeScript', 'JavaScript', 'SCSS']",1009,1059,2179,2191
+ayalus/ExoPlayer-2-Example,ExoPlayer-2-Example,ayalus,User,2016-10-07T20:28:43Z,2022-10-10T02:38:36Z,59,74,master,"['android', 'exoplayer', 'exoplayer-demo', 'exoplayer2', 'livestream', 'm3u8', 'm3u8-palyer']",Java,1,0,2,0,17,8,0,0,2,['Java'],10,11,1,1
+guylevin/octave-docker,octave-docker,guylevin,User,2019-12-30T21:17:21Z,2020-04-25T18:14:00Z,0,1,master,[],Dockerfile,0,0,10,0,18,1,0,0,0,['Dockerfile'],0,0,5,5
+MohGovIL/hamagen-react-native,hamagen-react-native,MohGovIL,Organization,2020-03-22T19:57:33Z,2023-01-23T15:16:58Z,162,510,master,"['coronavirus', 'covid-19']",TypeScript,117,31,39,18,593,30,14,0,20,"['TypeScript', 'JavaScript', 'Objective-C', 'Java', 'Ruby', 'Starlark']",101,218,68,99
+guylevin/smart-home-micropython,smart-home-micropython,guylevin,User,2021-10-03T19:14:48Z,2021-10-06T14:22:38Z,0,1,main,[],Python,0,0,2,0,19,1,0,0,0,['Python'],0,0,1,1
+guylevin/react-dev-container,react-dev-container,guylevin,User,2022-12-12T14:05:05Z,2022-12-12T20:42:02Z,0,1,main,[],Dockerfile,0,0,1,0,9,1,0,0,0,"['Dockerfile', 'Shell']",0,0,0,0
+proppy/gorogoro,gorogoro,proppy,User,2014-06-08T23:51:09Z,2023-01-31T04:53:25Z,1,24,master,[],Go,0,0,1,0,27,2,0,0,0,['Go'],1,1,0,0
+GoogleCloudPlatform/rad-lab,rad-lab,GoogleCloudPlatform,Organization,2021-10-01T17:43:04Z,2023-02-06T00:17:02Z,65,67,main,[],HCL,9,9,8,19,509,6,19,0,11,"['HCL', 'Jupyter Notebook', 'TypeScript', 'Python', 'Shell', 'JavaScript']",20,29,97,106
+proppy/cros-sdk-docker,cros-sdk-docker,proppy,User,2014-12-16T22:05:27Z,2022-03-27T11:03:04Z,3,8,master,[],Shell,0,0,1,0,2,4,0,0,0,['Shell'],0,0,0,0
+proppy/tiny_user_project,tiny_user_project,proppy,User,2022-09-06T01:57:06Z,2023-01-31T20:20:05Z,8,8,main,[],Verilog,3,0,22,0,195,2,0,0,0,"['Verilog', 'Tcl', 'C', 'Makefile']",3,6,18,18
+babydock/milkymist-democompo,milkymist-democompo,babydock,User,2009-09-01T18:42:24Z,2021-12-13T00:09:52Z,5,3,master,[],C,0,0,1,0,2,4,0,0,0,[],0,0,0,0
+android/ndk-samples,ndk-samples,android,Organization,2015-05-16T10:02:15Z,2023-02-19T11:07:51Z,4087,9310,main,[],C++,54,9,8,0,1475,605,0,0,66,"['C++', 'C', 'Java', 'CMake', 'GLSL', 'Makefile']",408,462,448,457
+nrfconnect/sdk-mcuboot,sdk-mcuboot,nrfconnect,Organization,2018-02-05T14:45:56Z,2023-02-10T08:31:18Z,188,44,main,[],C,0,12,11,72,2014,45,8,0,147,"['C', 'Rust', 'Python', 'Assembly', 'CMake', 'Makefile']",229,229,229,241
+apache/mynewt-mcumgr,mynewt-mcumgr,apache,Organization,2017-12-06T05:34:08Z,2023-02-09T09:15:12Z,67,72,master,['mynewt'],C,26,3,1,3,311,30,0,0,40,"['C', 'CMake']",16,42,121,124
+krzysztofziobro/substrate-karaoke,substrate-karaoke,krzysztofziobro,User,2022-04-19T09:40:56Z,2022-05-09T09:16:19Z,0,0,main,[],Rust,0,0,1,0,9,1,0,0,0,"['Rust', 'Nix', 'Shell']",0,0,0,0
+krzysztofziobro/substrate-casino,substrate-casino,krzysztofziobro,User,2022-05-09T11:28:25Z,2022-05-23T15:29:31Z,0,0,main,[],Rust,0,0,1,0,12,1,0,0,0,"['Rust', 'Nix', 'Shell']",0,0,0,0
+LawrenceQuarshie/demo-repo,demo-repo,LawrenceQuarshie,User,2021-10-19T00:20:47Z,2021-10-19T23:26:02Z,0,0,main,[],,0,0,1,0,5,1,0,0,0,[],0,0,0,0
+LawrenceQuarshie/LawrenceQuarshie,LawrenceQuarshie,LawrenceQuarshie,User,2022-04-11T20:50:38Z,2022-04-11T20:50:38Z,0,0,main,"['config', 'github-config']",,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+LawrenceQuarshie/curriculum-repo,curriculum-repo,LawrenceQuarshie,User,2022-10-30T02:35:54Z,2022-10-30T02:35:54Z,0,0,main,[],,0,0,1,0,5,1,0,0,0,[],0,0,0,0
+LawrenceQuarshie/100DaysOfJavaScript,100DaysOfJavaScript,LawrenceQuarshie,User,2022-11-07T04:07:38Z,2023-02-10T12:00:23Z,0,0,main,[],HTML,0,0,1,0,53,1,0,0,0,['HTML'],0,0,0,0
+LawrenceQuarshie/100DaysOfPython,100DaysOfPython,LawrenceQuarshie,User,2022-11-08T00:27:04Z,2022-11-08T02:47:17Z,0,0,main,[],Python,0,0,1,0,78,1,0,0,0,['Python'],0,0,0,0
+LawrenceQuarshie/TestMATLAB,TestMATLAB,LawrenceQuarshie,User,2022-11-12T22:20:52Z,2022-11-12T22:54:23Z,0,0,main,[],MATLAB,0,0,1,0,50,1,0,0,0,"['MATLAB', 'M']",0,0,0,0
+LeelakumarPS/dummy_repo,dummy_repo,LeelakumarPS,User,2023-02-03T14:13:48Z,2023-02-03T14:13:48Z,0,0,main,[],,0,0,1,0,2,1,0,0,0,[],0,0,0,0
+SOCI/soci,soci,SOCI,Organization,2011-11-09T01:49:49Z,2023-02-17T02:36:14Z,431,1195,master,"['boost', 'cplusplus', 'database-library', 'db2', 'firebird', 'mysql', 'odbc', 'oracle', 'postgresql', 'sqlite3']",C++,126,4,6,25,2973,97,0,0,96,"['C++', 'CMake', 'Ada', 'Shell', 'HTML', 'C']",357,483,541,545
+Litome/test,test,Litome,User,2014-05-16T16:36:46Z,2014-05-16T16:36:46Z,0,0,master,[],,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+Litome/unwindSegue,unwindSegue,Litome,User,2014-09-24T20:21:26Z,2015-03-05T15:14:16Z,0,0,master,[],Objective-C,0,0,1,0,4,1,0,0,0,['Objective-C'],0,0,0,0
+fastlane-community/fastlane-plugin-validate_app,fastlane-plugin-validate_app,fastlane-community,Organization,2018-01-20T20:29:04Z,2021-08-27T21:13:12Z,3,16,master,"['fastlane', 'fastlane-plugin', 'ios', 'itunes-connect', 'macos', 'tvos', 'validation']",Ruby,1,0,1,5,32,2,0,0,0,['Ruby'],1,2,8,8
+fastlane/fastlane,fastlane,fastlane,Organization,2014-12-02T17:00:38Z,2023-02-19T08:22:19Z,5413,36458,master,"['android', 'apps', 'automation', 'deployment', 'fastlane', 'hacktoberfest', 'hacktoberfest2021', 'ios', 'mobile', 'ruby', 'screenshots']",Ruby,212,129,163,1278,16400,752,529,1,1247,"['Ruby', 'Swift', 'HTML', 'Objective-C', 'Java', 'Shell']",12236,12448,6994,7123
+azure-rtos/threadx,threadx,azure-rtos,Organization,2020-05-11T15:07:59Z,2023-02-19T08:04:48Z,527,1591,master,"['azure-rtos', 'embedded', 'iot', 'mcu', 'microcontroller', 'real-time', 'rtos']",C,18,2,8,16,100,123,16,0,9,"['C', 'Assembly', 'Batchfile']",179,197,29,31
+home-assistant-libs/python-matter-server,python-matter-server,home-assistant-libs,Organization,2022-05-24T18:04:32Z,2023-02-16T17:19:01Z,25,119,main,['matter'],Python,18,4,3,23,279,15,22,0,11,"['Python', 'Shell']",48,66,140,144
+jmmb13/vim_config,vim_config,jmmb13,User,2022-08-25T08:24:57Z,2022-08-25T08:24:57Z,0,0,main,[],,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+jmmb13/tmux.conf,tmux.conf,jmmb13,User,2022-09-05T08:44:48Z,2022-09-05T08:44:48Z,0,0,main,[],,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+nestlabs/nlio,nlio,nestlabs,Organization,2017-06-29T17:27:21Z,2023-01-28T05:27:14Z,9,2,master,[],C++,0,0,1,12,64,9,0,0,2,"['C++', 'C', 'Makefile', 'M4', 'Shell']",1,1,18,18
+google/comprehensive-rust,comprehensive-rust,google,Organization,2022-12-21T15:17:24Z,2023-02-19T15:33:10Z,422,9258,main,"['classroom', 'course', 'guide', 'rust', 'training-materials']",Rust,37,30,19,0,500,58,0,0,70,"['Rust', 'Handlebars', 'JavaScript', 'Shell', 'C', 'Python']",31,68,332,362
+falay/CrackOpenSSLKey,CrackOpenSSLKey,falay,User,2016-04-06T03:50:56Z,2022-12-30T16:49:16Z,2,6,master,[],C++,0,0,1,0,4,2,0,0,0,"['C++', 'Shell', 'Makefile']",0,0,0,0
+falay/Index-Calculus-attack-for-ECDLP-on-binary-curve,Index-Calculus-attack-for-ECDLP-on-binary-curve,falay,User,2016-12-05T06:44:51Z,2022-11-27T23:32:31Z,0,3,master,[],Python,0,0,1,0,1,2,0,0,0,['Python'],0,0,0,0
+falay/SHA3,SHA3,falay,User,2016-02-29T14:05:21Z,2016-06-13T10:52:58Z,0,0,master,[],C++,0,0,1,0,12,2,0,0,0,"['C++', 'Shell', 'Makefile']",0,0,0,0
+falay/hwGradingTool,hwGradingTool,falay,User,2016-04-01T16:59:23Z,2016-04-01T17:03:40Z,0,0,master,[],Shell,0,0,2,0,5,2,0,0,0,['Shell'],0,0,0,0
+falay/Simple-Shell,Simple-Shell,falay,User,2016-05-09T06:20:41Z,2016-05-09T06:24:43Z,0,0,master,[],C++,0,0,1,0,4,2,0,0,0,"['C++', 'Makefile']",0,0,0,0
+falay/Simple-Web-Server,Simple-Web-Server,falay,User,2016-06-04T15:14:30Z,2016-06-04T15:17:22Z,0,0,master,[],C++,0,0,1,0,1,3,0,0,0,"['C++', 'HTML', 'Makefile', 'Perl']",0,0,0,0
+iogorodov/odometer,odometer,iogorodov,User,2014-12-23T18:54:03Z,2014-12-23T19:06:30Z,738,0,master,[],CSS,0,0,4,15,267,2,0,0,0,[],0,0,0,0
+mikaelhm/MTS-LaTeX-Arrows,MTS-LaTeX-Arrows,mikaelhm,User,2013-02-12T09:30:07Z,2016-02-14T22:58:34Z,0,3,master,[],,0,0,1,0,20,2,0,0,0,[],0,0,0,0
+mikaelhm/GeoApp,GeoApp,mikaelhm,User,2011-03-29T20:44:17Z,2014-05-21T16:09:12Z,0,2,master,[],,0,0,1,0,2,3,0,0,0,[],0,0,0,0
+mikaelhm/VeT-ller,VeT-ller,mikaelhm,User,2011-03-30T08:05:04Z,2013-10-22T16:07:42Z,0,1,master,[],JavaScript,0,0,1,0,4,2,0,0,0,['JavaScript'],0,0,0,0
+mikaelhm/cheerBot,cheerBot,mikaelhm,User,2014-03-09T20:43:53Z,2014-08-12T20:37:21Z,1,1,master,[],JavaScript,0,0,1,0,10,3,0,0,0,['JavaScript'],0,0,1,1
+mikaelhm/angular-countdown-timer,angular-countdown-timer,mikaelhm,User,2014-10-27T20:59:39Z,2014-10-27T21:22:07Z,0,1,master,[],,1,0,1,0,10,2,0,0,0,[],1,2,0,0
+oidebrett/PythonTraining,PythonTraining,oidebrett,User,2018-05-19T12:20:28Z,2022-12-03T11:01:04Z,0,1,master,[],HTML,0,0,1,0,20,0,0,0,0,"['HTML', 'Python']",0,0,0,0
+oidebrett/lccswebsites,lccswebsites,oidebrett,User,2019-08-19T14:18:10Z,2019-08-19T14:39:06Z,0,0,master,[],HTML,0,0,1,0,12,0,0,0,0,['HTML'],0,0,0,0
+Co-Epi/coepi-backend-aws,coepi-backend-aws,Co-Epi,Organization,2020-04-06T01:06:53Z,2020-05-26T08:39:53Z,14,4,master,[],Kotlin,9,0,4,0,77,5,0,0,0,[],9,18,17,17
+getmoto/moto,moto,getmoto,Organization,2013-02-18T21:10:59Z,2023-02-17T15:04:10Z,1797,6652,master,"['aws', 'boto', 'ec2', 's3']",Python,51,13,5,190,7340,66,0,0,875,"['Python', 'HTML', 'Shell', 'Jinja', 'Makefile', 'Java']",2253,2304,3630,3643
+oidebrett/S3-Object-Lambda,S3-Object-Lambda,oidebrett,User,2021-03-20T08:37:46Z,2021-03-20T08:42:22Z,0,0,main,[],,0,0,1,0,3,1,0,0,0,[],0,0,0,0
+mrroberts-mslt/Computer-Science-for-Leaving-Certificate-Solutions,Computer-Science-for-Leaving-Certificate-Solutions,mrroberts-mslt,User,2021-08-23T08:40:09Z,2023-01-22T19:47:35Z,11,12,main,[],Python,0,0,1,0,163,2,0,0,2,"['Python', 'HTML', 'JavaScript', 'PHP', 'CSS']",0,0,0,0
+ElanDriver/Sparrow,Sparrow,ElanDriver,User,2018-03-05T09:43:54Z,2018-07-11T15:11:35Z,1,0,master,[],C,0,0,2,0,26,1,0,0,3,"['C', 'Assembly', 'C++', 'Objective-C', 'Makefile', 'Perl']",0,0,0,0
+ritikananda27/prepleetcode,prepleetcode,ritikananda27,User,2019-01-20T00:58:15Z,2019-06-16T20:35:21Z,0,0,master,[],Java,0,0,1,0,50,1,0,0,0,"['Java', 'Kotlin']",0,0,0,0
+ritikananda27/UnidirectionalExample,UnidirectionalExample,ritikananda27,User,2019-03-08T19:15:48Z,2019-03-08T23:50:17Z,0,0,master,[],Kotlin,0,0,1,0,6,2,0,0,0,"['Kotlin', 'Java']",0,0,0,0
+Rob-Houtepen-Signify/test_enter_issue,test_enter_issue,Rob-Houtepen-Signify,User,2021-01-28T16:56:41Z,2021-01-28T16:56:41Z,0,0,main,[],,453,0,0,0,0,0,0,0,0,[],0,453,0,0
+robertfarnum/MyBeacon,MyBeacon,robertfarnum,User,2022-10-17T14:42:20Z,2022-11-08T14:13:18Z,0,1,main,[],Kotlin,0,0,1,0,6,1,0,0,0,['Kotlin'],0,0,0,0
+brentley/ecsdemo-platform,ecsdemo-platform,brentley,User,2018-01-17T22:37:32Z,2021-11-21T21:50:00Z,2430,36,master,"['ecs', 'ecs-cluster', 'ecs-service']",Shell,1,0,6,0,13,6,0,0,2,['Shell'],1,2,3,3
+brentley/ecsdemo-frontend,ecsdemo-frontend,brentley,User,2017-12-26T21:52:27Z,2023-02-15T00:08:06Z,2654,91,main,"['ecs', 'ecs-cluster', 'ecs-service', 'eks', 'kubernetes', 'kubernetes-deployment', 'rails']",Ruby,6,5,14,4,78,7,2,0,7,"['Ruby', 'HTML', 'Shell', 'Python', 'Dockerfile', 'CSS', 'JavaScript']",0,6,24,29
+brentley/ecsdemo-nodejs,ecsdemo-nodejs,brentley,User,2018-01-04T19:04:53Z,2023-02-15T00:08:19Z,3683,69,master,"['ecs', 'ecs-cluster', 'ecs-service', 'node', 'nodejs']",Shell,1,2,8,0,36,4,0,0,6,"['Shell', 'Python', 'JavaScript', 'Dockerfile']",0,1,15,17
+brentley/ecsdemo-crystal,ecsdemo-crystal,brentley,User,2018-02-09T18:02:27Z,2023-02-15T00:08:13Z,2444,56,master,"['ecs', 'ecs-cluster', 'ecs-service']",Shell,1,1,5,0,36,6,0,0,4,"['Shell', 'Python', 'Crystal', 'Dockerfile']",0,1,10,11
+robertfarnum/hello,hello,robertfarnum,User,2018-10-12T15:45:52Z,2018-10-12T15:56:05Z,0,0,master,[],Go,0,0,1,0,5,0,0,0,0,['Go'],0,0,0,0
+jgke/gnome-extension-connman,gnome-extension-connman,jgke,User,2015-05-26T11:24:34Z,2023-01-28T05:43:22Z,3,5,master,[],JavaScript,5,1,1,3,141,2,2,0,2,"['JavaScript', 'CSS', 'Makefile', 'M4', 'Shell']",2,7,2,3
+ConnectSDK/Connect-SDK-Android-API-Sampler,Connect-SDK-Android-API-Sampler,ConnectSDK,Organization,2014-02-03T21:06:49Z,2022-04-26T04:59:40Z,21,15,master,[],Java,21,2,3,11,170,12,0,0,10,['Java'],9,30,17,19
+ConnectSDK/Connect-SDK-Cordova-API-Sampler,Connect-SDK-Cordova-API-Sampler,ConnectSDK,Organization,2014-02-24T21:43:47Z,2020-10-15T10:46:36Z,5,5,master,[],JavaScript,2,0,6,1,39,12,1,0,4,"['JavaScript', 'CSS', 'HTML']",3,5,1,1
+ConnectSDK/Connect-SDK-Cordova-Plugin,Connect-SDK-Cordova-Plugin,ConnectSDK,Organization,2014-04-17T00:50:09Z,2020-10-15T10:40:48Z,47,66,master,[],JavaScript,40,9,15,8,119,21,7,0,8,"['JavaScript', 'Java', 'Objective-C']",17,57,21,30
+ConnectSDK/Connect-SDK-Android-Core,Connect-SDK-Android-Core,ConnectSDK,Organization,2014-08-14T21:45:58Z,2023-02-08T06:21:55Z,71,101,master,[],Java,15,11,16,7,391,26,2,0,14,['Java'],10,25,103,114
+ConnectSDK/Connect-SDK-Android,Connect-SDK-Android,ConnectSDK,Organization,2014-04-10T21:04:49Z,2023-01-26T19:10:39Z,122,248,master,[],Java,99,4,4,25,517,35,16,0,15,['Java'],272,371,22,26
+yhoyoon/yhoyoon.github.io,yhoyoon.github.io,yhoyoon,User,2021-02-02T10:02:46Z,2021-04-15T10:01:33Z,0,0,main,[],HTML,0,0,1,0,4,1,0,0,0,"['HTML', 'JavaScript', 'CSS']",0,0,0,0
+SmartThingsCommunity/SmartThingsEdgeDrivers,SmartThingsEdgeDrivers,SmartThingsCommunity,Organization,2021-07-30T20:34:27Z,2023-02-16T01:49:21Z,276,141,main,[],Lua,46,58,66,11,655,61,11,0,31,"['Lua', 'Python']",11,57,462,520
+pigletz2/br2_pi2,br2_pi2,pigletz2,User,2019-07-22T12:50:24Z,2019-07-22T12:50:27Z,0,0,master,[],,0,0,1,0,1,0,0,0,0,[],0,0,0,0
+grpc/grpc,grpc,grpc,Organization,2014-12-08T18:58:53Z,2023-02-19T14:25:28Z,9755,37060,master,[],C++,594,213,224,283,52628,1400,236,0,791,"['C++', 'Python', 'C', 'Starlark', 'Shell', 'Objective-C']",10026,10620,21322,21535
+Freescale/fsl-community-bsp-base,fsl-community-bsp-base,Freescale,Organization,2012-05-27T20:27:19Z,2022-02-09T02:51:28Z,54,26,master,[],Shell,0,0,23,11,79,18,0,0,13,['Shell'],6,6,12,12
+SiliconLabs/cpc-daemon,cpc-daemon,SiliconLabs,Organization,2021-05-07T16:50:15Z,2023-02-03T12:23:56Z,7,18,main,[],C,0,0,5,13,22,10,11,0,0,"['C', 'CMake', 'Rust', 'Python']",7,7,7,7
+crlonxp/meta-matter,meta-matter,crlonxp,User,2022-05-13T09:51:36Z,2022-08-11T08:53:30Z,0,0,main,[],,0,0,1,0,1,0,0,0,0,[],0,0,0,0
+nxptest/connectedhomeip,connectedhomeip,nxptest,User,2022-04-29T06:14:59Z,2022-05-04T07:39:55Z,1300,0,master,[],C++,0,0,46,20,10068,0,0,0,0,[],0,0,0,0
+hidaris/thingtalk,thingtalk,hidaris,User,2020-03-04T13:57:14Z,2023-01-15T15:46:57Z,4,18,main,"['asyncio', 'fastapi', 'iot', 'web-of-things', 'webthings']",Python,7,1,4,26,138,4,25,0,0,"['Python', 'Emacs Lisp']",4,11,1,2
+hidaris/thinking-dumps,thinking-dumps,hidaris,User,2017-02-28T11:30:13Z,2023-02-07T15:40:26Z,0,6,master,[],Racket,0,0,1,0,81,1,0,0,0,"['Racket', 'Scheme', 'Go', 'Coq', 'Standard ML', 'Java']",0,0,0,0
+hidaris/webthing-nlp,webthing-nlp,hidaris,User,2020-05-04T23:43:02Z,2022-03-17T13:17:58Z,0,3,master,[],Python,0,0,1,0,3,1,0,0,0,['Python'],0,0,0,0
+hidaris/webthing-zigbee,webthing-zigbee,hidaris,User,2020-05-04T23:47:00Z,2022-03-17T13:17:41Z,0,3,master,"['webofthings', 'webthing', 'webthings', 'zigbee', 'zigbee2mqtt']",Python,0,0,1,0,3,1,0,0,0,['Python'],0,0,0,0
+hidaris/homeassistant-webthing,homeassistant-webthing,hidaris,User,2020-04-19T16:25:07Z,2021-10-26T04:58:33Z,0,2,master,"['home-assistant', 'homeassistant-components', 'webthings']",Python,0,0,1,0,6,1,0,0,0,['Python'],0,0,0,0
+hidaris/racket-mqtt,racket-mqtt,hidaris,User,2019-08-10T08:47:00Z,2019-11-26T09:59:39Z,0,1,master,[],Racket,0,0,1,0,1,1,0,0,0,['Racket'],0,0,0,0
+alexa-samples/alexa-oauth-sample,alexa-oauth-sample,alexa-samples,Organization,2019-05-31T17:19:19Z,2023-02-08T06:51:52Z,43,21,master,[],Java,2,0,4,0,26,5,0,0,6,"['Java', 'HTML']",0,2,9,9
+mfucci/node-matter,node-matter,mfucci,User,2022-05-23T02:11:32Z,2023-02-15T19:42:17Z,8,104,main,[],TypeScript,13,13,2,2,421,10,2,0,5,"['TypeScript', 'JavaScript']",31,44,149,162
+mfucci/keeplocal,keeplocal,mfucci,User,2022-02-09T22:11:58Z,2022-02-22T23:09:32Z,0,0,main,[],TypeScript,0,1,3,0,105,2,0,0,2,"['TypeScript', 'JavaScript']",0,0,5,6
+TrustedPlus/dhcp,dhcp,TrustedPlus,Organization,2016-12-28T12:41:07Z,2021-12-29T08:05:44Z,7,6,master,['dhcp'],TypeScript,4,10,10,2,52,7,1,0,4,"['TypeScript', 'JavaScript']",0,4,7,17
+mfucci/vendor-lookup,vendor-lookup,mfucci,User,2022-02-19T06:42:16Z,2022-02-21T15:54:55Z,0,0,main,[],TypeScript,0,0,1,0,32,1,0,0,0,['TypeScript'],0,0,0,0
+project-chip/matter.js,matter.js,project-chip,Organization,2022-11-04T22:38:14Z,2023-02-11T18:00:33Z,4,32,main,[],TypeScript,2,3,3,0,124,8,0,0,3,"['TypeScript', 'JavaScript']",0,2,47,50
+userver-framework/userver,userver,userver-framework,Organization,2021-12-16T14:06:27Z,2023-02-18T19:05:52Z,124,1530,develop,"['async', 'asynchronous', 'coroutines', 'cplusplus', 'cplusplus-17', 'cpp17', 'database-access', 'framework', 'grpc', 'high-availability', 'http', 'http-client', 'http-server', 'microservices', 'mongo', 'postgres', 'postgresql', 'redis', 'server', 'web']",C++,55,19,8,0,3351,34,0,0,36,"['C++', 'Python', 'CMake', 'Assembly', 'C', 'JavaScript']",43,98,135,154
+shripad621git/cv,cv,shripad621git,User,2022-02-18T08:22:30Z,2022-02-18T08:25:03Z,0,0,main,[],HTML,0,0,1,0,2,1,0,0,0,['HTML'],0,0,0,0
+shripad621git/Story,Story,shripad621git,User,2022-02-24T08:45:32Z,2022-12-06T06:52:48Z,0,0,master,[],Java,0,0,1,0,28,1,0,0,0,"['Java', 'Python']",0,0,0,0
+shripad621git/OEP,OEP,shripad621git,User,2022-03-11T08:39:37Z,2022-03-11T08:39:37Z,0,0,main,[],,0,0,2,0,1,1,0,0,0,[],0,0,0,0
+shripad621git/UOS,UOS,shripad621git,User,2022-05-17T12:29:12Z,2022-05-17T12:29:12Z,0,0,main,[],,0,0,1,0,1,1,0,0,0,[],0,0,0,0
+shripad621git/UPrograms,UPrograms,shripad621git,User,2022-05-18T05:56:43Z,2022-05-18T05:59:02Z,0,0,main,[],C,0,0,1,0,2,1,0,0,0,"['C', 'Java', 'Shell', 'Python']",0,0,0,0
+shripad621git/DM-LAB,DM-LAB,shripad621git,User,2022-09-09T05:29:28Z,2022-09-09T05:31:56Z,0,0,main,[],Java,0,0,1,0,10,1,0,0,0,"['Java', 'C++']",0,0,0,0
+cabin15/webos-ose-ndk,webos-ose-ndk,cabin15,User,2022-01-26T01:07:36Z,2022-01-26T01:07:36Z,0,0,main,[],,0,0,1,0,7,1,0,0,0,[],0,0,0,0
+sungho1shin/connectedhomeip,connectedhomeip,sungho1shin,User,2021-12-16T01:19:26Z,2022-03-29T10:39:59Z,1300,0,master,[],C++,0,1,23,12,8305,0,0,0,0,[],40,40,40,41
+whisper2chen/ebook,ebook,whisper2chen,User,2019-07-17T09:33:40Z,2019-07-20T08:38:56Z,0,0,master,[],,0,0,1,0,5,0,0,0,0,[],0,0,0,0
+whisper2chen/setup,setup,whisper2chen,User,2019-07-25T09:30:20Z,2020-03-13T01:04:13Z,0,0,master,[],,0,0,1,0,18,0,0,0,0,[],0,0,0,0
+whisper2chen/snippets,snippets,whisper2chen,User,2019-07-25T09:59:22Z,2020-05-25T10:16:56Z,0,0,master,[],C,0,0,1,0,9,0,0,0,0,"['C', 'Makefile', 'C++', 'Objective-C']",0,0,0,0
+whisper2chen/nvim,nvim,whisper2chen,User,2019-08-11T13:05:58Z,2020-03-31T02:36:58Z,0,0,master,[],Vim script,0,0,1,0,10,1,0,0,0,['Vim Script'],0,0,0,0
+whisper2chen/notebook,notebook,whisper2chen,User,2019-08-29T08:12:51Z,2020-03-12T02:20:44Z,0,0,master,[],,0,0,1,0,10,1,0,0,0,[],0,0,0,0
+gozfree/gear-lib,gear-lib,gozfree,User,2015-08-07T12:41:05Z,2023-02-18T13:05:05Z,750,2631,master,"['async', 'embedded-c', 'event', 'iot', 'ipc', 'multi-media', 'posix', 'rtmp', 'rtsp', 'thread', 'v4l2']",C,10,0,1,23,707,219,10,0,11,"['C', 'Makefile', 'CMake', 'C++', 'Python', 'Shell']",49,59,25,25
+wahajsyed/embedded-systems-kernel,embedded-systems-kernel,wahajsyed,User,2015-02-20T23:02:34Z,2015-02-22T04:26:14Z,0,0,master,[],C,0,0,1,0,6,2,0,0,0,"['C', 'Assembly', 'C++', 'Makefile']",0,0,0,0
+wahajsyed/nqueens,nqueens,wahajsyed,User,2015-02-22T05:06:03Z,2015-02-22T06:21:38Z,0,0,master,[],C,0,0,1,0,3,2,0,0,0,['C'],0,0,0,0
